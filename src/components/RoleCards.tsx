@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Grid, Card, CardContent, CardMedia, Typography, Chip, Box, Button } from '@mui/material';
-import { Visibility, Person, Build } from '@mui/icons-material';
+import { Search, Person, Build } from '@mui/icons-material';
 import RoleModal from './RoleModal';
 
 interface Role {
@@ -17,7 +17,7 @@ interface Role {
 const roles: Role[] = [
   {
     title: 'Guest',
-    icon: <Visibility sx={{ fontSize: 40 }} />,
+    icon: <Search sx={{ fontSize: 40 }} />,
     color: '#757575',
     description: 'Check out our footballing delights at your leisure.',
     features: ['Browse all games', 'See venues and times', 'No account needed'],
