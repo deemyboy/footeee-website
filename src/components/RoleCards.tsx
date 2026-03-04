@@ -23,7 +23,8 @@ const roles: Role[] = [
     features: ['Browse all games', 'See venues and times', 'No account needed'],
     screenshot: '/images/guest-list.png',
     chipColor: 'default',
-    longDescription: 'Browse all upcoming games, see venue details, and check player availability – all without an account. Perfect for casual fans.',
+    longDescription:
+      'Browse all upcoming games, see venue details, and check player availability – all without an account. Perfect for casual fans.',
   },
   {
     title: 'Player',
@@ -33,7 +34,8 @@ const roles: Role[] = [
     features: ['Join games instantly', 'Track your squads', 'Get notifications'],
     screenshot: '/images/player-detail.png',
     chipColor: 'secondary',
-    longDescription: 'Join games with one tap, see who else is playing, and receive notifications when a spot opens up or a game is about to start.',
+    longDescription:
+      'Join games with one tap, see who else is playing, and receive notifications when a spot opens up or a game is about to start.',
   },
   {
     title: 'Manager',
@@ -43,7 +45,8 @@ const roles: Role[] = [
     features: ['Create and manage games', 'Organise squads', 'Full control'],
     screenshot: '/images/manager-dashboard.png',
     chipColor: 'primary',
-    longDescription: 'Full control over games, squads, and players. Create games, assign squads, track attendance, and manage your football community.',
+    longDescription:
+      'Full control over games, squads, and players. Create games, assign squads, track attendance, and manage your football community.',
   },
 ];
 
@@ -60,21 +63,20 @@ const RoleCards: React.FC = () => {
     setModalOpen(false);
     setSelectedRole(null);
   };
-
   return (
-      <>
+    <>
       <style>{`
-        @media (min-width: 900px) {
-          #role-cards-grid > div {
-            flex-basis: calc(33.333% - 32px) !important;
-            max-width: calc(33.333% - 32px) !important;
-          }
+      @media (min-width: 900px) {
+        #role-cards-grid > div {
+          flex-basis: calc(33.333% - 32px) !important;
+          max-width: calc(33.333% - 32px) !important;
         }
-      `}</style>
+      }
+    `}</style>
 
       <Grid container spacing={4} sx={{ mt: 4 }} id="role-cards-grid">
         {roles.map((role) => (
-          <Grid item xs={12} md={4} key={role.title}>
+          <Grid size={{ xs: 12, md: 4 }} key={role.title}>
             <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
               <CardMedia
                 component="img"
@@ -90,9 +92,11 @@ const RoleCards: React.FC = () => {
                     {role.title}
                   </Typography>
                 </Box>
+
                 <Typography variant="body1" color="text.secondary" paragraph>
                   {role.description}
                 </Typography>
+
                 <Box sx={{ mt: 2 }}>
                   {role.features.map((feature) => (
                     <Chip
@@ -106,6 +110,7 @@ const RoleCards: React.FC = () => {
                   ))}
                 </Box>
               </CardContent>
+
               <Box sx={{ p: 2, pt: 0 }}>
                 <Button variant="outlined" color="primary" fullWidth onClick={() => handleOpenModal(role)}>
                   See {role.title} view
@@ -115,6 +120,7 @@ const RoleCards: React.FC = () => {
           </Grid>
         ))}
       </Grid>
+
       <RoleModal open={modalOpen} onClose={handleCloseModal} role={selectedRole} />
     </>
   );
