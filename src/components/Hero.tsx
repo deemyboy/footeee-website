@@ -21,18 +21,26 @@ const Hero: React.FC = () => {
     >
       <Container maxWidth="lg">
         <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center' }}>
-          <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4, mb: 4, flexWrap: 'wrap' }}>
+          <Box
+            sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4, mb: 4, flexWrap: 'wrap' }}
+          >
             <Box
               component="img"
               src="/images/website-banner.png"
               alt="Footeee logo"
-              sx={{ width: { xs: 360, md: 576 }, height: 'auto' }}
+              sx={{ width: { xs: 360, md: 576 }, height: 'auto', filter: 'drop-shadow(0px 6px 8px rgba(0,0,0,0.65))' }}
             />
             <Box
               component="img"
               src="/images/hero-preview.png"
               alt="Footeee app preview"
-              sx={{ width: { xs: 100, md: 120 }, height: 'auto', borderRadius: 4, boxShadow: 4 }}
+              sx={{
+                width: { xs: 100, md: 120 },
+                height: 'auto',
+                borderRadius: 4,
+                boxShadow: 4,
+                filter: 'drop-shadow(0px 6px 8px rgba(0,0,0,0.65))',
+              }}
             />
           </Box>
           <Typography variant="h4" component="p" sx={{ mb: 4, fontWeight: 400, opacity: 0.9 }}>
