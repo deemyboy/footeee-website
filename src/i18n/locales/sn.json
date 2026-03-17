@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Bata kamwe uwane mutambo wako unotevera.",
+    "download": "Dhawunirodha app (iri kuuya)",
+    "learnMore": "Dzidza zvimwe"
+  },
+  "roles": {
+    "heading": "App imwe kune munhu wese",
+    "subheading": "Kana uchida kungoona, kupinda mumutambo, kana kutungamira – Footeee inokubatsira.",
+    "seeView": "Ona maonero e{{role}}",
+    "experience": "Ruzivo rwe{{role}}",
+    "guest": {
+      "title": "Muenzi",
+      "description": "Ona zvinhu zvakanaka zvebhora pahusiku hwako.",
+      "longDescription": "Ona mitambo yose iri kuuya, mashoko enzvimbo, uye vatambi varipo – zvose pasina akaunti. Zvakanakira vanoda bhora.",
+      "feature1": "Ona mitambo yose",
+      "feature2": "Ona nzvimbo nenguva",
+      "feature3": "Hapana akaunti inodiwa"
+    },
+    "player": {
+      "title": "Mutambi",
+      "description": "Mutambo wako unotevera uri mumaminitsi mashoma chete!",
+      "longDescription": "Pinda mumitambo nekubata kamwe, ona kuti ndiani ari kutamba, uye gamuchira mashoko kana nzvimbo yavhurika kana mutambo wava kutanga.",
+      "feature1": "Pinda mumitambo nekukurumidza",
+      "feature2": "Tevera matimu ako",
+      "feature3": "Gashira mashoko"
+    },
+    "manager": {
+      "title": "Mutungamiri",
+      "description": "Rega Footeee ichengetedze nyika yako yebhora!",
+      "longDescription": "Kutonga kwakakwana kwemitambo, matimu, nevatambi. Gadzira mitambo, sarudza matimu, tevera kuuya, uye tungamira nharaunda yako yebhora.",
+      "feature1": "Gadzira uye tungamira mitambo",
+      "feature2": "Ronga matimu",
+      "feature3": "Kutonga kwakakwana"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Kodzero dzose dzakachengetedzwa.",
+    "quickLinks": "Zvinongedzo zvekukurumidza",
+    "about": "Nezvazvo",
+    "features": "Zvinhu",
+    "privacy": "Kuchengetedzwa",
+    "download": "Dhawunirodha",
+    "availableOn": "Inowanikwa pa iOS ne Android"
+  },
+  "privacy": {
+    "title": "Mutemo wekuchengetedzwa",
+    "lastUpdated": "Yakagadziridzwa kupedzisira: {{date}}",
+    "intro": "Footeee (\"isu\", \"yedu\") inoshandisa app yeFooteee yefoni (\"App\") newebhusaiti iyi. Mutemo uyu wekuchengetedzwa unotsanangura mashandisirwo anoitwa neni pakuunganidza, kushandisa, kugoverana, uye kuchengetedza mashoko ako paunenge uchishandisa App nemasevhisi anoenderana nayo.",
+    "section1Title": "1. Mashoko atinoUnganidza",
+    "section1Intro": "Tinogona kuunganidza mashoko anotevera:",
+    "section1Item1": "Mashoko eakaunti (somuenzaniso: zita, kero ye-imeyiri, mashoko ekupinda akachengetedzwa).",
+    "section1Item2": "Mashoko ekushandisa app (somuenzaniso: mitambo yaunogadzira/yaupinda, matimu, nzvimbo, nezvimwe).",
+    "section1Item3": "Mashoko echigadzirwa/etekinoroji (somuenzaniso: rudzi rwechigadzirwa, vhezheni yeOS, vhezheni yeapp, zvekuongorora).",
+    "section2Title": "2. Mashandisirwo atinoita Mashoko Ako",
+    "section2Item1": "Kugadzira nekutungamira akaunti yako.",
+    "section2Item2": "Kupa masevhisi akuru akaita sekugadzira mitambo, kupinda, nekutungamira matimu.",
+    "section2Item3": "Kupa rubatsiro nekupindura zvikumbiro.",
+    "section2Item4": "Kuvandudza kushanda, simba, neruzivo rwemushandisi.",
+    "section2Item5": "Kuchengetedza kuchengeteka nekuvimbika kwemasevhisi edu.",
+    "section2NoSell": "Hatitengi mashoko ako ega.",
+    "section3Title": "3. Kugoverana nekuratidza",
+    "section3Text": "Tinogona kugoverana mashoko chete sezvinodiwa kuti sevhisi ishande, kutevera mitemo, kana kuchengetedza kodzero nekuchengeteka. Somuenzaniso, tinogona kushandisa vatariri veinfurasitiraikucha (kuhodha, imeyiri, nezvimwe) vanoshandisa mashoko pamusoro pedu nekuchengetedzwa kwakakodzera.",
+    "section4Title": "4. Kuchengeta nekuchengetedza Mashoko",
+    "section4Text": "Tinoshandisa nzira dzakanaka dzetekinoroji nekuronga kuchengetedza mashoko ako (somuenzaniso: HTTPS, kutonga kupinda). Hapana nzira yekutumira kana kuchengeta iri 100% yakachengeteka, saka hatigoni kuvimbisa kuchengeteka kuzere.",
+    "section5Title": "5. Nguva yekuchengeta Mashoko",
+    "section5Text": "Tinochengeta mashoko ega chero bedzi zvichidiwa kuti sevhisi ipihwe uye nezvikonzero zvakakodzera zvebhizinesi (somuenzaniso: kutevera mitemo, kuchengeteka, kugadzirisa nharo), kunze kwekuti mutemo unosunungura nguva yakareba.",
+    "section6Title": "6. Kodzero dzako",
+    "section6Text": "Zvichibva panzvimbo yako (kusanganisira UK/EU), unogona kuva nekodzero yekuwana, kugadzirisa, kudzima, kana kudzivisa kushandiswa kwemashoko ako ega, uye kukumbira kufambiswa. Kuti ushandise kodzero idzi, tibate.",
+    "section7Title": "7. Kuchengetedzwa kwevana",
+    "section7Text": "Footeee haisi yevana vari pasi pemakore 13. Hatiiti nemaune kuunganidza mashoko ega evana vari pasi pemakore 13.",
+    "section8Title": "8. Shanduko kumutemo uyu",
+    "section8Text": "Tinogona kugadzirisa mutemo uyu panguva nenguva. Shanduko dzinoiswa papeji iyi nezuva idzva re\"Yakagadziridzwa kupedzisira\".",
+    "contactTitle": "Tibatei",
+    "contactEmail": "Imeyiri:",
+    "contactWebsite": "Webhusaiti:"
+  },
+  "deleteData": {
+    "title": "Dzima Mashoko Angu",
+    "description": "Une kodzero yekukumbira kudzimwa kweakaunti yako nemashoko ega anoenderana nayo. Tinoita zvikumbiro mumazuva 30.",
+    "successMessage": "Chikumbiro chako chagadzirwa. Tumira imeyiri yakavhurwa muapp yako ye-imeyiri. Tichazviita mumazuva 30.",
+    "emailLabel": "Imeyiri yakabatanidzwa neakaunti yako",
+    "usernameLabel": "Zita rekushandisa (hazvisungirwi)",
+    "scopeLabel": "Unoda kuti chii chidzimwe?",
+    "scopeFull": "Zvose — dzima akaunti yangu nemashoko ose",
+    "scopeData": "Mashoko chete — chengetedza akaunti asi dzima mashoko ezvaiitwa",
+    "scopeProfile": "Profaira chete — dzima mashoko eprofaira",
+    "notesLabel": "Chimwe chinhu?",
+    "confirmLabel": "Ndinonzwisisa kuti chiito ichi hachigoni kudzoswa.",
+    "submitButton": "Tumira chikumbiro",
+    "emailRequired": "Ndapota nyora imeyiri yakabatanidzwa neakaunti yako.",
+    "scopeFullLabel": "Kudzima akaunti yose + mashoko ose",
+    "scopeDataLabel": "Kudzima mashoko ezvaiitwa chete",
+    "scopeProfileLabel": "Kudzima mashoko eprofaira chete",
+    "notProvided": "Haina kupihwa",
+    "none": "Hapana"
+  },
+  "common": {
+    "close": "Vhara",
+    "download": "Dhawunirodha app (iri kuuya)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Tungamira",
+      "players": "Vatambi",
+      "squads": "Matimu",
+      "venues": "Nzvimbo",
+      "games": "Mitambo",
+      "recent": "Yazvino"
+    },
+    "manager": {
+      "title": "Tungamira",
+      "subtitle": "Nzvimbo yako yekushandira yemutungamiri",
+      "gamesManaged": "Mitambo inotungamirwa",
+      "squadsManaged": "Matimu anotungamirwa",
+      "playersInSquads": "Vatambi mumatimu",
+      "upcoming": "Iri kuuya",
+      "joinedGame": "{{name}} apinda mumutambo"
+    },
+    "guest": {
+      "label": "Muenzi",
+      "join": "Pinda",
+      "newGame": "Mutambo Mutsva"
+    },
+    "player": {
+      "squadsCount": "Matimu ({{count}})",
+      "upcomingGamesCount": "Mitambo Iri Kuuya ({{count}})",
+      "left": "{{count}} yasara"
+    },
+    "time": {
+      "today": "Nhasi",
+      "monday": "Muvhuro",
+      "tuesday": "Chipiri",
+      "wednesday": "Chitatu",
+      "thursday": "China",
+      "friday": "Chishanu",
+      "saturday": "Mugovera",
+      "sunday": "Svondo",
+      "at": "pa",
+      "days": "mazuva"
+    }
+  }
+}

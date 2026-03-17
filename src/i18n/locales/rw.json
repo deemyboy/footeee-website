@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Gukanda rimwe ukabona umukino ukurikira.",
+    "download": "Kuramo porogaramu (iraje vuba)",
+    "learnMore": "Menya byinshi"
+  },
+  "roles": {
+    "heading": "Porogaramu imwe ku bantu bose",
+    "subheading": "Niba ushaka kureba gusa, kwinjira mu mukino, cyangwa kuyobora – Footeee irakurinda.",
+    "seeView": "Reba ibyerekeye {{role}}",
+    "experience": "Uburambe bwa {{role}}",
+    "guest": {
+      "title": "Umushyitsi",
+      "description": "Reba ibyiza by'umupira ku bwende bwawe.",
+      "longDescription": "Reba imikino yose iri butaha, amakuru y'aho bikorerwa, n'abakinnyi bahari – byose nta konti usabwa. Birakwiriye abakunda umupira.",
+      "feature1": "Reba imikino yose",
+      "feature2": "Reba aho bikorerwa n'amasaha",
+      "feature3": "Nta konti isabwa"
+    },
+    "player": {
+      "title": "Umukinnyi",
+      "description": "Umukino wawe ukurikira uri mu minota mike gusa!",
+      "longDescription": "Injira mu mikino ukanda rimwe, reba abandi bakina, kandi ubone amakuru igihe umwanya ufunguwe cyangwa umukino ugiye gutangira.",
+      "feature1": "Injira mu mikino byihuse",
+      "feature2": "Kurikirana amakipe yawe",
+      "feature3": "Kubona amakuru"
+    },
+    "manager": {
+      "title": "Umuyobozi",
+      "description": "Reka Footeee irinde isi yawe y'umupira!",
+      "longDescription": "Kugenzura byose ku mikino, amakipe, n'abakinnyi. Kora imikino, shyiraho amakipe, kurikirana ubwitabire, kandi uyobore umuryango wawe w'umupira.",
+      "feature1": "Kora no kuyobora imikino",
+      "feature2": "Gutegura amakipe",
+      "feature3": "Kugenzura byose"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Uburenganzira bwose burarinzwe.",
+    "quickLinks": "Aho ujya vuba",
+    "about": "Ibyerekeye",
+    "features": "Ibirimo",
+    "privacy": "Ubwiru",
+    "download": "Kuramo",
+    "availableOn": "Iboneka kuri iOS na Android"
+  },
+  "privacy": {
+    "title": "Politiki y'ubwiru",
+    "lastUpdated": "Iheruka guhindurwa: {{date}}",
+    "intro": "Footeee (\"twe\", \"yacu\") ikora porogaramu ya Footeee yo kuri telefoni (\"Porogaramu\") n'uru rubuga. Iyi politiki y'ubwiru isobanura uko dukusanya, dukoresha, dutanga, kandi turinda amakuru yawe igihe ukoresha Porogaramu n'ibindi bikorwa bijyanye.",
+    "section1Title": "1. Amakuru dukusanya",
+    "section1Intro": "Dushobora gukusanya amakuru akurikira:",
+    "section1Item1": "Amakuru ya konti (urugero: izina, aderesi ya imeyili, amakuru yo kwinjira mu buryo bwizewe).",
+    "section1Item2": "Amakuru yo gukoresha porogaramu (urugero: imikino ukora/winjiramo, amakipe, aho bikorerwa, n'ibikorwa).",
+    "section1Item3": "Amakuru ya igikoresho/ikoranabuhanga (urugero: ubwoko bw'igikoresho, verisiyo ya OS, verisiyo ya porogaramu, ibipimo).",
+    "section2Title": "2. Uko dukoresha amakuru yawe",
+    "section2Item1": "Gukora no kuyobora konti yawe.",
+    "section2Item2": "Gutanga serivisi z'ibanze nko gukora imikino, kwinjira, no kuyobora amakipe.",
+    "section2Item3": "Gutanga ubufasha no gusubiza ibibazo.",
+    "section2Item4": "Kunoza imikorere, ubushobozi, n'uburambe bw'umukoresha.",
+    "section2Item5": "Kurinda umutekano n'ubudahemuka bya serivisi zacu.",
+    "section2NoSell": "Ntidugurisha amakuru yawe bwite.",
+    "section3Title": "3. Gusangira no gutanga",
+    "section3Text": "Dushobora gusangira amakuru gusa igihe bisabwa kugira serivisi ikore, gukurikiza amategeko, cyangwa kurinda uburenganzira n'umutekano. Urugero, dushobora gukoresha abatanga ibikorwa remezo (hosting, imeyili, n'ibindi) bakora amakuru ku izina ryacu mu buryo bwizewe.",
+    "section4Title": "4. Kubika no kurinda amakuru",
+    "section4Text": "Dukoresha uburyo bwiza bw'ikoranabuhanga n'imiterere yo kurinda amakuru yawe (urugero: HTTPS, kugenzura ubwinjire). Nta buryo bwo kohereza cyangwa kubika buri gihe bwizewe 100%, bityo ntidushobora kwemeza umutekano wuzuye.",
+    "section5Title": "5. Igihe cyo kubika amakuru",
+    "section5Text": "Tubika amakuru bwite igihe cyose bisabwa kugira serivisi itangwe kandi ku mpamvu zemewe z'ubucuruzi (urugero: gukurikiza amategeko, umutekano, gukemura amakimbirane), keretse amategeko asaba igihe kirekire.",
+    "section6Title": "6. Uburenganzira bwawe",
+    "section6Text": "Dukurikije aho uherereye (harimo UK/EU), ushobora kuba ufite uburenganzira bwo kubona, gukosora, gusiba, cyangwa kubuza ikoreshwa ry'amakuru yawe bwite, no gusaba ko akoreshwa ahandi. Kugira ukoreshe ubu burenganzira, tuvugishe.",
+    "section7Title": "7. Ubwiru bw'abana",
+    "section7Text": "Footeee ntiyakorewe abana bari munsi y'imyaka 13. Ntidukusanya amakuru bwite y'abana bari munsi y'imyaka 13 tubimenye.",
+    "section8Title": "8. Impinduka kuri iyi politiki",
+    "section8Text": "Dushobora guhindura iyi politiki mu gihe runaka. Impinduka zishyirwa kuri uru rupapuro hamwe n'itariki nshya ya \"Iheruka guhindurwa\".",
+    "contactTitle": "Twandikire",
+    "contactEmail": "Imeyili:",
+    "contactWebsite": "Urubuga:"
+  },
+  "deleteData": {
+    "title": "Siba amakuru yanjye",
+    "description": "Ufite uburenganzira bwo gusaba gusibwa kwa konti yawe n'amakuru bwite ajyanye nayo. Dukora ibyifuzo mu minsi 30.",
+    "successMessage": "Icyifuzo cyawe cyateguwe. Ohereze imeyili yafunguwe muri porogaramu yawe y'imeyili. Tuzabikora mu minsi 30.",
+    "emailLabel": "Imeyili ijyanye na konti yawe",
+    "usernameLabel": "Izina ry'umukoresha (ntibisabwa)",
+    "scopeLabel": "Ni iki ushaka gusibwa?",
+    "scopeFull": "Byose — siba konti yanjye n'amakuru yose",
+    "scopeData": "Amakuru gusa — komeza konti ariko usibe amakuru y'ibikorwa",
+    "scopeProfile": "Umwirondoro gusa — siba amakuru y'umwirondoro",
+    "notesLabel": "Ikindi kintu?",
+    "confirmLabel": "Ndemera ko iki gikorwa kidashobora gusubizwaho.",
+    "submitButton": "Ohereza icyifuzo",
+    "emailRequired": "Nyamuneka andika imeyili ijyanye na konti yawe.",
+    "scopeFullLabel": "Gusiba konti yose + amakuru yose",
+    "scopeDataLabel": "Gusiba amakuru y'ibikorwa gusa",
+    "scopeProfileLabel": "Gusiba amakuru y'umwirondoro gusa",
+    "notProvided": "Ntibyanatanzwe",
+    "none": "Ntacyo"
+  },
+  "common": {
+    "close": "Funga",
+    "download": "Kuramo porogaramu (iraje vuba)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Gucunga",
+      "players": "Abakinnyi",
+      "squads": "Amakipe",
+      "venues": "Aho bikorerwa",
+      "games": "Imikino",
+      "recent": "Ibyashize"
+    },
+    "manager": {
+      "title": "Gucunga",
+      "subtitle": "Ahantu hawe h'akazi h'umuyobozi",
+      "gamesManaged": "Imikino icungwa",
+      "squadsManaged": "Amakipe acungwa",
+      "playersInSquads": "Abakinnyi mu makipe",
+      "upcoming": "Iri butaha",
+      "joinedGame": "{{name}} yinjiye mu mukino"
+    },
+    "guest": {
+      "label": "Umushyitsi",
+      "join": "Injira",
+      "newGame": "Umukino Mushya"
+    },
+    "player": {
+      "squadsCount": "Amakipe ({{count}})",
+      "upcomingGamesCount": "Imikino Iri Butaha ({{count}})",
+      "left": "{{count}} basigaye"
+    },
+    "time": {
+      "today": "Uyu munsi",
+      "monday": "Kuwa mbere",
+      "tuesday": "Kuwa kabiri",
+      "wednesday": "Kuwa gatatu",
+      "thursday": "Kuwa kane",
+      "friday": "Kuwa gatanu",
+      "saturday": "Kuwa gatandatu",
+      "sunday": "Ku cyumweru",
+      "at": "saa",
+      "days": "iminsi"
+    }
+  }
+}

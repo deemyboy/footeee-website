@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Un seul geste pour trouver votre prochain match.",
+    "download": "Télécharger l'appli (bientôt disponible)",
+    "learnMore": "En savoir plus"
+  },
+  "roles": {
+    "heading": "Une appli pour tout le monde",
+    "subheading": "Que vous souhaitiez simplement parcourir, rejoindre un match ou organiser le tout – Footeee est là pour vous.",
+    "seeView": "Voir la vue {{role}}",
+    "experience": "Expérience {{role}}",
+    "guest": {
+      "title": "Invité",
+      "description": "Découvrez nos plaisirs footballistiques à votre rythme.",
+      "longDescription": "Parcourez tous les matchs à venir, consultez les détails des lieux et vérifiez la disponibilité des joueurs – le tout sans compte. Idéal pour les amateurs occasionnels.",
+      "feature1": "Parcourir tous les matchs",
+      "feature2": "Voir les lieux et les horaires",
+      "feature3": "Aucun compte nécessaire"
+    },
+    "player": {
+      "title": "Joueur",
+      "description": "Votre prochaine aventure sur le terrain n'est qu'à quelques minutes !",
+      "longDescription": "Rejoignez des matchs en un geste, voyez qui d'autre joue et recevez des notifications lorsqu'une place se libère ou qu'un match est sur le point de commencer.",
+      "feature1": "Rejoindre des matchs instantanément",
+      "feature2": "Suivre vos équipes",
+      "feature3": "Recevoir des notifications"
+    },
+    "manager": {
+      "title": "Organisateur",
+      "description": "Laissez Footeee s'occuper de votre univers footballistique !",
+      "longDescription": "Contrôle total sur les matchs, les équipes et les joueurs. Créez des matchs, assignez des équipes, suivez la présence et gérez votre communauté de football.",
+      "feature1": "Créer et gérer des matchs",
+      "feature2": "Organiser les équipes",
+      "feature3": "Contrôle total"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Tous droits réservés.",
+    "quickLinks": "Liens rapides",
+    "about": "À propos",
+    "features": "Fonctionnalités",
+    "privacy": "Confidentialité",
+    "download": "Télécharger",
+    "availableOn": "Disponible sur iOS et Android"
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : {{date}}",
+    "intro": "Footeee (' nous ', ' notre ', ' nos ') exploite l'application mobile Footeee (l'' Appli ') et ce site web. Cette Politique de confidentialité explique comment nous collectons, utilisons, divulguons et protégeons vos informations lorsque vous utilisez l'Appli et les services associés.",
+    "section1Title": "1. Informations que nous collectons",
+    "section1Intro": "Nous pouvons collecter les catégories d'informations suivantes :",
+    "section1Item1": "Informations de compte (par ex., nom, adresse e-mail, identifiants de connexion sous forme hachée/sécurisée).",
+    "section1Item2": "Informations d'utilisation de l'appli (par ex., matchs que vous créez/rejoignez, équipes, lieux et interactions).",
+    "section1Item3": "Données techniques/appareil (par ex., type d'appareil, version du système d'exploitation, version de l'appli, diagnostics).",
+    "section2Title": "2. Comment nous utilisons vos informations",
+    "section2Item1": "Pour créer et gérer votre compte.",
+    "section2Item2": "Pour fournir les fonctionnalités principales telles que la création de matchs, la participation et la gestion des équipes.",
+    "section2Item3": "Pour fournir une assistance et répondre aux demandes.",
+    "section2Item4": "Pour améliorer la fiabilité, les performances et l'expérience utilisateur.",
+    "section2Item5": "Pour protéger la sécurité et l'intégrité de nos services.",
+    "section2NoSell": "Nous ne vendons pas vos informations personnelles.",
+    "section3Title": "3. Partage et divulgation",
+    "section3Text": "Nous ne partageons des informations que dans la mesure nécessaire pour exploiter le service, nous conformer aux obligations légales ou protéger les droits et la sécurité. Par exemple, nous pouvons faire appel à des fournisseurs d'infrastructure (hébergement, e-mail, etc.) qui traitent les données en notre nom avec des garanties appropriées.",
+    "section4Title": "4. Stockage et sécurité des données",
+    "section4Text": "Nous utilisons des mesures techniques et organisationnelles raisonnables pour protéger vos informations (par ex., HTTPS, contrôles d'accès). Aucune méthode de transmission ou de stockage n'est sécurisée à 100 %, nous ne pouvons donc pas garantir une sécurité absolue.",
+    "section5Title": "5. Conservation des données",
+    "section5Text": "Nous conservons les informations personnelles aussi longtemps que nécessaire pour fournir le service et à des fins commerciales légitimes (par ex., conformité, sécurité, résolution de litiges), sauf si une période de conservation plus longue est requise par la loi.",
+    "section6Title": "6. Vos droits",
+    "section6Text": "Selon votre localisation (y compris Royaume-Uni/UE), vous pouvez avoir le droit d'accéder, de rectifier, de supprimer ou de limiter le traitement de vos données personnelles, ainsi que de demander leur portabilité. Pour exercer ces droits, contactez-nous.",
+    "section7Title": "7. Confidentialité des enfants",
+    "section7Text": "Footeee n'est pas destiné aux enfants de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnelles auprès d'enfants de moins de 13 ans.",
+    "section8Title": "8. Modifications de cette politique",
+    "section8Text": "Nous pouvons mettre à jour cette politique de temps à autre. Les mises à jour seront publiées sur cette page avec une date de ' Dernière mise à jour ' révisée.",
+    "contactTitle": "Contact",
+    "contactEmail": "E-mail :",
+    "contactWebsite": "Site web :"
+  },
+  "deleteData": {
+    "title": "Supprimer mes données",
+    "description": "Vous avez le droit de demander la suppression de votre compte et des données personnelles associées. Nous traitons les demandes sous 30 jours.",
+    "successMessage": "Votre demande a été préparée. Veuillez envoyer l'e-mail qui s'est ouvert dans votre application de messagerie. Nous le traiterons sous 30 jours.",
+    "emailLabel": "E-mail lié à votre compte",
+    "usernameLabel": "Nom d'utilisateur (facultatif)",
+    "scopeLabel": "Que souhaitez-vous supprimer ?",
+    "scopeFull": "Tout — supprimer mon compte et toutes mes données",
+    "scopeData": "Données uniquement — conserver le compte mais supprimer les données d'activité",
+    "scopeProfile": "Profil uniquement — supprimer les informations du profil",
+    "notesLabel": "Autre chose ?",
+    "confirmLabel": "Je comprends que cette action est irréversible.",
+    "submitButton": "Envoyer la demande",
+    "emailRequired": "Veuillez entrer l'e-mail lié à votre compte.",
+    "scopeFullLabel": "Suppression complète du compte et de toutes les données",
+    "scopeDataLabel": "Suppression des données d'activité uniquement",
+    "scopeProfileLabel": "Suppression des données du profil uniquement",
+    "notProvided": "Non fourni",
+    "none": "Aucun"
+  },
+  "common": {
+    "close": "Fermer",
+    "download": "Télécharger l'appli (bientôt disponible)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Gérer",
+      "players": "Joueurs",
+      "squads": "Équipes",
+      "venues": "Lieux",
+      "games": "Matchs",
+      "recent": "Récents"
+    },
+    "manager": {
+      "title": "Gérer",
+      "subtitle": "Votre espace organisateur",
+      "gamesManaged": "Matchs gérés",
+      "squadsManaged": "Équipes gérées",
+      "playersInSquads": "Joueurs dans les équipes",
+      "upcoming": "À venir",
+      "joinedGame": "{{name}} a rejoint un match"
+    },
+    "guest": {
+      "label": "Invité",
+      "join": "Rejoindre",
+      "newGame": "Nouveau match"
+    },
+    "player": {
+      "squadsCount": "Équipes ({{count}})",
+      "upcomingGamesCount": "Matchs à venir ({{count}})",
+      "left": "{{count}} restant(s)"
+    },
+    "time": {
+      "today": "Aujourd'hui",
+      "monday": "Lundi",
+      "tuesday": "Mardi",
+      "wednesday": "Mercredi",
+      "thursday": "Jeudi",
+      "friday": "Vendredi",
+      "saturday": "Samedi",
+      "sunday": "Dimanche",
+      "at": "à",
+      "days": "jours"
+    }
+  }
+}

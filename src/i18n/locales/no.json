@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Ett trykk for å finne din neste kamp.",
+    "download": "Last ned appen (kommer snart)",
+    "learnMore": "Les mer"
+  },
+  "roles": {
+    "heading": "Én app for alle",
+    "subheading": "Enten du bare vil kikke, bli med i en kamp eller styre showet – Footeee har deg dekket.",
+    "seeView": "Se {{role}}-visningen",
+    "experience": "{{role}}-opplevelsen",
+    "guest": {
+      "title": "Gjest",
+      "description": "Sjekk ut fotballgledene våre i ditt eget tempo.",
+      "longDescription": "Bla gjennom alle kommende kamper, se detaljer om anlegg og sjekk spillertilgjengelighet – helt uten konto. Perfekt for den som bare vil se seg rundt.",
+      "feature1": "Bla gjennom alle kamper",
+      "feature2": "Se anlegg og tidspunkter",
+      "feature3": "Ingen konto nødvendig"
+    },
+    "player": {
+      "title": "Spiller",
+      "description": "Din neste kamp er bare minutter unna!",
+      "longDescription": "Bli med i kamper med ett trykk, se hvem andre som spiller, og motta varsler når en plass åpner seg eller en kamp er i ferd med å starte.",
+      "feature1": "Bli med i kamper umiddelbart",
+      "feature2": "Følg lagene dine",
+      "feature3": "Få varsler"
+    },
+    "manager": {
+      "title": "Organisator",
+      "description": "La Footeee ta seg av fotballverdenen din!",
+      "longDescription": "Full kontroll over kamper, lag og spillere. Opprett kamper, tildel lag, følg oppmøte og administrer fotballmiljøet ditt.",
+      "feature1": "Opprett og administrer kamper",
+      "feature2": "Organiser lag",
+      "feature3": "Full kontroll"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Alle rettigheter forbeholdt.",
+    "quickLinks": "Hurtiglenker",
+    "about": "Om oss",
+    "features": "Funksjoner",
+    "privacy": "Personvern",
+    "download": "Last ned",
+    "availableOn": "Tilgjengelig på iOS og Android"
+  },
+  "privacy": {
+    "title": "Personvernerklæring",
+    "lastUpdated": "Sist oppdatert: {{date}}",
+    "intro": "Footeee (\"vi\", \"vår\", \"oss\") driver Footeee-mobilappen (\"Appen\") og denne nettsiden. Denne personvernerklæringen forklarer hvordan vi samler inn, bruker, deler og beskytter informasjonen din når du bruker Appen og relaterte tjenester.",
+    "section1Title": "1. Informasjon vi samler inn",
+    "section1Intro": "Vi kan samle inn følgende kategorier av informasjon:",
+    "section1Item1": "Kontoinformasjon (f.eks. navn, e-postadresse, innloggingsopplysninger i hashet/sikker form).",
+    "section1Item2": "Bruksinformasjon for appen (f.eks. kamper du oppretter/deltar i, lag, anlegg og interaksjoner).",
+    "section1Item3": "Enhets-/tekniske data (f.eks. enhetstype, OS-versjon, appversjon, diagnostikk).",
+    "section2Title": "2. Hvordan vi bruker informasjonen din",
+    "section2Item1": "For å opprette og administrere kontoen din.",
+    "section2Item2": "For å tilby kjernefunksjoner som kampoppretting, deltakelse og lagadministrasjon.",
+    "section2Item3": "For å gi støtte og svare på forespørsler.",
+    "section2Item4": "For å forbedre pålitelighet, ytelse og brukeropplevelse.",
+    "section2Item5": "For å beskytte sikkerheten og integriteten til tjenestene våre.",
+    "section2NoSell": "Vi selger ikke din personlige informasjon.",
+    "section3Title": "3. Deling og utlevering",
+    "section3Text": "Vi kan dele informasjon kun i den grad det er nødvendig for å drifte tjenesten, overholde juridiske forpliktelser eller beskytte rettigheter og sikkerhet. Vi kan for eksempel bruke infrastrukturleverandører (hosting, e-post osv.) som behandler data på våre vegne under passende sikkerhetstiltak.",
+    "section4Title": "4. Datalagring og sikkerhet",
+    "section4Text": "Vi bruker rimelige tekniske og organisatoriske tiltak for å beskytte informasjonen din (f.eks. HTTPS, tilgangskontroller). Ingen overførings- eller lagringsmetode er 100 % sikker, så vi kan ikke garantere absolutt sikkerhet.",
+    "section5Title": "5. Dataoppbevaring",
+    "section5Text": "Vi oppbevarer personlig informasjon så lenge det er nødvendig for å tilby tjenesten og for legitime forretningsformål (f.eks. etterlevelse, sikkerhet, tvisteløsning), med mindre en lengre oppbevaringsperiode kreves av loven.",
+    "section6Title": "6. Dine rettigheter",
+    "section6Text": "Avhengig av hvor du befinner deg (inkludert Storbritannia/EU), kan du ha rett til å få tilgang til, korrigere, slette eller begrense behandlingen av dine personopplysninger, samt be om dataportabilitet. Kontakt oss for å utøve disse rettighetene.",
+    "section7Title": "7. Barns personvern",
+    "section7Text": "Footeee er ikke ment for barn under 13 år. Vi samler ikke bevisst inn personlig informasjon fra barn under 13 år.",
+    "section8Title": "8. Endringer i denne erklæringen",
+    "section8Text": "Vi kan oppdatere denne erklæringen fra tid til annen. Oppdateringer vil bli publisert på denne siden med en revidert \"Sist oppdatert\"-dato.",
+    "contactTitle": "Kontakt",
+    "contactEmail": "E-post:",
+    "contactWebsite": "Nettside:"
+  },
+  "deleteData": {
+    "title": "Slett mine data",
+    "description": "Du har rett til å be om sletting av kontoen din og tilhørende personopplysninger. Vi behandler forespørsler innen 30 dager.",
+    "successMessage": "Forespørselen din er forberedt. Vennligst send e-posten som ble åpnet i e-postappen din. Vi behandler den innen 30 dager.",
+    "emailLabel": "E-post knyttet til kontoen din",
+    "usernameLabel": "Brukernavn (valgfritt)",
+    "scopeLabel": "Hva ønsker du slettet?",
+    "scopeFull": "Alt — slett kontoen min og alle data",
+    "scopeData": "Kun data — behold kontoen, men slett aktivitetsdata",
+    "scopeProfile": "Kun profil — slett profilinformasjon",
+    "notesLabel": "Noe annet?",
+    "confirmLabel": "Jeg forstår at denne handlingen er irreversibel.",
+    "submitButton": "Send forespørsel",
+    "emailRequired": "Vennligst oppgi e-posten knyttet til kontoen din.",
+    "scopeFullLabel": "Fullstendig konto + all datasletting",
+    "scopeDataLabel": "Sletting av kun aktivitetsdata",
+    "scopeProfileLabel": "Sletting av kun profildata",
+    "notProvided": "Ikke oppgitt",
+    "none": "Ingen"
+  },
+  "common": {
+    "close": "Lukk",
+    "download": "Last ned appen (kommer snart)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Administrer",
+      "players": "Spillere",
+      "squads": "Lag",
+      "venues": "Anlegg",
+      "games": "Kamper",
+      "recent": "Nylige"
+    },
+    "manager": {
+      "title": "Administrer",
+      "subtitle": "Ditt arbeidsomrade som organisator",
+      "gamesManaged": "Administrerte kamper",
+      "squadsManaged": "Administrerte lag",
+      "playersInSquads": "Spillere i lag",
+      "upcoming": "Kommende",
+      "joinedGame": "{{name}} ble med i en kamp"
+    },
+    "guest": {
+      "label": "Gjest",
+      "join": "Bli med",
+      "newGame": "Ny kamp"
+    },
+    "player": {
+      "squadsCount": "Lag ({{count}})",
+      "upcomingGamesCount": "Kommende kamper ({{count}})",
+      "left": "{{count}} igjen"
+    },
+    "time": {
+      "today": "I dag",
+      "monday": "Mandag",
+      "tuesday": "Tirsdag",
+      "wednesday": "Onsdag",
+      "thursday": "Torsdag",
+      "friday": "Fredag",
+      "saturday": "Lordag",
+      "sunday": "Sondag",
+      "at": "kl",
+      "days": "dager"
+    }
+  }
+}

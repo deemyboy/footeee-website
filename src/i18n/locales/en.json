@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "One tap to find your next match.",
+    "download": "Download the app (coming soon)",
+    "learnMore": "Learn more"
+  },
+  "roles": {
+    "heading": "One app for everyone",
+    "subheading": "Whether you just want to browse, join a game, or run the show – Footeee has you covered.",
+    "seeView": "See {{role}} view",
+    "experience": "{{role}} Experience",
+    "guest": {
+      "title": "Guest",
+      "description": "Check out our footballing delights at your leisure.",
+      "longDescription": "Browse all upcoming games, see venue details, and check player availability – all without an account. Perfect for casual fans.",
+      "feature1": "Browse all games",
+      "feature2": "See venues and times",
+      "feature3": "No account needed"
+    },
+    "player": {
+      "title": "Player",
+      "description": "Your next pitchside invasion is just minutes away!",
+      "longDescription": "Join games with one tap, see who else is playing, and receive notifications when a spot opens up or a game is about to start.",
+      "feature1": "Join games instantly",
+      "feature2": "Track your squads",
+      "feature3": "Get notifications"
+    },
+    "manager": {
+      "title": "Manager",
+      "description": "Let Footeee look after your footballing world!",
+      "longDescription": "Full control over games, squads, and players. Create games, assign squads, track attendance, and manage your football community.",
+      "feature1": "Create and manage games",
+      "feature2": "Organise squads",
+      "feature3": "Full control"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "about": "About",
+    "features": "Features",
+    "privacy": "Privacy",
+    "download": "Download",
+    "availableOn": "Available on iOS and Android"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: {{date}}",
+    "intro": "Footeee (\"we\", \"our\", \"us\") operates the Footeee mobile application (the \"App\") and this website. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the App and related services.",
+    "section1Title": "1. Information We Collect",
+    "section1Intro": "We may collect the following categories of information:",
+    "section1Item1": "Account information (e.g., name, email address, login credentials in hashed/secure form).",
+    "section1Item2": "App usage information (e.g., matches you create/join, squads, venues, and interactions).",
+    "section1Item3": "Device/technical data (e.g., device type, OS version, app version, diagnostics).",
+    "section2Title": "2. How We Use Your Information",
+    "section2Item1": "To create and manage your account.",
+    "section2Item2": "To provide core features such as match creation, joining, and squad management.",
+    "section2Item3": "To provide support and respond to requests.",
+    "section2Item4": "To improve reliability, performance, and user experience.",
+    "section2Item5": "To protect the security and integrity of our services.",
+    "section2NoSell": "We do not sell your personal information.",
+    "section3Title": "3. Sharing and Disclosure",
+    "section3Text": "We may share information only as necessary to operate the service, comply with legal obligations, or protect rights and safety. For example, we may use infrastructure providers (hosting, email, etc.) who process data on our behalf under appropriate safeguards.",
+    "section4Title": "4. Data Storage and Security",
+    "section4Text": "We use reasonable technical and organizational measures to protect your information (e.g., HTTPS, access controls). No method of transmission or storage is 100% secure, so we cannot guarantee absolute security.",
+    "section5Title": "5. Data Retention",
+    "section5Text": "We retain personal information as long as necessary to provide the service and for legitimate business purposes (e.g., compliance, security, dispute resolution), unless a longer retention period is required by law.",
+    "section6Title": "6. Your Rights",
+    "section6Text": "Depending on your location (including UK/EU), you may have rights to access, correct, delete, or restrict processing of your personal data, and to request portability. To exercise these rights, contact us.",
+    "section7Title": "7. Children's Privacy",
+    "section7Text": "Footeee is not intended for children under 13. We do not knowingly collect personal information from children under 13.",
+    "section8Title": "8. Changes to This Policy",
+    "section8Text": "We may update this policy from time to time. Updates will be posted on this page with a revised \"Last updated\" date.",
+    "contactTitle": "Contact",
+    "contactEmail": "Email:",
+    "contactWebsite": "Website:"
+  },
+  "deleteData": {
+    "title": "Delete My Data",
+    "description": "You have the right to request deletion of your account and associated personal data. We process requests within 30 days.",
+    "successMessage": "Your request has been prepared. Please send the email that opened in your mail app. We will process it within 30 days.",
+    "emailLabel": "Email linked to your account",
+    "usernameLabel": "Username (optional)",
+    "scopeLabel": "What would you like deleted?",
+    "scopeFull": "Everything — delete my account and all data",
+    "scopeData": "Data only — keep account but delete activity data",
+    "scopeProfile": "Profile only — delete profile info",
+    "notesLabel": "Anything else?",
+    "confirmLabel": "I understand this action is irreversible.",
+    "submitButton": "Submit Request",
+    "emailRequired": "Please enter the email linked to your account.",
+    "scopeFullLabel": "Full account + all data deletion",
+    "scopeDataLabel": "Activity data deletion only",
+    "scopeProfileLabel": "Profile data deletion only",
+    "notProvided": "Not provided",
+    "none": "None"
+  },
+  "common": {
+    "close": "Close",
+    "download": "Download the app (coming soon)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Manage",
+      "players": "Players",
+      "squads": "Squads",
+      "venues": "Venues",
+      "games": "Games",
+      "recent": "Recent"
+    },
+    "manager": {
+      "title": "Manage",
+      "subtitle": "Your manager workspace",
+      "gamesManaged": "Games managed",
+      "squadsManaged": "Squads managed",
+      "playersInSquads": "Players in squads",
+      "upcoming": "Upcoming",
+      "joinedGame": "{{name}} joined a game"
+    },
+    "guest": {
+      "label": "Guest",
+      "join": "Join",
+      "newGame": "New Game"
+    },
+    "player": {
+      "squadsCount": "Squads ({{count}})",
+      "upcomingGamesCount": "Upcoming Games ({{count}})",
+      "left": "{{count}} left"
+    },
+    "time": {
+      "today": "Today",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "at": "at",
+      "days": "days"
+    }
+  }
+}

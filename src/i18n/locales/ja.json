@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "ワンタップで次の試合を見つけよう。",
+    "download": "アプリをダウンロード（近日公開）",
+    "learnMore": "詳しく見る"
+  },
+  "roles": {
+    "heading": "みんなのためのアプリ",
+    "subheading": "閲覧するだけでも、試合に参加するのでも、運営するのでも——Footeee がすべてをサポートします。",
+    "seeView": "{{role}}ビューを見る",
+    "experience": "{{role}}の体験",
+    "guest": {
+      "title": "ゲスト",
+      "description": "お好きなときにサッカーの楽しみをご覧ください。",
+      "longDescription": "今後の試合をすべて閲覧し、会場の詳細を確認し、選手の参加状況をチェック——アカウント不要。カジュアルなファンに最適です。",
+      "feature1": "すべての試合を閲覧",
+      "feature2": "会場と時間を確認",
+      "feature3": "アカウント不要"
+    },
+    "player": {
+      "title": "プレイヤー",
+      "description": "次の試合はすぐそこです！",
+      "longDescription": "ワンタップで試合に参加、他の参加者を確認、空きが出たり試合が始まる前に通知を受け取れます。",
+      "feature1": "すぐに試合に参加",
+      "feature2": "チームを追跡",
+      "feature3": "通知を受け取る"
+    },
+    "manager": {
+      "title": "マネージャー",
+      "description": "Footeee にサッカーの世界をお任せください！",
+      "longDescription": "試合、チーム、選手を完全にコントロール。試合を作成し、チームを編成し、出席を管理し、サッカーコミュニティを運営しましょう。",
+      "feature1": "試合を作成・管理",
+      "feature2": "チームを編成",
+      "feature3": "完全なコントロール"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. All rights reserved.",
+    "quickLinks": "クイックリンク",
+    "about": "概要",
+    "features": "機能",
+    "privacy": "プライバシー",
+    "download": "ダウンロード",
+    "availableOn": "iOS・Android対応"
+  },
+  "privacy": {
+    "title": "プライバシーポリシー",
+    "lastUpdated": "最終更新日：{{date}}",
+    "intro": "Footeee（「当社」）は、Footeee モバイルアプリケーション（「アプリ」）および本ウェブサイトを運営しています。本プライバシーポリシーは、アプリおよび関連サービスをご利用いただく際の、お客様の情報の収集、使用、開示、保護の方法について説明します。",
+    "section1Title": "1. 収集する情報",
+    "section1Intro": "当社は以下のカテゴリーの情報を収集することがあります：",
+    "section1Item1": "アカウント情報（例：氏名、メールアドレス、ハッシュ化/安全な形式のログイン情報）。",
+    "section1Item2": "アプリ使用情報（例：作成/参加した試合、チーム、会場、やり取り）。",
+    "section1Item3": "デバイス/技術データ（例：デバイスの種類、OSバージョン、アプリバージョン、診断情報）。",
+    "section2Title": "2. 情報の利用方法",
+    "section2Item1": "アカウントの作成と管理。",
+    "section2Item2": "試合の作成、参加、チーム管理などのコア機能の提供。",
+    "section2Item3": "サポートの提供とリクエストへの対応。",
+    "section2Item4": "信頼性、パフォーマンス、ユーザー体験の向上。",
+    "section2Item5": "サービスのセキュリティと完全性の保護。",
+    "section2NoSell": "当社はお客様の個人情報を販売しません。",
+    "section3Title": "3. 共有と開示",
+    "section3Text": "当社は、サービスの運営、法的義務の遵守、または権利と安全の保護に必要な場合にのみ情報を共有します。例えば、適切な安全保護措置のもとで当社に代わりデータを処理するインフラプロバイダー（ホスティング、メールなど）を利用する場合があります。",
+    "section4Title": "4. データの保管とセキュリティ",
+    "section4Text": "当社は、お客様の情報を保護するために合理的な技術的・組織的措置（例：HTTPS、アクセス制御）を講じています。100%安全な送信・保管方法は存在しないため、絶対的な安全性を保証することはできません。",
+    "section5Title": "5. データの保持",
+    "section5Text": "当社は、サービスの提供に必要な期間および正当な事業目的（例：法令遵守、セキュリティ、紛争解決）のために個人情報を保持します。ただし、法律により長期の保持期間が必要な場合はその限りではありません。",
+    "section6Title": "6. お客様の権利",
+    "section6Text": "お住まいの地域（英国/EUを含む）によっては、個人データへのアクセス、訂正、削除、処理の制限、およびポータビリティの請求に関する権利を有する場合があります。これらの権利を行使するには、当社までご連絡ください。",
+    "section7Title": "7. 子どものプライバシー",
+    "section7Text": "Footeee は13歳未満のお子様を対象としていません。当社は13歳未満のお子様から故意に個人情報を収集することはありません。",
+    "section8Title": "8. 本ポリシーの変更",
+    "section8Text": "当社は本ポリシーを随時更新することがあります。更新は「最終更新日」を改訂のうえ、本ページに掲載されます。",
+    "contactTitle": "お問い合わせ",
+    "contactEmail": "メール：",
+    "contactWebsite": "ウェブサイト："
+  },
+  "deleteData": {
+    "title": "データの削除",
+    "description": "アカウントおよび関連する個人データの削除をリクエストする権利があります。リクエストは30日以内に処理されます。",
+    "successMessage": "リクエストが準備されました。メールアプリで開いたメールを送信してください。30日以内に処理いたします。",
+    "emailLabel": "アカウントに紐付けられたメールアドレス",
+    "usernameLabel": "ユーザー名（任意）",
+    "scopeLabel": "何を削除しますか？",
+    "scopeFull": "すべて——アカウントとすべてのデータを削除",
+    "scopeData": "データのみ——アカウントは残し、活動データを削除",
+    "scopeProfile": "プロフィールのみ——プロフィール情報を削除",
+    "notesLabel": "その他ご要望はありますか？",
+    "confirmLabel": "この操作が取り消せないことを理解しています。",
+    "submitButton": "リクエストを送信",
+    "emailRequired": "アカウントに紐付けられたメールアドレスを入力してください。",
+    "scopeFullLabel": "アカウントとすべてのデータの完全削除",
+    "scopeDataLabel": "活動データのみの削除",
+    "scopeProfileLabel": "プロフィールデータのみの削除",
+    "notProvided": "未入力",
+    "none": "なし"
+  },
+  "common": {
+    "close": "閉じる",
+    "download": "アプリをダウンロード（近日公開）"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "管理",
+      "players": "選手",
+      "squads": "チーム",
+      "venues": "会場",
+      "games": "試合",
+      "recent": "最近"
+    },
+    "manager": {
+      "title": "管理",
+      "subtitle": "マネージャーのワークスペース",
+      "gamesManaged": "管理中の試合",
+      "squadsManaged": "管理中のチーム",
+      "playersInSquads": "チーム内の選手",
+      "upcoming": "今後の予定",
+      "joinedGame": "{{name}} が試合に参加しました"
+    },
+    "guest": {
+      "label": "ゲスト",
+      "join": "参加",
+      "newGame": "新しい試合"
+    },
+    "player": {
+      "squadsCount": "チーム ({{count}})",
+      "upcomingGamesCount": "今後の試合 ({{count}})",
+      "left": "残り {{count}}"
+    },
+    "time": {
+      "today": "今日",
+      "monday": "月曜日",
+      "tuesday": "火曜日",
+      "wednesday": "水曜日",
+      "thursday": "木曜日",
+      "friday": "金曜日",
+      "saturday": "土曜日",
+      "sunday": "日曜日",
+      "at": "に",
+      "days": "日"
+    }
+  }
+}

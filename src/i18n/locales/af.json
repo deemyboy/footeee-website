@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Een tik om jou volgende wedstryd te vind.",
+    "download": "Laai die toep af (binnekort beskikbaar)",
+    "learnMore": "Leer meer"
+  },
+  "roles": {
+    "heading": "Een toep vir almal",
+    "subheading": "Of jy net wil rondkyk, by 'n wedstryd wil aansluit, of die leiding wil neem – Footeee het jou gedek.",
+    "seeView": "Sien {{role}}-aansig",
+    "experience": "{{role}}-ervaring",
+    "guest": {
+      "title": "Gas",
+      "description": "Kyk gerus na ons sokker-lekkertes op jou gemak.",
+      "longDescription": "Blaai deur alle komende wedstryde, sien lokaalbesonderhede en kyk wie beskikbaar is – alles sonder 'n rekening. Perfek vir informele aanhangers.",
+      "feature1": "Blaai deur alle wedstryde",
+      "feature2": "Sien lokale en tye",
+      "feature3": "Geen rekening nodig nie"
+    },
+    "player": {
+      "title": "Speler",
+      "description": "Jou volgende wedstryd is net minute weg!",
+      "longDescription": "Sluit aan by wedstryde met een tik, sien wie anders speel, en ontvang kennisgewings wanneer 'n plek oopmaak of 'n wedstryd op die punt is om te begin.",
+      "feature1": "Sluit dadelik by wedstryde aan",
+      "feature2": "Volg jou spanne",
+      "feature3": "Kry kennisgewings"
+    },
+    "manager": {
+      "title": "Bestuurder",
+      "description": "Laat Footeee jou sokkerwerêld bestuur!",
+      "longDescription": "Volle beheer oor wedstryde, spanne en spelers. Skep wedstryde, ken spanne toe, volg bywoning en bestuur jou sokkergemeenskap.",
+      "feature1": "Skep en bestuur wedstryde",
+      "feature2": "Organiseer spanne",
+      "feature3": "Volle beheer"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Alle regte voorbehou.",
+    "quickLinks": "Vinnige Skakels",
+    "about": "Oor Ons",
+    "features": "Kenmerke",
+    "privacy": "Privaatheid",
+    "download": "Aflaai",
+    "availableOn": "Beskikbaar op iOS en Android"
+  },
+  "privacy": {
+    "title": "Privaatheidsbeleid",
+    "lastUpdated": "Laas bygewerk: {{date}}",
+    "intro": "Footeee (\"ons\", \"ons s'n\") bedryf die Footeee-mobiele toepassing (die \"Toep\") en hierdie webwerf. Hierdie Privaatheidsbeleid verduidelik hoe ons jou inligting versamel, gebruik, openbaar en beskerm wanneer jy die Toep en verwante dienste gebruik.",
+    "section1Title": "1. Inligting Wat Ons Versamel",
+    "section1Intro": "Ons kan die volgende kategorieë inligting versamel:",
+    "section1Item1": "Rekeninginligting (bv. naam, e-posadres, aanmeldbewyse in gehashde/veilige vorm).",
+    "section1Item2": "Toepgebruikinligting (bv. wedstryde wat jy skep/aansluit, spanne, lokale en interaksies).",
+    "section1Item3": "Toestel-/tegniese data (bv. toesteltipe, bedryfstelselweergawe, toepweergawe, diagnostiek).",
+    "section2Title": "2. Hoe Ons Jou Inligting Gebruik",
+    "section2Item1": "Om jou rekening te skep en te bestuur.",
+    "section2Item2": "Om kernkenmerke soos wedstrydskepping, aansluiting en spanbestuur te voorsien.",
+    "section2Item3": "Om ondersteuning te bied en op versoeke te reageer.",
+    "section2Item4": "Om betroubaarheid, werkverrigting en gebruikerservaring te verbeter.",
+    "section2Item5": "Om die sekuriteit en integriteit van ons dienste te beskerm.",
+    "section2NoSell": "Ons verkoop nie jou persoonlike inligting nie.",
+    "section3Title": "3. Deling en Openbaarmaking",
+    "section3Text": "Ons kan inligting slegs deel soos nodig om die diens te bedryf, aan wetlike verpligtinge te voldoen, of regte en veiligheid te beskerm. Ons kan byvoorbeeld infrastruktuurverskaffers gebruik (gasheer, e-pos, ens.) wat data namens ons verwerk onder toepaslike waarborge.",
+    "section4Title": "4. Databerging en Sekuriteit",
+    "section4Text": "Ons gebruik redelike tegniese en organisatoriese maatreëls om jou inligting te beskerm (bv. HTTPS, toegangskontroles). Geen metode van oordrag of berging is 100% veilig nie, dus ons kan nie absolute sekuriteit waarborg nie.",
+    "section5Title": "5. Databewaring",
+    "section5Text": "Ons bewaar persoonlike inligting so lank as wat nodig is om die diens te lewer en vir wettige besigheidsdoeleindes (bv. nakoming, sekuriteit, geskilbeslegting), tensy 'n langer bewaringstydperk deur die wet vereis word.",
+    "section6Title": "6. Jou Regte",
+    "section6Text": "Afhangende van jou ligging (insluitend VK/EU), kan jy regte hê om toegang te verkry tot, te korrigeer, te verwyder of die verwerking van jou persoonlike data te beperk, en om oordraagbaarheid te versoek. Om hierdie regte uit te oefen, kontak ons.",
+    "section7Title": "7. Kinders se Privaatheid",
+    "section7Text": "Footeee is nie bedoel vir kinders onder 13 nie. Ons versamel nie bewustelik persoonlike inligting van kinders onder 13 nie.",
+    "section8Title": "8. Wysigings aan Hierdie Beleid",
+    "section8Text": "Ons kan hierdie beleid van tyd tot tyd bywerk. Bywerkings sal op hierdie bladsy geplaas word met 'n hersiene \"Laas bygewerk\"-datum.",
+    "contactTitle": "Kontak",
+    "contactEmail": "E-pos:",
+    "contactWebsite": "Webwerf:"
+  },
+  "deleteData": {
+    "title": "Verwyder My Data",
+    "description": "Jy het die reg om verwydering van jou rekening en gepaardgaande persoonlike data te versoek. Ons verwerk versoeke binne 30 dae.",
+    "successMessage": "Jou versoek is voorberei. Stuur asseblief die e-pos wat in jou pos-toep oopgemaak het. Ons sal dit binne 30 dae verwerk.",
+    "emailLabel": "E-pos gekoppel aan jou rekening",
+    "usernameLabel": "Gebruikersnaam (opsioneel)",
+    "scopeLabel": "Wat wil jy hê moet verwyder word?",
+    "scopeFull": "Alles — verwyder my rekening en alle data",
+    "scopeData": "Slegs data — hou rekening maar verwyder aktiwiteitdata",
+    "scopeProfile": "Slegs profiel — verwyder profielinligting",
+    "notesLabel": "Enigiets anders?",
+    "confirmLabel": "Ek verstaan dat hierdie aksie onomkeerbaar is.",
+    "submitButton": "Dien Versoek In",
+    "emailRequired": "Voer asseblief die e-pos in wat aan jou rekening gekoppel is.",
+    "scopeFullLabel": "Volledige rekening + alle dataverwydering",
+    "scopeDataLabel": "Slegs aktiwiteitdataverwydering",
+    "scopeProfileLabel": "Slegs profieldataverwydering",
+    "notProvided": "Nie voorsien nie",
+    "none": "Geen"
+  },
+  "common": {
+    "close": "Sluit",
+    "download": "Laai die toep af (binnekort beskikbaar)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Bestuur",
+      "players": "Spelers",
+      "squads": "Spanne",
+      "venues": "Lokale",
+      "games": "Wedstryde",
+      "recent": "Onlangs"
+    },
+    "manager": {
+      "title": "Bestuur",
+      "subtitle": "Jou bestuurder-werkspasie",
+      "gamesManaged": "Wedstryde bestuur",
+      "squadsManaged": "Spanne bestuur",
+      "playersInSquads": "Spelers in spanne",
+      "upcoming": "Komende",
+      "joinedGame": "{{name}} het by 'n wedstryd aangesluit"
+    },
+    "guest": {
+      "label": "Gas",
+      "join": "Sluit aan",
+      "newGame": "Nuwe Wedstryd"
+    },
+    "player": {
+      "squadsCount": "Spanne ({{count}})",
+      "upcomingGamesCount": "Komende Wedstryde ({{count}})",
+      "left": "{{count}} oor"
+    },
+    "time": {
+      "today": "Vandag",
+      "monday": "Maandag",
+      "tuesday": "Dinsdag",
+      "wednesday": "Woensdag",
+      "thursday": "Donderdag",
+      "friday": "Vrydag",
+      "saturday": "Saterdag",
+      "sunday": "Sondag",
+      "at": "om",
+      "days": "dae"
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Ett tryck för att hitta din nästa match.",
+    "download": "Ladda ner appen (kommer snart)",
+    "learnMore": "Läs mer"
+  },
+  "roles": {
+    "heading": "En app för alla",
+    "subheading": "Oavsett om du bara vill bläddra, gå med i en match eller styra showen – Footeee har dig täckt.",
+    "seeView": "Se {{role}}-vyn",
+    "experience": "{{role}}-upplevelsen",
+    "guest": {
+      "title": "Gäst",
+      "description": "Kolla in våra fotbollsnöjen i lugn och ro.",
+      "longDescription": "Bläddra bland alla kommande matcher, se detaljer om anläggningar och kolla spelarnas tillgänglighet – helt utan konto. Perfekt för den som vill titta runt.",
+      "feature1": "Bläddra bland alla matcher",
+      "feature2": "Se anläggningar och tider",
+      "feature3": "Inget konto krävs"
+    },
+    "player": {
+      "title": "Spelare",
+      "description": "Din nästa match är bara minuter bort!",
+      "longDescription": "Gå med i matcher med ett tryck, se vilka andra som spelar och få aviseringar när en plats öppnas eller en match ska börja.",
+      "feature1": "Gå med i matcher direkt",
+      "feature2": "Följ dina lag",
+      "feature3": "Få aviseringar"
+    },
+    "manager": {
+      "title": "Organisatör",
+      "description": "Låt Footeee ta hand om din fotbollsvärld!",
+      "longDescription": "Full kontroll över matcher, lag och spelare. Skapa matcher, tilldela lag, följ närvaro och hantera din fotbollsgemenskap.",
+      "feature1": "Skapa och hantera matcher",
+      "feature2": "Organisera lag",
+      "feature3": "Full kontroll"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Alla rättigheter förbehållna.",
+    "quickLinks": "Snabblänkar",
+    "about": "Om oss",
+    "features": "Funktioner",
+    "privacy": "Integritet",
+    "download": "Ladda ner",
+    "availableOn": "Tillgänglig på iOS och Android"
+  },
+  "privacy": {
+    "title": "Integritetspolicy",
+    "lastUpdated": "Senast uppdaterad: {{date}}",
+    "intro": "Footeee (\"vi\", \"vår\", \"oss\") driver Footeee-mobilappen (\"Appen\") och denna webbplats. Denna integritetspolicy förklarar hur vi samlar in, använder, delar och skyddar din information när du använder Appen och relaterade tjänster.",
+    "section1Title": "1. Information vi samlar in",
+    "section1Intro": "Vi kan samla in följande kategorier av information:",
+    "section1Item1": "Kontoinformation (t.ex. namn, e-postadress, inloggningsuppgifter i hashad/säker form).",
+    "section1Item2": "Appanvändningsinformation (t.ex. matcher du skapar/går med i, lag, anläggningar och interaktioner).",
+    "section1Item3": "Enhets-/teknisk data (t.ex. enhetstyp, OS-version, appversion, diagnostik).",
+    "section2Title": "2. Hur vi använder din information",
+    "section2Item1": "För att skapa och hantera ditt konto.",
+    "section2Item2": "För att tillhandahålla kärnfunktioner som att skapa matcher, gå med och laghantering.",
+    "section2Item3": "För att ge support och svara på förfrågningar.",
+    "section2Item4": "För att förbättra tillförlitlighet, prestanda och användarupplevelse.",
+    "section2Item5": "För att skydda säkerheten och integriteten hos våra tjänster.",
+    "section2NoSell": "Vi säljer inte din personliga information.",
+    "section3Title": "3. Delning och utlämnande",
+    "section3Text": "Vi kan dela information endast i den mån det är nödvändigt för att driva tjänsten, uppfylla rättsliga skyldigheter eller skydda rättigheter och säkerhet. Vi kan till exempel använda infrastrukturleverantörer (hosting, e-post m.m.) som behandlar data för vår räkning under lämpliga skyddsåtgärder.",
+    "section4Title": "4. Datalagring och säkerhet",
+    "section4Text": "Vi använder rimliga tekniska och organisatoriska åtgärder för att skydda din information (t.ex. HTTPS, åtkomstkontroller). Ingen överförings- eller lagringsmetod är 100 % säker, så vi kan inte garantera absolut säkerhet.",
+    "section5Title": "5. Datalagring",
+    "section5Text": "Vi behåller personlig information så länge det är nödvändigt för att tillhandahålla tjänsten och för legitima affärsändamål (t.ex. efterlevnad, säkerhet, tvistlösning), om inte en längre lagringsperiod krävs enligt lag.",
+    "section6Title": "6. Dina rättigheter",
+    "section6Text": "Beroende på var du befinner dig (inklusive Storbritannien/EU) kan du ha rätt att få tillgång till, korrigera, radera eller begränsa behandlingen av dina personuppgifter samt begära dataportabilitet. Kontakta oss för att utöva dessa rättigheter.",
+    "section7Title": "7. Barns integritet",
+    "section7Text": "Footeee är inte avsett för barn under 13 år. Vi samlar inte medvetet in personlig information från barn under 13 år.",
+    "section8Title": "8. Ändringar av denna policy",
+    "section8Text": "Vi kan uppdatera denna policy från tid till annan. Uppdateringar publiceras på denna sida med ett reviderat datum för \"Senast uppdaterad\".",
+    "contactTitle": "Kontakt",
+    "contactEmail": "E-post:",
+    "contactWebsite": "Webbplats:"
+  },
+  "deleteData": {
+    "title": "Radera mina data",
+    "description": "Du har rätt att begära radering av ditt konto och tillhörande personuppgifter. Vi behandlar förfrågningar inom 30 dagar.",
+    "successMessage": "Din begäran har förberetts. Skicka e-postmeddelandet som öppnades i din e-postapp. Vi behandlar det inom 30 dagar.",
+    "emailLabel": "E-post kopplad till ditt konto",
+    "usernameLabel": "Användarnamn (valfritt)",
+    "scopeLabel": "Vad vill du ska raderas?",
+    "scopeFull": "Allt — radera mitt konto och alla data",
+    "scopeData": "Endast data — behåll kontot men radera aktivitetsdata",
+    "scopeProfile": "Endast profil — radera profilinformation",
+    "notesLabel": "Något annat?",
+    "confirmLabel": "Jag förstår att denna åtgärd är oåterkallelig.",
+    "submitButton": "Skicka begäran",
+    "emailRequired": "Ange e-postadressen som är kopplad till ditt konto.",
+    "scopeFullLabel": "Fullständigt konto + all dataradering",
+    "scopeDataLabel": "Radering av endast aktivitetsdata",
+    "scopeProfileLabel": "Radering av endast profildata",
+    "notProvided": "Ej angivet",
+    "none": "Ingen"
+  },
+  "common": {
+    "close": "Stäng",
+    "download": "Ladda ner appen (kommer snart)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Hantera",
+      "players": "Spelare",
+      "squads": "Lag",
+      "venues": "Anlaggningar",
+      "games": "Matcher",
+      "recent": "Senaste"
+    },
+    "manager": {
+      "title": "Hantera",
+      "subtitle": "Din arbetsyta som organisator",
+      "gamesManaged": "Hanterade matcher",
+      "squadsManaged": "Hanterade lag",
+      "playersInSquads": "Spelare i lag",
+      "upcoming": "Kommande",
+      "joinedGame": "{{name}} gick med i en match"
+    },
+    "guest": {
+      "label": "Gast",
+      "join": "Ga med",
+      "newGame": "Ny match"
+    },
+    "player": {
+      "squadsCount": "Lag ({{count}})",
+      "upcomingGamesCount": "Kommande matcher ({{count}})",
+      "left": "{{count}} kvar"
+    },
+    "time": {
+      "today": "Idag",
+      "monday": "Mandag",
+      "tuesday": "Tisdag",
+      "wednesday": "Onsdag",
+      "thursday": "Torsdag",
+      "friday": "Fredag",
+      "saturday": "Lordag",
+      "sunday": "Sondag",
+      "at": "kl",
+      "days": "dagar"
+    }
+  }
+}

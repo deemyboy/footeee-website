@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Otu pịa ka ịchọta egwuregwu gị na-esote.",
+    "download": "Budata ngwa ahụ (na-abịa n'oge na-adịghị anya)",
+    "learnMore": "Mụtakwu"
+  },
+  "roles": {
+    "heading": "Otu ngwa maka onye ọ bụla",
+    "subheading": "Ma ị chọrọ naanị ilele, sonyere egwuregwu, ma ọ bụ chịa ihe niile – Footeee ejirila gị.",
+    "seeView": "Hụ anya {{role}}",
+    "experience": "Ahụmịhe {{role}}",
+    "guest": {
+      "title": "Ọbịa",
+      "description": "Lelee ihe ụtọ bọọlụ anyị n'oge ezumike gị.",
+      "longDescription": "Lelee egwuregwu niile na-abịa, hụ nkọwa ebe a na-egwu egwu, ma lelee ndị egwuregwu dị – nke niile n'enweghị akaụntụ. Ọ dị mma maka ndị na-enwe mmasị.",
+      "feature1": "Lelee egwuregwu niile",
+      "feature2": "Hụ ebe na oge",
+      "feature3": "Ọ dịghị mkpa akaụntụ"
+    },
+    "player": {
+      "title": "Onye egwuregwu",
+      "description": "Mbata gị na mbara egwuregwu nọ naanị nkeji ole na ole!",
+      "longDescription": "Sonyere egwuregwu site n'otu pịa, hụ ndị ọzọ na-egwu, ma nata ozi mgbe ọnọdụ meghere ma ọ bụ mgbe egwuregwu na-achọ ịmalite.",
+      "feature1": "Sonyere egwuregwu ozugbo",
+      "feature2": "Soro ndị otu gị",
+      "feature3": "Nata ozi"
+    },
+    "manager": {
+      "title": "Onye njikwa",
+      "description": "Hapụ Footeee ka ọ lekọta ụwa bọọlụ gị!",
+      "longDescription": "Njikwa zuru oke n'egwuregwu, ndị otu, na ndị egwuregwu. Mepụta egwuregwu, kenye ndị otu, soro nleta, ma jikwaa obodo bọọlụ gị.",
+      "feature1": "Mepụta ma jikwaa egwuregwu",
+      "feature2": "Hazie ndị otu",
+      "feature3": "Njikwa zuru oke"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Ikike niile echekwara.",
+    "quickLinks": "Njikọ Ngwa Ngwa",
+    "about": "Maka anyị",
+    "features": "Njirimara",
+    "privacy": "Nzuzo",
+    "download": "Budata",
+    "availableOn": "Dị na iOS na Android"
+  },
+  "privacy": {
+    "title": "Amụma Nzuzo",
+    "lastUpdated": "Emelitere ikpeazụ: {{date}}",
+    "intro": "Footeee (\"anyị\") na-arụ ọrụ ngwa ekwentị Footeee (\"Ngwa\") na webụsaịtị a. Amụma Nzuzo a na-akọwa otu anyị si anakọta, jiri, kọsaa, ma chekwaa ozi gị mgbe ị na-eji Ngwa ahụ na ọrụ ndị metụtara ya.",
+    "section1Title": "1. Ozi anyị na-anakọta",
+    "section1Intro": "Anyị nwere ike ịnakọta ụdị ozi ndị a:",
+    "section1Item1": "Ozi akaụntụ (dịka ọmụmaatụ, aha, adreesị email, nzere nbanye n'ụdị echekwara).",
+    "section1Item2": "Ozi ojiji ngwa (dịka ọmụmaatụ, egwuregwu ị mepụtara/sonyeere, ndị otu, ebe egwuregwu, na mmekọrịta).",
+    "section1Item3": "Data ngwaọrụ/teknụzụ (dịka ọmụmaatụ, ụdị ngwaọrụ, ụdị OS, ụdị ngwa, nyocha).",
+    "section2Title": "2. Otu anyị si eji ozi gị",
+    "section2Item1": "Iji mepụta ma jikwaa akaụntụ gị.",
+    "section2Item2": "Iji nye njirimara bụ isi dịka ịmepụta egwuregwu, ịsonyere, na njikwa ndị otu.",
+    "section2Item3": "Iji nye nkwado ma zaa arịrịọ.",
+    "section2Item4": "Iji melite ntụkwasị obi, arụmọrụ, na ahụmịhe onye ọrụ.",
+    "section2Item5": "Iji chekwaa nchekwa na ezi omume nke ọrụ anyị.",
+    "section2NoSell": "Anyị anaghị ere ozi nkeonwe gị.",
+    "section3Title": "3. Ịkekọrịta na Nkọwapụta",
+    "section3Text": "Anyị nwere ike ịkekọrịta ozi naanị dịka ọ dị mkpa iji rụọ ọrụ, mee ka iwu kwụọ ọtọ, ma ọ bụ chekwaa ikike na nchekwa. Dịka ọmụmaatụ, anyị nwere ike iji ndị na-enye ụlọ ọrụ (ịkwado, email, dg.) ndị na-ahazi data n'aha anyị n'okpuru nchekwa kwesịrị ekwesị.",
+    "section4Title": "4. Nchekwa na Nchekwa Data",
+    "section4Text": "Anyị na-eji usoro teknụzụ na nhazi kwesịrị ekwesị ichekwa ozi gị (dịka ọmụmaatụ, HTTPS, njikwa ohere). Ọ nweghị ụzọ nzipu ma ọ bụ nchekwa nke kwesịrị ntụkwasị obi 100%, yabụ anyị enweghị ike ikwe nkwa nchekwa zuru oke.",
+    "section5Title": "5. Idobe Data",
+    "section5Text": "Anyị na-edobe ozi nkeonwe oge niile dịka ọ dị mkpa iji nye ọrụ na maka ebumnuche azụmaahịa ziri ezi (dịka ọmụmaatụ, ndebe iwu, nchekwa, idozi esemokwu), ma ọ bụrụ na iwu achọghị oge idobe ogologo karịa.",
+    "section6Title": "6. Ikike gị",
+    "section6Text": "Dabere na ebe ị nọ (gụnyere UK/EU), ị nwere ike inwe ikike ịnweta, idozi, ihichapụ, ma ọ bụ gbochie nhazi nke data nkeonwe gị, yana ịrịọ mbufe. Iji mejupụta ikike ndị a, kpọtụrụ anyị.",
+    "section7Title": "7. Nzuzo Ụmụaka",
+    "section7Text": "Footeee adịghị maka ụmụaka na-erughị afọ 13. Anyị amaghị na anyị na-anakọta ozi nkeonwe sitere n'aka ụmụaka na-erughị afọ 13.",
+    "section8Title": "8. Mgbanwe na Amụma a",
+    "section8Text": "Anyị nwere ike melite amụma a site n'oge ruo n'oge. A ga-etinye mmelite na peeji a na ụbọchị \"Emelitere ikpeazụ\" a gbanwere.",
+    "contactTitle": "Kpọtụrụ anyị",
+    "contactEmail": "Email:",
+    "contactWebsite": "Webụsaịtị:"
+  },
+  "deleteData": {
+    "title": "Hichapụ Data M",
+    "description": "Ị nwere ikike ịrịọ ka ehichapụ akaụntụ gị na data nkeonwe metụtara ya. Anyị na-ahazi arịrịọ n'ime ụbọchị 30.",
+    "successMessage": "Edoziri arịrịọ gị. Biko zipu email ahụ mepere na ngwa email gị. Anyị ga-ahazi ya n'ime ụbọchị 30.",
+    "emailLabel": "Email jikọtara na akaụntụ gị",
+    "usernameLabel": "Aha onye ọrụ (nhọrọ)",
+    "scopeLabel": "Gịnị ka ị chọrọ ka ehichapụ?",
+    "scopeFull": "Ihe niile — hichapụ akaụntụ m na data niile",
+    "scopeData": "Data naanị — debe akaụntụ mana hichapụ data ọrụ",
+    "scopeProfile": "Profaịlụ naanị — hichapụ ozi profaịlụ",
+    "notesLabel": "Ihe ọ bụla ọzọ?",
+    "confirmLabel": "Aghọtara m na omume a enweghị ike ịlaghachi azụ.",
+    "submitButton": "Nyefee Arịrịọ",
+    "emailRequired": "Biko tinye email jikọtara na akaụntụ gị.",
+    "scopeFullLabel": "Nhichapụ akaụntụ zuru oke + data niile",
+    "scopeDataLabel": "Nhichapụ data ọrụ naanị",
+    "scopeProfileLabel": "Nhichapụ data profaịlụ naanị",
+    "notProvided": "Enyeghị",
+    "none": "Ọ dịghị"
+  },
+  "common": {
+    "close": "Mechie",
+    "download": "Budata ngwa ahụ (na-abịa n'oge na-adịghị anya)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Jikwaa",
+      "players": "Ndị Egwuregwu",
+      "squads": "Ndị Otu",
+      "venues": "Ebe Egwuregwu",
+      "games": "Egwuregwu",
+      "recent": "Nke oge na-adịbeghị anya"
+    },
+    "manager": {
+      "title": "Jikwaa",
+      "subtitle": "Ebe ọrụ onye njikwa gị",
+      "gamesManaged": "Egwuregwu a na-ejikwa",
+      "squadsManaged": "Ndị otu a na-ejikwa",
+      "playersInSquads": "Ndị egwuregwu n'ime ndị otu",
+      "upcoming": "Na-abịa",
+      "joinedGame": "{{name}} sonyeere egwuregwu"
+    },
+    "guest": {
+      "label": "Ọbịa",
+      "join": "Sonyere",
+      "newGame": "Egwuregwu Ọhụrụ"
+    },
+    "player": {
+      "squadsCount": "Ndị Otu ({{count}})",
+      "upcomingGamesCount": "Egwuregwu Na-abịa ({{count}})",
+      "left": "{{count}} fọdụrụ"
+    },
+    "time": {
+      "today": "Taa",
+      "monday": "Mọnde",
+      "tuesday": "Tuzdee",
+      "wednesday": "Wenezdee",
+      "thursday": "Tọọzdee",
+      "friday": "Fraịdee",
+      "saturday": "Satọdee",
+      "sunday": "Sọndee",
+      "at": "na",
+      "days": "ụbọchị"
+    }
+  }
+}

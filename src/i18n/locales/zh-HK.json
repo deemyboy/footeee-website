@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "輕輕一撳，搵到你嘅下一場比賽。",
+    "download": "下載應用程式（即將推出）",
+    "learnMore": "了解更多"
+  },
+  "roles": {
+    "heading": "一個應用，人人適用",
+    "subheading": "無論你只係想睇吓、加入比賽，定係管理一切——Footeee 都幫到你。",
+    "seeView": "睇{{role}}畫面",
+    "experience": "{{role}}體驗",
+    "guest": {
+      "title": "訪客",
+      "description": "隨時瀏覽我哋精彩嘅足球內容。",
+      "longDescription": "瀏覽所有即將舉行嘅比賽，查睇場地詳情，了解球員出席情況——唔使註冊帳戶。非常適合休閒球迷。",
+      "feature1": "瀏覽所有比賽",
+      "feature2": "查睇場地同時間",
+      "feature3": "唔使註冊帳戶"
+    },
+    "player": {
+      "title": "球員",
+      "description": "你嘅下一場波只需幾分鐘！",
+      "longDescription": "一撳即加入比賽，睇吓仲有邊個踢緊，當有空位或者比賽就快開始嗰時收到通知。",
+      "feature1": "即時加入比賽",
+      "feature2": "追蹤你嘅隊伍",
+      "feature3": "接收通知"
+    },
+    "manager": {
+      "title": "管理者",
+      "description": "畀 Footeee 幫你管理你嘅足球世界！",
+      "longDescription": "全面掌控比賽、隊伍同球員。建立比賽、分配隊伍、追蹤出席率同管理你嘅足球社區。",
+      "feature1": "建立同管理比賽",
+      "feature2": "組織隊伍",
+      "feature3": "全面掌控"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee。保留所有權利。",
+    "quickLinks": "快速連結",
+    "about": "關於",
+    "features": "功能",
+    "privacy": "私隱",
+    "download": "下載",
+    "availableOn": "支援 iOS 同 Android"
+  },
+  "privacy": {
+    "title": "私隱政策",
+    "lastUpdated": "最後更新：{{date}}",
+    "intro": "Footeee（「我哋」）營運 Footeee 流動應用程式（「應用程式」）同呢個網站。呢份私隱政策說明當你使用本應用程式及相關服務時，我哋點樣收集、使用、披露同保護你嘅資料。",
+    "section1Title": "1. 我哋收集嘅資料",
+    "section1Intro": "我哋可能收集以下類別嘅資料：",
+    "section1Item1": "帳戶資料（例如姓名、電郵地址、以雜湊/安全形式儲存嘅登入憑證）。",
+    "section1Item2": "應用程式使用資料（例如你建立/加入嘅比賽、隊伍、場地同互動）。",
+    "section1Item3": "裝置/技術數據（例如裝置類型、作業系統版本、應用程式版本、診斷資料）。",
+    "section2Title": "2. 我哋點樣使用你嘅資料",
+    "section2Item1": "建立同管理你嘅帳戶。",
+    "section2Item2": "提供核心功能，例如建立比賽、加入比賽同隊伍管理。",
+    "section2Item3": "提供支援同回應請求。",
+    "section2Item4": "提升可靠性、效能同用戶體驗。",
+    "section2Item5": "保護我哋服務嘅安全性同完整性。",
+    "section2NoSell": "我哋唔會出售你嘅個人資料。",
+    "section3Title": "3. 共享同披露",
+    "section3Text": "我哋只會喺營運服務、遵守法律義務或保護權利同安全嘅必要情況下共享資料。例如，我哋可能會使用基礎設施供應商（託管、電郵等），佢哋喺適當嘅安全保障下代表我哋處理數據。",
+    "section4Title": "4. 數據儲存同安全",
+    "section4Text": "我哋採用合理嘅技術同組織措施嚟保護你嘅資料（例如 HTTPS、存取控制）。冇任何傳輸或儲存方式係 100% 安全嘅，所以我哋無法保證絕對安全。",
+    "section5Title": "5. 數據保留",
+    "section5Text": "我哋會喺提供服務所需嘅期間及出於合法商業目的（例如合規、安全、爭議解決）保留個人資料，除非法律要求更長嘅保留期限。",
+    "section6Title": "6. 你嘅權利",
+    "section6Text": "根據你所在嘅地區（包括英國/歐盟），你可能有權存取、更正、刪除或限制處理你嘅個人數據，以及要求數據可攜性。如需行使呢啲權利，請聯絡我哋。",
+    "section7Title": "7. 兒童私隱",
+    "section7Text": "Footeee 並非為 13 歲以下嘅兒童而設。我哋唔會故意收集 13 歲以下兒童嘅個人資料。",
+    "section8Title": "8. 本政策嘅變更",
+    "section8Text": "我哋可能會不時更新本政策。更新會喺呢個頁面發佈，並附有修訂後嘅「最後更新」日期。",
+    "contactTitle": "聯絡方式",
+    "contactEmail": "電郵：",
+    "contactWebsite": "網站："
+  },
+  "deleteData": {
+    "title": "刪除我嘅數據",
+    "description": "你有權要求刪除你嘅帳戶同相關個人數據。我哋會喺 30 日內處理請求。",
+    "successMessage": "你嘅請求已準備好。請發送喺你郵件應用程式中打開嘅電郵。我哋會喺 30 日內處理。",
+    "emailLabel": "與你帳戶關聯嘅電郵",
+    "usernameLabel": "用戶名（可選）",
+    "scopeLabel": "你想刪除咩？",
+    "scopeFull": "全部——刪除我嘅帳戶同所有數據",
+    "scopeData": "只刪數據——保留帳戶但刪除活動數據",
+    "scopeProfile": "只刪個人資料——刪除個人資料信息",
+    "notesLabel": "仲有冇其他嘢要講？",
+    "confirmLabel": "我明白呢個操作係無法撤銷嘅。",
+    "submitButton": "提交請求",
+    "emailRequired": "請輸入與你帳戶關聯嘅電郵。",
+    "scopeFullLabel": "完整帳戶及所有數據刪除",
+    "scopeDataLabel": "只刪除活動數據",
+    "scopeProfileLabel": "只刪除個人資料數據",
+    "notProvided": "未提供",
+    "none": "無"
+  },
+  "common": {
+    "close": "關閉",
+    "download": "下載應用程式（即將推出）"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "管理",
+      "players": "球員",
+      "squads": "隊伍",
+      "venues": "場地",
+      "games": "比賽",
+      "recent": "最近"
+    },
+    "manager": {
+      "title": "管理",
+      "subtitle": "你嘅管理工作區",
+      "gamesManaged": "已管理嘅比賽",
+      "squadsManaged": "已管理嘅隊伍",
+      "playersInSquads": "隊伍入面嘅球員",
+      "upcoming": "即將到來",
+      "joinedGame": "{{name}} 加入咗一場比賽"
+    },
+    "guest": {
+      "label": "訪客",
+      "join": "加入",
+      "newGame": "新比賽"
+    },
+    "player": {
+      "squadsCount": "隊伍 ({{count}})",
+      "upcomingGamesCount": "即將到來嘅比賽 ({{count}})",
+      "left": "仲剩 {{count}}"
+    },
+    "time": {
+      "today": "今日",
+      "monday": "星期一",
+      "tuesday": "星期二",
+      "wednesday": "星期三",
+      "thursday": "星期四",
+      "friday": "星期五",
+      "saturday": "星期六",
+      "sunday": "星期日",
+      "at": "於",
+      "days": "日"
+    }
+  }
+}

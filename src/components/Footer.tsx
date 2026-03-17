@@ -1,8 +1,11 @@
 import React from 'react';
 import { Box, Container, Typography, Link } from '@mui/material';
 import Grid from '@mui/material/Grid';
+import { useTranslation } from 'react-i18next';
 
 const Footer: React.FC = () => {
+  const { t } = useTranslation();
+
   return (
     <Box sx={{ bgcolor: '#2c3e50', color: 'white', py: 6, mt: 8 }}>
       <Container maxWidth="lg">
@@ -11,29 +14,29 @@ const Footer: React.FC = () => {
             <Typography variant="h6" gutterBottom>
               Footeee
             </Typography>
-            <Typography variant="body2">© {new Date().getFullYear()} Footeee. All rights reserved.</Typography>
+            <Typography variant="body2">{t('footer.copyright', { year: new Date().getFullYear() })}</Typography>
           </Grid>
 
           <Grid size={{ xs: 12, sm: 4 }}>
             <Typography variant="h6" gutterBottom>
-              Quick Links
+              {t('footer.quickLinks')}
             </Typography>
             <Link href="#" color="inherit" display="block">
-              About
+              {t('footer.about')}
             </Link>
             <Link href="#" color="inherit" display="block">
-              Features
+              {t('footer.features')}
             </Link>
             <Link href="#" color="inherit" display="block">
-              Privacy
+              {t('footer.privacy')}
             </Link>
           </Grid>
 
           <Grid size={{ xs: 12, sm: 4 }}>
             <Typography variant="h6" gutterBottom>
-              Download
+              {t('footer.download')}
             </Typography>
-            <Typography variant="body2">Available on iOS and Android</Typography>
+            <Typography variant="body2">{t('footer.availableOn')}</Typography>
           </Grid>
         </Grid>
       </Container>

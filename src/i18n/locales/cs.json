@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Jedním klepnutím najdete svůj další zápas.",
+    "download": "Stáhněte si aplikaci (již brzy)",
+    "learnMore": "Zjistit více"
+  },
+  "roles": {
+    "heading": "Jedna aplikace pro všechny",
+    "subheading": "Ať už chcete jen prohlížet, připojit se ke hře, nebo vše řídit – Footeee vám pomůže.",
+    "seeView": "Zobrazit pohled {{role}}",
+    "experience": "Zobrazení pro {{role}}",
+    "guest": {
+      "title": "Host",
+      "description": "Prohlédněte si naše fotbalové lahůdky ve svém volném čase.",
+      "longDescription": "Procházejte všechny nadcházející zápasy, prohlížejte si podrobnosti o hřištích a sledujte dostupnost hráčů – vše bez registrace. Ideální pro příležitostné fanoušky.",
+      "feature1": "Procházet všechny zápasy",
+      "feature2": "Zobrazit hřiště a časy",
+      "feature3": "Bez nutnosti registrace"
+    },
+    "player": {
+      "title": "Hráč",
+      "description": "Vaše další fotbalové dobrodružství je jen pár minut daleko!",
+      "longDescription": "Připojte se ke hrám jedním klepnutím, podívejte se, kdo další hraje, a dostávejte oznámení, když se uvolní místo nebo se blíží začátek zápasu.",
+      "feature1": "Okamžité připojení ke hrám",
+      "feature2": "Sledujte své týmy",
+      "feature3": "Dostávejte oznámení"
+    },
+    "manager": {
+      "title": "Manažer",
+      "description": "Nechte Footeee postarat se o váš fotbalový svět!",
+      "longDescription": "Plná kontrola nad hrami, týmy a hráči. Vytvářejte hry, přiřazujte týmy, sledujte docházku a spravujte svou fotbalovou komunitu.",
+      "feature1": "Vytvářejte a spravujte hry",
+      "feature2": "Organizujte týmy",
+      "feature3": "Plná kontrola"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Všechna práva vyhrazena.",
+    "quickLinks": "Rychlé odkazy",
+    "about": "O aplikaci",
+    "features": "Funkce",
+    "privacy": "Ochrana soukromí",
+    "download": "Stáhnout",
+    "availableOn": "Dostupné pro iOS a Android"
+  },
+  "privacy": {
+    "title": "Zásady ochrany osobních údajů",
+    "lastUpdated": "Poslední aktualizace: {{date}}",
+    "intro": "Footeee (\"my\", \"naše\", \"nás\") provozuje mobilní aplikaci Footeee (\"Aplikace\") a tyto webové stránky. Tyto zásady ochrany osobních údajů vysvětlují, jak shromažďujeme, používáme, sdílíme a chráníme vaše informace při používání Aplikace a souvisejících služeb.",
+    "section1Title": "1. Informace, které shromažďujeme",
+    "section1Intro": "Můžeme shromažďovat následující kategorie informací:",
+    "section1Item1": "Informace o účtu (např. jméno, e-mailová adresa, přihlašovací údaje v hashované/zabezpečené podobě).",
+    "section1Item2": "Informace o používání aplikace (např. zápasy, které vytváříte/ke kterým se připojujete, týmy, hřiště a interakce).",
+    "section1Item3": "Údaje o zařízení/technické údaje (např. typ zařízení, verze OS, verze aplikace, diagnostika).",
+    "section2Title": "2. Jak používáme vaše informace",
+    "section2Item1": "Pro vytvoření a správu vašeho účtu.",
+    "section2Item2": "Pro poskytování základních funkcí, jako je vytváření zápasů, připojování a správa týmů.",
+    "section2Item3": "Pro poskytování podpory a odpovídání na požadavky.",
+    "section2Item4": "Pro zlepšení spolehlivosti, výkonu a uživatelského zážitku.",
+    "section2Item5": "Pro ochranu bezpečnosti a integrity našich služeb.",
+    "section2NoSell": "Vaše osobní údaje neprodáváme.",
+    "section3Title": "3. Sdílení a zveřejňování",
+    "section3Text": "Informace můžeme sdílet pouze v rozsahu nezbytném pro provoz služby, plnění zákonných povinností nebo ochranu práv a bezpečnosti. Například můžeme využívat poskytovatele infrastruktury (hosting, e-mail atd.), kteří zpracovávají údaje naším jménem za odpovídajících bezpečnostních opatření.",
+    "section4Title": "4. Ukládání dat a bezpečnost",
+    "section4Text": "Používáme přiměřená technická a organizační opatření k ochraně vašich informací (např. HTTPS, řízení přístupu). Žádný způsob přenosu nebo ukládání není 100% bezpečný, proto nemůžeme zaručit absolutní bezpečnost.",
+    "section5Title": "5. Uchovávání dat",
+    "section5Text": "Osobní údaje uchováváme po dobu nezbytnou k poskytování služby a pro legitimní obchodní účely (např. soulad s předpisy, bezpečnost, řešení sporů), pokud zákon nevyžaduje delší dobu uchovávání.",
+    "section6Title": "6. Vaše práva",
+    "section6Text": "V závislosti na vaší poloze (včetně UK/EU) můžete mít práva na přístup, opravu, vymazání nebo omezení zpracování vašich osobních údajů a na přenositelnost údajů. Pro uplatnění těchto práv nás kontaktujte.",
+    "section7Title": "7. Ochrana soukromí dětí",
+    "section7Text": "Footeee není určena pro děti mladší 13 let. Vědomě neshromažďujeme osobní údaje dětí mladších 13 let.",
+    "section8Title": "8. Změny těchto zásad",
+    "section8Text": "Tyto zásady můžeme čas od času aktualizovat. Aktualizace budou zveřejněny na této stránce s upraveným datem \"Poslední aktualizace\".",
+    "contactTitle": "Kontakt",
+    "contactEmail": "E-mail:",
+    "contactWebsite": "Webové stránky:"
+  },
+  "deleteData": {
+    "title": "Smazat moje data",
+    "description": "Máte právo požádat o smazání svého účtu a souvisejících osobních údajů. Požadavky zpracováváme do 30 dnů.",
+    "successMessage": "Váš požadavek byl připraven. Prosím odešlete e-mail, který se otevřel ve vaší poštovní aplikaci. Zpracujeme ho do 30 dnů.",
+    "emailLabel": "E-mail spojený s vaším účtem",
+    "usernameLabel": "Uživatelské jméno (volitelné)",
+    "scopeLabel": "Co byste chtěli smazat?",
+    "scopeFull": "Vše — smazat můj účet a všechna data",
+    "scopeData": "Pouze data — ponechat účet, ale smazat data o aktivitě",
+    "scopeProfile": "Pouze profil — smazat informace o profilu",
+    "notesLabel": "Ještě něco?",
+    "confirmLabel": "Rozumím, že tato akce je nevratná.",
+    "submitButton": "Odeslat požadavek",
+    "emailRequired": "Prosím zadejte e-mail spojený s vaším účtem.",
+    "scopeFullLabel": "Úplné smazání účtu a všech dat",
+    "scopeDataLabel": "Smazání pouze dat o aktivitě",
+    "scopeProfileLabel": "Smazání pouze dat profilu",
+    "notProvided": "Neposkytnuto",
+    "none": "Žádné"
+  },
+  "common": {
+    "close": "Zavřít",
+    "download": "Stáhněte si aplikaci (již brzy)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Sprava",
+      "players": "Hraci",
+      "squads": "Tymy",
+      "venues": "Hriste",
+      "games": "Hry",
+      "recent": "Nedavne"
+    },
+    "manager": {
+      "title": "Sprava",
+      "subtitle": "Pracovni prostor manazera",
+      "gamesManaged": "Spravovane hry",
+      "squadsManaged": "Spravovane tymy",
+      "playersInSquads": "Hraci v tymech",
+      "upcoming": "Nadchazejici",
+      "joinedGame": "{{name}} se pripojil ke hre"
+    },
+    "guest": {
+      "label": "Host",
+      "join": "Pripojit se",
+      "newGame": "Nova hra"
+    },
+    "player": {
+      "squadsCount": "Tymy ({{count}})",
+      "upcomingGamesCount": "Nadchazejici hry ({{count}})",
+      "left": "{{count}} zbyvajicich"
+    },
+    "time": {
+      "today": "Dnes",
+      "monday": "Pondeli",
+      "tuesday": "Utery",
+      "wednesday": "Streda",
+      "thursday": "Ctvrtek",
+      "friday": "Patek",
+      "saturday": "Sobota",
+      "sunday": "Nedele",
+      "at": "v",
+      "days": "dnu"
+    }
+  }
+}

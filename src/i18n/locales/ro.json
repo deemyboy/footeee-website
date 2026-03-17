@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "O singură atingere pentru a-ți găsi următorul meci.",
+    "download": "Descarcă aplicația (în curând)",
+    "learnMore": "Află mai multe"
+  },
+  "roles": {
+    "heading": "O singură aplicație pentru toată lumea",
+    "subheading": "Fie că vrei doar să navighezi, să te alături unui meci sau să conduci spectacolul – Footeee te acoperă.",
+    "seeView": "Vezi vizualizarea {{role}}",
+    "experience": "Experiența {{role}}",
+    "guest": {
+      "title": "Vizitator",
+      "description": "Descoperă deliciile noastre fotbalistice în ritmul tău.",
+      "longDescription": "Navighează prin toate meciurile viitoare, vezi detalii despre locații și verifică disponibilitatea jucătorilor – totul fără cont. Perfect pentru fanii ocazionali.",
+      "feature1": "Navighează prin toate meciurile",
+      "feature2": "Vezi locațiile și orele",
+      "feature3": "Nu este nevoie de cont"
+    },
+    "player": {
+      "title": "Jucător",
+      "description": "Următoarea ta intrare pe teren e la doar câteva minute distanță!",
+      "longDescription": "Alătură-te meciurilor cu o singură atingere, vezi cine mai joacă și primește notificări când se eliberează un loc sau un meci este pe cale să înceapă.",
+      "feature1": "Alătură-te meciurilor instant",
+      "feature2": "Urmărește-ți echipele",
+      "feature3": "Primește notificări"
+    },
+    "manager": {
+      "title": "Manager",
+      "description": "Lasă Footeee să aibă grijă de lumea ta fotbalistică!",
+      "longDescription": "Control total asupra meciurilor, echipelor și jucătorilor. Creează meciuri, atribuie echipe, urmărește prezența și gestionează comunitatea ta de fotbal.",
+      "feature1": "Creează și gestionează meciuri",
+      "feature2": "Organizează echipele",
+      "feature3": "Control total"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Toate drepturile rezervate.",
+    "quickLinks": "Linkuri rapide",
+    "about": "Despre",
+    "features": "Funcționalități",
+    "privacy": "Confidențialitate",
+    "download": "Descarcă",
+    "availableOn": "Disponibil pe iOS și Android"
+  },
+  "privacy": {
+    "title": "Politica de confidențialitate",
+    "lastUpdated": "Ultima actualizare: {{date}}",
+    "intro": "Footeee (\"noi\", \"al nostru\") operează aplicația mobilă Footeee (\"Aplicația\") și acest site web. Această Politică de confidențialitate explică modul în care colectăm, utilizăm, dezvăluim și protejăm informațiile dumneavoastră atunci când utilizați Aplicația și serviciile conexe.",
+    "section1Title": "1. Informațiile pe care le colectăm",
+    "section1Intro": "Putem colecta următoarele categorii de informații:",
+    "section1Item1": "Informații despre cont (de ex., nume, adresă de email, date de autentificare în formă criptată/securizată).",
+    "section1Item2": "Informații despre utilizarea aplicației (de ex., meciuri pe care le creați/la care vă alăturați, echipe, locații și interacțiuni).",
+    "section1Item3": "Date tehnice/despre dispozitiv (de ex., tipul dispozitivului, versiunea sistemului de operare, versiunea aplicației, diagnostice).",
+    "section2Title": "2. Cum utilizăm informațiile dumneavoastră",
+    "section2Item1": "Pentru a crea și gestiona contul dumneavoastră.",
+    "section2Item2": "Pentru a furniza funcționalitățile principale, cum ar fi crearea meciurilor, alăturarea și gestionarea echipelor.",
+    "section2Item3": "Pentru a oferi suport și a răspunde solicitărilor.",
+    "section2Item4": "Pentru a îmbunătăți fiabilitatea, performanța și experiența utilizatorului.",
+    "section2Item5": "Pentru a proteja securitatea și integritatea serviciilor noastre.",
+    "section2NoSell": "Nu vindem informațiile dumneavoastră personale.",
+    "section3Title": "3. Partajare și dezvăluire",
+    "section3Text": "Putem partaja informații doar în măsura necesară pentru operarea serviciului, conformarea cu obligațiile legale sau protejarea drepturilor și siguranței. De exemplu, putem utiliza furnizori de infrastructură (hosting, email etc.) care procesează date în numele nostru cu garanții adecvate.",
+    "section4Title": "4. Stocarea și securitatea datelor",
+    "section4Text": "Utilizăm măsuri tehnice și organizatorice rezonabile pentru a proteja informațiile dumneavoastră (de ex., HTTPS, controlul accesului). Nicio metodă de transmisie sau stocare nu este 100% sigură, prin urmare nu putem garanta securitatea absolută.",
+    "section5Title": "5. Retenția datelor",
+    "section5Text": "Păstrăm informațiile personale atât timp cât este necesar pentru furnizarea serviciului și pentru scopuri comerciale legitime (de ex., conformitate, securitate, soluționarea disputelor), cu excepția cazului în care legea impune o perioadă mai lungă de păstrare.",
+    "section6Title": "6. Drepturile dumneavoastră",
+    "section6Text": "În funcție de locația dumneavoastră (inclusiv Regatul Unit/UE), este posibil să aveți drepturi de acces, corectare, ștergere sau restricționare a prelucrării datelor personale, precum și de a solicita portabilitatea. Pentru a exercita aceste drepturi, contactați-ne.",
+    "section7Title": "7. Confidențialitatea copiilor",
+    "section7Text": "Footeee nu este destinat copiilor sub 13 ani. Nu colectăm cu bună știință informații personale de la copii sub 13 ani.",
+    "section8Title": "8. Modificări ale acestei politici",
+    "section8Text": "Putem actualiza această politică din când în când. Actualizările vor fi publicate pe această pagină cu o dată revizuită 'Ultima actualizare'.",
+    "contactTitle": "Contact",
+    "contactEmail": "Email:",
+    "contactWebsite": "Site web:"
+  },
+  "deleteData": {
+    "title": "Șterge datele mele",
+    "description": "Aveți dreptul de a solicita ștergerea contului și a datelor personale asociate. Procesăm solicitările în termen de 30 de zile.",
+    "successMessage": "Solicitarea dumneavoastră a fost pregătită. Vă rugăm să trimiteți emailul care s-a deschis în aplicația de mail. Îl vom procesa în termen de 30 de zile.",
+    "emailLabel": "Emailul asociat contului dumneavoastră",
+    "usernameLabel": "Nume de utilizator (opțional)",
+    "scopeLabel": "Ce doriți să fie șters?",
+    "scopeFull": "Totul – șterge contul meu și toate datele",
+    "scopeData": "Doar datele – păstrează contul dar șterge datele de activitate",
+    "scopeProfile": "Doar profilul – șterge informațiile de profil",
+    "notesLabel": "Altceva?",
+    "confirmLabel": "Înțeleg că această acțiune este ireversibilă.",
+    "submitButton": "Trimite solicitarea",
+    "emailRequired": "Vă rugăm să introduceți emailul asociat contului dumneavoastră.",
+    "scopeFullLabel": "Ștergerea completă a contului și a tuturor datelor",
+    "scopeDataLabel": "Ștergerea doar a datelor de activitate",
+    "scopeProfileLabel": "Ștergerea doar a datelor de profil",
+    "notProvided": "Nefurnizat",
+    "none": "Niciunul"
+  },
+  "common": {
+    "close": "Închide",
+    "download": "Descarcă aplicația (în curând)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Administrare",
+      "players": "Jucători",
+      "squads": "Echipe",
+      "venues": "Locații",
+      "games": "Meciuri",
+      "recent": "Recente"
+    },
+    "manager": {
+      "title": "Administrare",
+      "subtitle": "Spațiul de lucru al managerului",
+      "gamesManaged": "Meciuri administrate",
+      "squadsManaged": "Echipe administrate",
+      "playersInSquads": "Jucători in echipe",
+      "upcoming": "Viitoare",
+      "joinedGame": "{{name}} s-a alaturat unui meci"
+    },
+    "guest": {
+      "label": "Vizitator",
+      "join": "Alatura-te",
+      "newGame": "Meci nou"
+    },
+    "player": {
+      "squadsCount": "Echipe ({{count}})",
+      "upcomingGamesCount": "Meciuri viitoare ({{count}})",
+      "left": "{{count}} ramase"
+    },
+    "time": {
+      "today": "Astazi",
+      "monday": "Luni",
+      "tuesday": "Marti",
+      "wednesday": "Miercuri",
+      "thursday": "Joi",
+      "friday": "Vineri",
+      "saturday": "Sambata",
+      "sunday": "Duminica",
+      "at": "la",
+      "days": "zile"
+    }
+  }
+}

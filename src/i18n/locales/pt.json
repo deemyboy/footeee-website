@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Um toque para encontrar o seu próximo jogo.",
+    "download": "Baixar o aplicativo (em breve)",
+    "learnMore": "Saiba mais"
+  },
+  "roles": {
+    "heading": "Um aplicativo para todos",
+    "subheading": "Quer apenas explorar, participar de um jogo ou organizar tudo – o Footeee tem o que você precisa.",
+    "seeView": "Ver visão do {{role}}",
+    "experience": "Experiência do {{role}}",
+    "guest": {
+      "title": "Visitante",
+      "description": "Explore as nossas opções de futebol ao seu ritmo.",
+      "longDescription": "Veja todos os jogos futuros, detalhes dos locais e a disponibilidade dos jogadores – tudo sem precisar de uma conta. Perfeito para fãs casuais.",
+      "feature1": "Explorar todos os jogos",
+      "feature2": "Ver locais e horários",
+      "feature3": "Sem necessidade de conta"
+    },
+    "player": {
+      "title": "Jogador",
+      "description": "A sua próxima partida está a poucos minutos!",
+      "longDescription": "Participe de jogos com um toque, veja quem mais está a jogar e receba notificações quando surgir uma vaga ou um jogo estiver prestes a começar.",
+      "feature1": "Participe de jogos instantaneamente",
+      "feature2": "Acompanhe os seus grupos",
+      "feature3": "Receba notificações"
+    },
+    "manager": {
+      "title": "Gestor",
+      "description": "Deixe o Footeee cuidar do seu mundo do futebol!",
+      "longDescription": "Controlo total sobre jogos, equipas e jogadores. Crie jogos, atribua equipas, acompanhe a presença e gerencie a sua comunidade de futebol.",
+      "feature1": "Criar e gerir jogos",
+      "feature2": "Organizar equipas",
+      "feature3": "Controlo total"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Todos os direitos reservados.",
+    "quickLinks": "Links Rápidos",
+    "about": "Sobre",
+    "features": "Funcionalidades",
+    "privacy": "Privacidade",
+    "download": "Baixar",
+    "availableOn": "Disponível para iOS e Android"
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última atualização: {{date}}",
+    "intro": "A Footeee (\"nós\", \"nosso\", \"nos\") opera o aplicativo móvel Footeee (o \"App\") e este website. Esta Política de Privacidade explica como recolhemos, usamos, divulgamos e protegemos as suas informações quando utiliza o App e os serviços relacionados.",
+    "section1Title": "1. Informações que Recolhemos",
+    "section1Intro": "Podemos recolher as seguintes categorias de informações:",
+    "section1Item1": "Informações da conta (ex.: nome, endereço de email, credenciais de acesso em formato hash/seguro).",
+    "section1Item2": "Informações de utilização do app (ex.: jogos que cria/participa, equipas, locais e interações).",
+    "section1Item3": "Dados técnicos/do dispositivo (ex.: tipo de dispositivo, versão do SO, versão do app, diagnósticos).",
+    "section2Title": "2. Como Usamos as Suas Informações",
+    "section2Item1": "Para criar e gerir a sua conta.",
+    "section2Item2": "Para fornecer funcionalidades principais como criação de jogos, participação e gestão de equipas.",
+    "section2Item3": "Para prestar suporte e responder a pedidos.",
+    "section2Item4": "Para melhorar a fiabilidade, desempenho e experiência do utilizador.",
+    "section2Item5": "Para proteger a segurança e integridade dos nossos serviços.",
+    "section2NoSell": "Não vendemos as suas informações pessoais.",
+    "section3Title": "3. Partilha e Divulgação",
+    "section3Text": "Podemos partilhar informações apenas quando necessário para operar o serviço, cumprir obrigações legais ou proteger direitos e segurança. Por exemplo, podemos utilizar fornecedores de infraestrutura (alojamento, email, etc.) que processam dados em nosso nome com as devidas salvaguardas.",
+    "section4Title": "4. Armazenamento e Segurança dos Dados",
+    "section4Text": "Utilizamos medidas técnicas e organizacionais razoáveis para proteger as suas informações (ex.: HTTPS, controlos de acesso). Nenhum método de transmissão ou armazenamento é 100% seguro, pelo que não podemos garantir segurança absoluta.",
+    "section5Title": "5. Retenção de Dados",
+    "section5Text": "Retemos informações pessoais enquanto for necessário para fornecer o serviço e para fins comerciais legítimos (ex.: conformidade, segurança, resolução de litígios), salvo se um período de retenção mais longo for exigido por lei.",
+    "section6Title": "6. Os Seus Direitos",
+    "section6Text": "Dependendo da sua localização (incluindo Reino Unido/UE), pode ter direitos de acesso, correção, eliminação ou restrição do tratamento dos seus dados pessoais, e de solicitar portabilidade. Para exercer estes direitos, contacte-nos.",
+    "section7Title": "7. Privacidade Infantil",
+    "section7Text": "O Footeee não se destina a crianças menores de 13 anos. Não recolhemos intencionalmente informações pessoais de crianças menores de 13 anos.",
+    "section8Title": "8. Alterações a Esta Política",
+    "section8Text": "Podemos atualizar esta política periodicamente. As atualizações serão publicadas nesta página com uma data de \"Última atualização\" revista.",
+    "contactTitle": "Contacto",
+    "contactEmail": "Email:",
+    "contactWebsite": "Website:"
+  },
+  "deleteData": {
+    "title": "Eliminar os Meus Dados",
+    "description": "Tem o direito de solicitar a eliminação da sua conta e dos dados pessoais associados. Processamos os pedidos no prazo de 30 dias.",
+    "successMessage": "O seu pedido foi preparado. Por favor, envie o email que abriu no seu aplicativo de correio. Processá-lo-emos no prazo de 30 dias.",
+    "emailLabel": "Email associado à sua conta",
+    "usernameLabel": "Nome de utilizador (opcional)",
+    "scopeLabel": "O que gostaria de eliminar?",
+    "scopeFull": "Tudo — eliminar a minha conta e todos os dados",
+    "scopeData": "Apenas dados — manter a conta mas eliminar dados de atividade",
+    "scopeProfile": "Apenas perfil — eliminar informações do perfil",
+    "notesLabel": "Mais alguma coisa?",
+    "confirmLabel": "Compreendo que esta ação é irreversível.",
+    "submitButton": "Enviar Pedido",
+    "emailRequired": "Por favor, insira o email associado à sua conta.",
+    "scopeFullLabel": "Eliminação total da conta + todos os dados",
+    "scopeDataLabel": "Eliminação apenas dos dados de atividade",
+    "scopeProfileLabel": "Eliminação apenas dos dados do perfil",
+    "notProvided": "Não fornecido",
+    "none": "Nenhum"
+  },
+  "common": {
+    "close": "Fechar",
+    "download": "Baixar o aplicativo (em breve)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Gerir",
+      "players": "Jogadores",
+      "squads": "Equipas",
+      "venues": "Locais",
+      "games": "Jogos",
+      "recent": "Recentes"
+    },
+    "manager": {
+      "title": "Gerir",
+      "subtitle": "O seu espaço de gestor",
+      "gamesManaged": "Jogos geridos",
+      "squadsManaged": "Equipas geridas",
+      "playersInSquads": "Jogadores nas equipas",
+      "upcoming": "Próximos",
+      "joinedGame": "{{name}} juntou-se a um jogo"
+    },
+    "guest": {
+      "label": "Visitante",
+      "join": "Participar",
+      "newGame": "Novo jogo"
+    },
+    "player": {
+      "squadsCount": "Equipas ({{count}})",
+      "upcomingGamesCount": "Próximos jogos ({{count}})",
+      "left": "{{count}} restante(s)"
+    },
+    "time": {
+      "today": "Hoje",
+      "monday": "Segunda-feira",
+      "tuesday": "Terça-feira",
+      "wednesday": "Quarta-feira",
+      "thursday": "Quinta-feira",
+      "friday": "Sexta-feira",
+      "saturday": "Sábado",
+      "sunday": "Domingo",
+      "at": "às",
+      "days": "dias"
+    }
+  }
+}

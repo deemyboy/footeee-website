@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Thinta kanye uthole umdlalo olandelayo.",
+    "download": "Landa uhlelo lokusebenza (luyeza maduze)",
+    "learnMore": "Funda kabanzi"
+  },
+  "roles": {
+    "heading": "Uhlelo olulodwa labo bonke",
+    "subheading": "Noma ufuna ukubheka nje, ukujoyina umdlalo, noma ukuphatha – Footeee ikuhlomisile.",
+    "seeView": "Bona ukubuka kwe-{{role}}",
+    "experience": "Ulwazi lwe-{{role}}",
+    "guest": {
+      "title": "Isivakashi",
+      "description": "Bheka injabulo yethu yebhola ngokukhululeka.",
+      "longDescription": "Bheka yonke imidlalo ezayo, bona imininingwane yezinkundla, futhi uhlole ukutholakala kwabadlali – konke ngaphandle kwe-akhawunti. Kulungele abalandeli abangajwayelekile.",
+      "feature1": "Bheka yonke imidlalo",
+      "feature2": "Bona izinkundla nezikhathi",
+      "feature3": "Akudingeki i-akhawunti"
+    },
+    "player": {
+      "title": "Umdlali",
+      "description": "Umdlalo wakho olandelayo usemzuzwini nje!",
+      "longDescription": "Joyina imidlalo ngokuthinta okukodwa, bona ukuthi ubani omunye odlalayo, futhi uthole izaziso uma ithuba livuleka noma umdlalo uzoquala.",
+      "feature1": "Joyina imidlalo ngokushesha",
+      "feature2": "Landelela amaqembu akho",
+      "feature3": "Thola izaziso"
+    },
+    "manager": {
+      "title": "Umphathi",
+      "description": "Vumela Footeee inakekele umhlaba wakho webhola!",
+      "longDescription": "Ukulawula okugcwele phezu kwemidlalo, amaqembu, nabadlali. Dala imidlalo, abela amaqembu, landelela ukuza, futhi uphathe umphakathi wakho webhola.",
+      "feature1": "Dala futhi uphathe imidlalo",
+      "feature2": "Hlela amaqembu",
+      "feature3": "Ukulawula okugcwele"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Wonke amalungelo agodliwe.",
+    "quickLinks": "Izixhumanisi Ezisheshayo",
+    "about": "Mayelana",
+    "features": "Izici",
+    "privacy": "Ubumfihlo",
+    "download": "Landa",
+    "availableOn": "Iyatholakala ku-iOS ne-Android"
+  },
+  "privacy": {
+    "title": "Inqubomgomo Yobumfihlo",
+    "lastUpdated": "Ibuyekezwe kokugcina: {{date}}",
+    "intro": "Footeee (\"thina\", \"okwethu\") isebenzisa uhlelo lokusebenza lwe-Footeee lweselula (\"Uhlelo\") naleli webusayithi. Le Nqubomgomo Yobumfihlo ichaza indlela esiqoqa, esisebenzisa, esiveza, nesivikela ngayo ulwazi lwakho uma usebenzisa Uhlelo kanye nezinsizakalo ezihlobene.",
+    "section1Title": "1. Ulwazi Esiliqoqayo",
+    "section1Intro": "Singase siqoqe lezi zinhlobo zolwazi:",
+    "section1Item1": "Ulwazi lwe-akhawunti (isib., igama, ikheli le-imeyili, imininingwane yokungena ngendlela ephephile).",
+    "section1Item2": "Ulwazi lokusetshenziswa kohlelo (isib., imidlalo oyidalayo/oyijoyinayo, amaqembu, izinkundla, nokuxhumana).",
+    "section1Item3": "Idatha yedivayisi/yobuchwepheshe (isib., uhlobo lwedivayisi, inguqulo ye-OS, inguqulo yohlelo, ukuhlolwa).",
+    "section2Title": "2. Indlela Esisebenzisa Ngayo Ulwazi Lwakho",
+    "section2Item1": "Ukudala nokuphatha i-akhawunti yakho.",
+    "section2Item2": "Ukuhlinzeka ngezici eziyinhloko njengokudala umdlalo, ukujoyina, nokuphatha amaqembu.",
+    "section2Item3": "Ukuhlinzeka ngosizo nokuphendula izicelo.",
+    "section2Item4": "Ukuthuthukisa ukwethembeka, ukusebenza, nesipiliyoni somsebenzisi.",
+    "section2Item5": "Ukuvikela ukuphepha nobuqotho bezinsizakalo zethu.",
+    "section2NoSell": "Asithengisi ulwazi lwakho lomuntu siqu.",
+    "section3Title": "3. Ukwabelana Nokuveza",
+    "section3Text": "Singase sabelane ngolwazi kuphela njengoba kudingeka ukusebenzisa insizakalo, ukuthobela izibopho zomthetho, noma ukuvikela amalungelo nokuphepha. Isibonelo, singase sisebenzise abahlinzeki bengqalasizinda (ukusingatha, i-imeyili, njll.) abacubungula idatha egameni lethu ngaphansi kwezivikelo ezifanele.",
+    "section4Title": "4. Ukugcinwa Kwedatha Nokuphepha",
+    "section4Text": "Sisebenzisa izinyathelo zobuchwepheshe nezinhlelo ezifanele ukuvikela ulwazi lwakho (isib., HTTPS, izilawuli zokufinyelela). Ayikho indlela yokudlulisa noma yokugcina enokuphepha okungama-100%, ngakho asikwazi ukuqinisekisa ukuphepha okugcwele.",
+    "section5Title": "5. Ukugcinwa Kwedatha",
+    "section5Text": "Sigcina ulwazi lomuntu siqu uma nje kudingeka ukuhlinzeka ngensizakalo kanye nezinjongo zebhizinisi ezisemthethweni (isib., ukuthobela, ukuphepha, ukuxazulula izingxabano), ngaphandle uma isikhathi eside sokugcina sidingwa ngumthetho.",
+    "section6Title": "6. Amalungelo Akho",
+    "section6Text": "Ngokuya ngendawo yakho (kuhlanganisa i-UK/EU), ungase ube namalungelo okufinyelela, ukulungisa, ukususa, noma ukukhawulela ukucutshungulwa kwedatha yakho yomuntu siqu, kanye nokucela ukudluliselwa. Ukusebenzisa la malungelo, xhumana nathi.",
+    "section7Title": "7. Ubumfihlo Bezingane",
+    "section7Text": "Footeee ayenzelwanga izingane ezingaphansi kweminyaka engu-13. Asiqoqi ngamabomu ulwazi lomuntu siqu lwezingane ezingaphansi kweminyaka engu-13.",
+    "section8Title": "8. Izinguquko Kule Nqubomgomo",
+    "section8Text": "Singase sibuyekeze le nqubomgomo ngezikhathi ezithile. Izibuyekezo zizofakwa kuleli khasi nelusuku olusha oluthi \"Ibuyekezwe kokugcina\".",
+    "contactTitle": "Xhumana Nathi",
+    "contactEmail": "I-imeyili:",
+    "contactWebsite": "Iwebusayithi:"
+  },
+  "deleteData": {
+    "title": "Susa Idatha Yami",
+    "description": "Unelungelo lokucela ukususwa kwe-akhawunti yakho nedatha yomuntu siqu ehlobene. Sicubungula izicelo zangaphakathi kwezinsuku ezingu-30.",
+    "successMessage": "Isicelo sakho silungisiwe. Sicela uthumele i-imeyili evuleke kuhlelo lwakho lweposi. Sizosicubungula zingaphakathi kwezinsuku ezingu-30.",
+    "emailLabel": "I-imeyili exhunywe ku-akhawunti yakho",
+    "usernameLabel": "Igama lomsebenzisi (ukukhetha)",
+    "scopeLabel": "Yini ongathanda ukuthi isuswe?",
+    "scopeFull": "Konke — susa i-akhawunti yami nayo yonke idatha",
+    "scopeData": "Idatha kuphela — gcina i-akhawunti kodwa ususe idatha yomsebenzi",
+    "scopeProfile": "Iphrofayela kuphela — susa ulwazi lwephrofayela",
+    "notesLabel": "Kukhona okunye?",
+    "confirmLabel": "Ngiyaqonda ukuthi lesi senzo asibuyiseleki.",
+    "submitButton": "Thumela Isicelo",
+    "emailRequired": "Sicela ufake i-imeyili exhunywe ku-akhawunti yakho.",
+    "scopeFullLabel": "Ukususwa kwe-akhawunti egcwele + yonke idatha",
+    "scopeDataLabel": "Ukususwa kwedatha yomsebenzi kuphela",
+    "scopeProfileLabel": "Ukususwa kwedatha yephrofayela kuphela",
+    "notProvided": "Akuhlinzekwanga",
+    "none": "Lutho"
+  },
+  "common": {
+    "close": "Vala",
+    "download": "Landa uhlelo lokusebenza (luyeza maduze)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Phatha",
+      "players": "Abadlali",
+      "squads": "Amaqembu",
+      "venues": "Izinkundla",
+      "games": "Imidlalo",
+      "recent": "Yakamuva"
+    },
+    "manager": {
+      "title": "Phatha",
+      "subtitle": "Indawo yakho yokusebenza yomphathi",
+      "gamesManaged": "Imidlalo ephethwe",
+      "squadsManaged": "Amaqembu aphethwe",
+      "playersInSquads": "Abadlali emaqenjini",
+      "upcoming": "Ezayo",
+      "joinedGame": "{{name}} ujoyine umdlalo"
+    },
+    "guest": {
+      "label": "Isivakashi",
+      "join": "Joyina",
+      "newGame": "Umdlalo Omusha"
+    },
+    "player": {
+      "squadsCount": "Amaqembu ({{count}})",
+      "upcomingGamesCount": "Imidlalo Ezayo ({{count}})",
+      "left": "{{count}} esele"
+    },
+    "time": {
+      "today": "Namuhla",
+      "monday": "UMsombuluko",
+      "tuesday": "ULwesibili",
+      "wednesday": "ULwesithathu",
+      "thursday": "ULwesine",
+      "friday": "ULwesihlanu",
+      "saturday": "UMgqibelo",
+      "sunday": "ISonto",
+      "at": "ngo",
+      "days": "izinsuku"
+    }
+  }
+}

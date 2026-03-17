@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Tobetsa 'ngoe o fumane papali ea hau e latelang.",
+    "download": "Jarolla app (e ea tla)",
+    "learnMore": "Ithute ho feta"
+  },
+  "roles": {
+    "heading": "App e le 'ngoe bakeng sa bohle",
+    "subheading": "Leha u batla ho sheba feela, ho kenela papali, kapa ho tsamaisa – Footeee e u sireletsa.",
+    "seeView": "Bona pono ea {{role}}",
+    "experience": "Boiphihlelo ba {{role}}",
+    "guest": {
+      "title": "Moeti",
+      "description": "Sheba lintho tse monate tsa bolo ka boiketlo ba hau.",
+      "longDescription": "Sheba lipapali tsohle tse tlang, lintlha tsa libaka, le baraleli ba teng – tsohle ntle le akhaonto. E loketse batho ba ratang bolo.",
+      "feature1": "Sheba lipapali tsohle",
+      "feature2": "Bona libaka le linako",
+      "feature3": "Ha ho akhaonto e hlokahalang"
+    },
+    "player": {
+      "title": "Sebapali",
+      "description": "Papali ea hau e latelang e metsotso e se mekae feela!",
+      "longDescription": "Kenela lipapali ka tobetso e le 'ngoe, bona hore na ke mang ea bapallang, 'me o fumane litsebiso ha sebaka se buleha kapa papali e le haufi le ho qala.",
+      "feature1": "Kenela lipapali ka potlako",
+      "feature2": "Latela lihlopha tsa hau",
+      "feature3": "Fumana litsebiso"
+    },
+    "manager": {
+      "title": "Motsamaisi",
+      "description": "Tlohela Footeee e hlokomele lefatše la hau la bolo!",
+      "longDescription": "Taolo e felletseng ea lipapali, lihlopha, le baraleli. Theha lipapali, khetha lihlopha, latela boteng, 'me o tsamaise setjhaba sa hau sa bolo.",
+      "feature1": "Theha le ho tsamaisa lipapali",
+      "feature2": "Hlophisa lihlopha",
+      "feature3": "Taolo e felletseng"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Litokelo tsohle li sireletsehile.",
+    "quickLinks": "Lihokelo tse potlakileng",
+    "about": "Ka",
+    "features": "Likarolo",
+    "privacy": "Lekunutu",
+    "download": "Jarolla",
+    "availableOn": "E fumaneha ho iOS le Android"
+  },
+  "privacy": {
+    "title": "Leano la Lekunutu",
+    "lastUpdated": "E fetotsoeng la ho qetela: {{date}}",
+    "intro": "Footeee (\"rona\", \"ea rona\") e sebelisa app ea Footeee ea mohala (\"App\") le webosaete ena. Leano lena la lekunutu le hlalosa kamoo re bokellang, re sebelisang, re fang, le ho sireletsa tlhahisoleseling ea hau ha u sebelisa App le litšebeletso tse amanang le eona.",
+    "section1Title": "1. Tlhahisoleseling eo re e Bokellang",
+    "section1Intro": "Re ka bokella mefuta e latelang ea tlhahisoleseling:",
+    "section1Item1": "Tlhahisoleseling ea akhaonto (mohlala: lebitso, aterese ea imeile, lintlha tsa ho kena ka tsela e sireletsehileng).",
+    "section1Item2": "Tlhahisoleseling ea tšebeliso ea app (mohlala: lipapali tseo u li thehang/kenelang, lihlopha, libaka, le likamano).",
+    "section1Item3": "Tlhahisoleseling ea sesebelisoa/theknoloji (mohlala: mofuta oa sesebelisoa, mofuta oa OS, mofuta oa app, liteko).",
+    "section2Title": "2. Kamoo re Sebelisang Tlhahisoleseling ea Hau",
+    "section2Item1": "Ho theha le ho tsamaisa akhaonto ea hau.",
+    "section2Item2": "Ho fana ka litšebeletso tsa mantlha joalo ka ho theha lipapali, ho kenela, le ho tsamaisa lihlopha.",
+    "section2Item3": "Ho fana ka tšehetso le ho araba likopo.",
+    "section2Item4": "Ho ntlafatsa ts'epahalo, tšebetso, le boiphihlelo ba mosebelisi.",
+    "section2Item5": "Ho sireletsa ts'ireletso le botšepehi ba litšebeletso tsa rona.",
+    "section2NoSell": "Ha re rekise tlhahisoleseling ea hau ea botho.",
+    "section3Title": "3. Ho Arolelana le ho Senola",
+    "section3Text": "Re ka arolelana tlhahisoleseling feela ha ho hlokahala hore tšebeletso e sebetse, ho latela melao, kapa ho sireletsa litokelo le ts'ireletso. Mohlala, re ka sebelisa bafani ba meralo (ho hosta, imeile, joalo-joalo) ba sebelisang data bakeng sa rona ka ts'ireletso e nepahetseng.",
+    "section4Title": "4. Polokelo le Ts'ireletso ea Data",
+    "section4Text": "Re sebelisa mekhoa e utloahalang ea theknoloji le mokhatlo ho sireletsa tlhahisoleseling ea hau (mohlala: HTTPS, taolo ea phihlello). Ha ho na mokhoa oa ho romela kapa ho boloka o sireletsehileng ka 100%, kahoo re ke ke ra tiisa ts'ireletso e felletseng.",
+    "section5Title": "5. Nako ea ho Boloka Data",
+    "section5Text": "Re boloka tlhahisoleseling ea botho nako e telele kamoo ho hlokahalang ho fana ka tšebeletso le bakeng sa merero e molaong ea khoebo (mohlala: ho latela melao, ts'ireletso, ho rarolla liphapang), ntle le haeba molao o hloka nako e telele.",
+    "section6Title": "6. Litokelo tsa Hau",
+    "section6Text": "Ho latela moo u leng teng (ho kenyelletsa UK/EU), u ka ba le litokelo tsa ho fumana, ho lokisa, ho hlakola, kapa ho thibela ts'ebetso ea data ea hau ea botho, le ho kopa hore e fetisoe. Ho sebelisa litokelo tsena, ikopanye le rona.",
+    "section7Title": "7. Lekunutu la Bana",
+    "section7Text": "Footeee ha ea etselitsoe bana ba ka tlase ho lilemo tse 13. Ha re bokelle ka boomo tlhahisoleseling ea botho ea bana ba ka tlase ho lilemo tse 13.",
+    "section8Title": "8. Liphetoho Leanong Lena",
+    "section8Text": "Re ka nna ra fetola leano lena ka linako. Liphetoho li tla hlahisoa leqepheng lena ka letsatsi le letjha la \"E fetotsoeng la ho qetela\".",
+    "contactTitle": "Ikopanye le rona",
+    "contactEmail": "Imeile:",
+    "contactWebsite": "Webosaete:"
+  },
+  "deleteData": {
+    "title": "Hlakola Data ea Ka",
+    "description": "O na le tokelo ea ho kopa ho hlakoloa ha akhaonto ea hau le tlhahisoleseling ea botho e amanang le eona. Re sebetsa likopo matsatsing a 30.",
+    "successMessage": "Kopo ea hau e lokisitsoe. Romela imeile e bulehileng ka hare ho app ea hau ea imeile. Re tla e sebetsa matsatsing a 30.",
+    "emailLabel": "Imeile e hokahantsoeng le akhaonto ea hau",
+    "usernameLabel": "Lebitso la mosebelisi (ha le hlokahale)",
+    "scopeLabel": "U batla hore eng e hlakoloe?",
+    "scopeFull": "Tsohle — hlakola akhaonto ea ka le data eohle",
+    "scopeData": "Data feela — boloka akhaonto empa hlakola data ea mesebetsi",
+    "scopeProfile": "Profaele feela — hlakola tlhahisoleseling ea profaele",
+    "notesLabel": "Ntho e 'ngoe?",
+    "confirmLabel": "Ke utloisisa hore ketso ena e ke ke ea khutlisoa.",
+    "submitButton": "Romela kopo",
+    "emailRequired": "Ka kopo kenya imeile e hokahantsoeng le akhaonto ea hau.",
+    "scopeFullLabel": "Ho hlakola akhaonto eohle + data eohle",
+    "scopeDataLabel": "Ho hlakola data ea mesebetsi feela",
+    "scopeProfileLabel": "Ho hlakola data ea profaele feela",
+    "notProvided": "Ha ea fanoa",
+    "none": "Ha ho letho"
+  },
+  "common": {
+    "close": "Koala",
+    "download": "Jarolla app (e ea tla)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Tsamaisa",
+      "players": "Baraleli",
+      "squads": "Lihlopha",
+      "venues": "Libaka",
+      "games": "Lipapali",
+      "recent": "Tsa morao tjena"
+    },
+    "manager": {
+      "title": "Tsamaisa",
+      "subtitle": "Sebaka sa hau sa mosebetsi sa motsamaisi",
+      "gamesManaged": "Lipapali tse tsamaisoang",
+      "squadsManaged": "Lihlopha tse tsamaisoang",
+      "playersInSquads": "Baraleli lihlopheng",
+      "upcoming": "Tse tlang",
+      "joinedGame": "{{name}} o keneletse papali"
+    },
+    "guest": {
+      "label": "Moeti",
+      "join": "Kenela",
+      "newGame": "Papali e Ncha"
+    },
+    "player": {
+      "squadsCount": "Lihlopha ({{count}})",
+      "upcomingGamesCount": "Lipapali tse Tlang ({{count}})",
+      "left": "{{count}} li saletseng"
+    },
+    "time": {
+      "today": "Kajeno",
+      "monday": "Mantaha",
+      "tuesday": "Labobeli",
+      "wednesday": "Laboraro",
+      "thursday": "Labone",
+      "friday": "Labohlano",
+      "saturday": "Moqebelo",
+      "sunday": "Sontaha",
+      "at": "ka",
+      "days": "matsatsi"
+    }
+  }
+}

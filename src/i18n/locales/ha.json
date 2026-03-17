@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Danna daya don nemo wasan da ke gaba.",
+    "download": "Sauko da manhajar (tana zuwa nan ba da jimawa ba)",
+    "learnMore": "Kara koyo"
+  },
+  "roles": {
+    "heading": "Manhaja daya don kowa",
+    "subheading": "Ko kana so ka kalla kawai, ka shiga wasa, ko ka jagoranci – Footeee ya rufe maka.",
+    "seeView": "Duba hangen {{role}}",
+    "experience": "Kwarewar {{role}}",
+    "guest": {
+      "title": "Bako",
+      "description": "Duba abubuwan sha'awar kwallon mu cikin kwanciyar hankali.",
+      "longDescription": "Bincika duk wasannin da ke zuwa, duba bayanan filin wasa, kuma duba samuwar 'yan wasa – duk ba tare da asusun ba. Ya dace da magoya bayan da ba su da niyyar shiga.",
+      "feature1": "Bincika duk wasanni",
+      "feature2": "Duba filayen wasa da lokuta",
+      "feature3": "Ba a bukatar asusu"
+    },
+    "player": {
+      "title": "Dan Wasa",
+      "description": "Wasan ka na gaba yana cikin mintoci kadan kawai!",
+      "longDescription": "Shiga wasanni da danna daya, ga wanda kuma ke wasa, kuma ka sami sanarwa idan akwai sarari ko wasa yana gab da farawa.",
+      "feature1": "Shiga wasanni nan take",
+      "feature2": "Bi diddigin kungiyoyinka",
+      "feature3": "Sami sanarwa"
+    },
+    "manager": {
+      "title": "Manaja",
+      "description": "Bari Footeee ya kula da duniyar kwallon ka!",
+      "longDescription": "Cikakken iko akan wasanni, kungiyoyi, da 'yan wasa. Kirkiri wasanni, sanya kungiyoyi, bi diddigin halartar, kuma gudanar da al'ummar kwallon ka.",
+      "feature1": "Kirkiri kuma gudanar da wasanni",
+      "feature2": "Tsara kungiyoyi",
+      "feature3": "Cikakken iko"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Duk haƙƙoƙi an kiyaye su.",
+    "quickLinks": "Hanyoyin Sauri",
+    "about": "Game da mu",
+    "features": "Fasaloli",
+    "privacy": "Sirri",
+    "download": "Sauko",
+    "availableOn": "Yana samuwa akan iOS da Android"
+  },
+  "privacy": {
+    "title": "Manufar Sirri",
+    "lastUpdated": "An sabunta karshe: {{date}}",
+    "intro": "Footeee (\"mu\", \"namu\") tana gudanar da manhajar wayar Footeee (\"Manhajar\") da wannan gidan yanar gizon. Wannan Manufar Sirri tana bayani yadda muke tattarawa, amfani, bayyanawa, da kare bayananku lokacin da kuke amfani da Manhajar da ayyukan da suka danganci ta.",
+    "section1Title": "1. Bayanan da Muke Tattarawa",
+    "section1Intro": "Za mu iya tattara wadannan rukunin bayanai:",
+    "section1Item1": "Bayanan asusu (misali, suna, adireshin imel, bayanan shiga cikin tsaro).",
+    "section1Item2": "Bayanan amfani da manhaja (misali, wasannin da kuka kirkira/shiga, kungiyoyi, filayen wasa, da hulda).",
+    "section1Item3": "Bayanan na'ura/fasaha (misali, nau'in na'ura, sigar tsarin aiki, sigar manhaja, bincike).",
+    "section2Title": "2. Yadda Muke Amfani da Bayananku",
+    "section2Item1": "Don kirkira da gudanar da asusunku.",
+    "section2Item2": "Don samar da manyan fasaloli kamar kirkiran wasa, shiga, da gudanar da kungiya.",
+    "section2Item3": "Don samar da tallafi da amsa bukatoci.",
+    "section2Item4": "Don inganta amincin aiki, aiki, da kwarewar mai amfani.",
+    "section2Item5": "Don kare tsaro da sahihancin ayyukanmu.",
+    "section2NoSell": "Ba ma sayar da bayananku na sirri.",
+    "section3Title": "3. Rabawa da Bayyanawa",
+    "section3Text": "Za mu iya raba bayanai ne kawai idan ya zama dole don gudanar da ayyukan, bin dokokin shari'a, ko kare hakkokin da tsaro. Misali, za mu iya amfani da masu samar da kayan aikin (masauki, imel, da dai sauransu) wadanda ke sarrafa bayanai a madadinmu tare da kariya mai dacewa.",
+    "section4Title": "4. Ajiyar Bayanai da Tsaro",
+    "section4Text": "Muna amfani da matakan fasaha da tsari masu dacewa don kare bayananku (misali, HTTPS, sarrafa samun dama). Babu wata hanyar watsa ko ajiya da ke da tsaro 100%, don haka ba za mu iya tabbatar da cikakken tsaro ba.",
+    "section5Title": "5. Adana Bayanai",
+    "section5Text": "Muna adana bayanan sirri muddin ya zama dole don samar da ayyukan da kuma don dalilai na kasuwanci na halal (misali, bin doka, tsaro, warware rikici), sai dai idan doka ta bukata tsawon lokaci.",
+    "section6Title": "6. Haƙƙoƙinku",
+    "section6Text": "Dangane da inda kuke (ciki har da UK/EU), kuna iya samun haƙƙin samun dama, gyarawa, sharewa, ko hana sarrafa bayananku na sirri, da kuma neman ƙaurawa. Don amfani da wadannan haƙƙoƙi, tuntuɓe mu.",
+    "section7Title": "7. Sirrin Yara",
+    "section7Text": "Footeee ba don yara ƙasa da shekaru 13 ba ne. Ba ma tattara bayanan sirri na yara ƙasa da shekaru 13 da gangan ba.",
+    "section8Title": "8. Canje-canje ga Wannan Manufa",
+    "section8Text": "Za mu iya sabunta wannan manufar lokaci zuwa lokaci. Sabuntawa za a buga su a wannan shafin tare da sabuwar ranar \"An sabunta karshe\".",
+    "contactTitle": "Tuntuɓe Mu",
+    "contactEmail": "Imel:",
+    "contactWebsite": "Gidan yanar gizo:"
+  },
+  "deleteData": {
+    "title": "Share Bayanaina",
+    "description": "Kuna da haƙƙin neman share asusunku da bayananku na sirri da suka danganci shi. Muna sarrafa bukatoci cikin kwanaki 30.",
+    "successMessage": "An shirya bukatarku. Da fatan za a aika imel din da ya bude a manhajar imelku. Za mu sarrafa shi cikin kwanaki 30.",
+    "emailLabel": "Imel din da ke da alaƙa da asusunku",
+    "usernameLabel": "Sunan mai amfani (zaɓi ne)",
+    "scopeLabel": "Me kuke so a share?",
+    "scopeFull": "Komai — share asusuna da duk bayanai",
+    "scopeData": "Bayanai kawai — ajiye asusu amma share bayanan ayyuka",
+    "scopeProfile": "Bayanan martaba kawai — share bayanan martaba",
+    "notesLabel": "Wani abu dabam?",
+    "confirmLabel": "Na fahimci cewa wannan aikin ba za a iya komawa ba.",
+    "submitButton": "Aika Bukata",
+    "emailRequired": "Da fatan a shigar da imel din da ke da alaƙa da asusunku.",
+    "scopeFullLabel": "Cikakken share asusu da duk bayanai",
+    "scopeDataLabel": "Share bayanan ayyuka kawai",
+    "scopeProfileLabel": "Share bayanan martaba kawai",
+    "notProvided": "Ba a bayar ba",
+    "none": "Babu"
+  },
+  "common": {
+    "close": "Rufe",
+    "download": "Sauko da manhajar (tana zuwa nan ba da jimawa ba)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Gudanarwa",
+      "players": "'Yan Wasa",
+      "squads": "Kungiyoyi",
+      "venues": "Filayen Wasa",
+      "games": "Wasanni",
+      "recent": "Na baya-bayan nan"
+    },
+    "manager": {
+      "title": "Gudanarwa",
+      "subtitle": "Wurin aikin manajarka",
+      "gamesManaged": "Wasannin da ake gudanarwa",
+      "squadsManaged": "Kungiyoyin da ake gudanarwa",
+      "playersInSquads": "'Yan wasa a cikin kungiyoyi",
+      "upcoming": "Masu zuwa",
+      "joinedGame": "{{name}} ya shiga wasa"
+    },
+    "guest": {
+      "label": "Bako",
+      "join": "Shiga",
+      "newGame": "Sabon Wasa"
+    },
+    "player": {
+      "squadsCount": "Kungiyoyi ({{count}})",
+      "upcomingGamesCount": "Wasannin da ke zuwa ({{count}})",
+      "left": "{{count}} suka rage"
+    },
+    "time": {
+      "today": "Yau",
+      "monday": "Litinin",
+      "tuesday": "Talata",
+      "wednesday": "Laraba",
+      "thursday": "Alhamis",
+      "friday": "Juma'a",
+      "saturday": "Asabar",
+      "sunday": "Lahadi",
+      "at": "da karfe",
+      "days": "kwanaki"
+    }
+  }
+}

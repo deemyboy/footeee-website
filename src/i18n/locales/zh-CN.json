@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "轻轻一点，找到你的下一场比赛。",
+    "download": "下载应用（即将推出）",
+    "learnMore": "了解更多"
+  },
+  "roles": {
+    "heading": "一个应用，人人适用",
+    "subheading": "无论你只是想浏览、加入比赛，还是管理一切——Footeee 都能满足你。",
+    "seeView": "查看{{role}}视图",
+    "experience": "{{role}}体验",
+    "guest": {
+      "title": "访客",
+      "description": "随时浏览我们精彩的足球内容。",
+      "longDescription": "浏览所有即将举行的比赛，查看场地详情，了解球员出席情况——无需注册账号。非常适合休闲球迷。",
+      "feature1": "浏览所有比赛",
+      "feature2": "查看场地和时间",
+      "feature3": "无需注册账号"
+    },
+    "player": {
+      "title": "球员",
+      "description": "你的下一场球赛仅需几分钟！",
+      "longDescription": "一键加入比赛，查看其他参赛者，并在有空位或比赛即将开始时收到通知。",
+      "feature1": "即时加入比赛",
+      "feature2": "追踪你的队伍",
+      "feature3": "接收通知"
+    },
+    "manager": {
+      "title": "管理者",
+      "description": "让 Footeee 来管理你的足球世界！",
+      "longDescription": "全面掌控比赛、队伍和球员。创建比赛、分配队伍、追踪出勤并管理你的足球社区。",
+      "feature1": "创建和管理比赛",
+      "feature2": "组织队伍",
+      "feature3": "全面掌控"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee。保留所有权利。",
+    "quickLinks": "快速链接",
+    "about": "关于",
+    "features": "功能",
+    "privacy": "隐私",
+    "download": "下载",
+    "availableOn": "支持 iOS 和 Android"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：{{date}}",
+    "intro": "Footeee（「我们」）运营 Footeee 移动应用程序（「应用」）和本网站。本隐私政策说明了当您使用本应用及相关服务时，我们如何收集、使用、披露和保护您的信息。",
+    "section1Title": "1. 我们收集的信息",
+    "section1Intro": "我们可能收集以下类别的信息：",
+    "section1Item1": "账户信息（例如姓名、电子邮件地址、以哈希/安全形式存储的登录凭据）。",
+    "section1Item2": "应用使用信息（例如您创建/加入的比赛、队伍、场地和互动）。",
+    "section1Item3": "设备/技术数据（例如设备类型、操作系统版本、应用版本、诊断信息）。",
+    "section2Title": "2. 我们如何使用您的信息",
+    "section2Item1": "创建和管理您的账户。",
+    "section2Item2": "提供核心功能，如创建比赛、加入比赛和队伍管理。",
+    "section2Item3": "提供支持并回应请求。",
+    "section2Item4": "提升可靠性、性能和用户体验。",
+    "section2Item5": "保护我们服务的安全性和完整性。",
+    "section2NoSell": "我们不会出售您的个人信息。",
+    "section3Title": "3. 共享与披露",
+    "section3Text": "我们仅在运营服务、遵守法律义务或保护权利和安全所需时共享信息。例如，我们可能使用基础设施提供商（托管、电子邮件等），他们在适当的安全保障下代表我们处理数据。",
+    "section4Title": "4. 数据存储与安全",
+    "section4Text": "我们采用合理的技术和组织措施来保护您的信息（例如 HTTPS、访问控制）。没有任何传输或存储方式是 100% 安全的，因此我们无法保证绝对安全。",
+    "section5Title": "5. 数据保留",
+    "section5Text": "我们在提供服务所需的期间及出于合法商业目的（例如合规、安全、争议解决）保留个人信息，除非法律要求更长的保留期限。",
+    "section6Title": "6. 您的权利",
+    "section6Text": "根据您所在的地区（包括英国/欧盟），您可能有权访问、更正、删除或限制处理您的个人数据，以及请求数据可携性。如需行使这些权利，请联系我们。",
+    "section7Title": "7. 儿童隐私",
+    "section7Text": "Footeee 不面向 13 岁以下的儿童。我们不会故意收集 13 岁以下儿童的个人信息。",
+    "section8Title": "8. 本政策的变更",
+    "section8Text": "我们可能会不时更新本政策。更新将发布在本页面并附有修订后的「最后更新」日期。",
+    "contactTitle": "联系方式",
+    "contactEmail": "电子邮件：",
+    "contactWebsite": "网站："
+  },
+  "deleteData": {
+    "title": "删除我的数据",
+    "description": "您有权请求删除您的账户和相关个人数据。我们会在 30 天内处理请求。",
+    "successMessage": "您的请求已准备好。请发送在您邮件应用中打开的电子邮件。我们将在 30 天内处理。",
+    "emailLabel": "与您账户关联的电子邮件",
+    "usernameLabel": "用户名（可选）",
+    "scopeLabel": "您希望删除什么？",
+    "scopeFull": "全部——删除我的账户和所有数据",
+    "scopeData": "仅数据——保留账户但删除活动数据",
+    "scopeProfile": "仅个人资料——删除个人资料信息",
+    "notesLabel": "还有其他需要说明的吗？",
+    "confirmLabel": "我理解此操作不可撤销。",
+    "submitButton": "提交请求",
+    "emailRequired": "请输入与您账户关联的电子邮件。",
+    "scopeFullLabel": "完整账户及所有数据删除",
+    "scopeDataLabel": "仅删除活动数据",
+    "scopeProfileLabel": "仅删除个人资料数据",
+    "notProvided": "未提供",
+    "none": "无"
+  },
+  "common": {
+    "close": "关闭",
+    "download": "下载应用（即将推出）"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "管理",
+      "players": "球员",
+      "squads": "队伍",
+      "venues": "场地",
+      "games": "比赛",
+      "recent": "最近"
+    },
+    "manager": {
+      "title": "管理",
+      "subtitle": "你的管理工作区",
+      "gamesManaged": "已管理的比赛",
+      "squadsManaged": "已管理的队伍",
+      "playersInSquads": "队伍中的球员",
+      "upcoming": "即将到来",
+      "joinedGame": "{{name}} 加入了一场比赛"
+    },
+    "guest": {
+      "label": "访客",
+      "join": "加入",
+      "newGame": "新比赛"
+    },
+    "player": {
+      "squadsCount": "队伍 ({{count}})",
+      "upcomingGamesCount": "即将到来的比赛 ({{count}})",
+      "left": "还剩 {{count}}"
+    },
+    "time": {
+      "today": "今天",
+      "monday": "星期一",
+      "tuesday": "星期二",
+      "wednesday": "星期三",
+      "thursday": "星期四",
+      "friday": "星期五",
+      "saturday": "星期六",
+      "sunday": "星期日",
+      "at": "于",
+      "days": "天"
+    }
+  }
+}

@@ -1,8 +1,12 @@
 import React from 'react';
 import { Box, Container, Typography, Button } from '@mui/material';
 import { SportsSoccer } from '@mui/icons-material';
+import { useTranslation } from 'react-i18next';
+import AppScreenMockup from './mockups/AppScreenMockup';
 
 const Hero: React.FC = () => {
+  const { t } = useTranslation();
+
   const handleLearnMore = () => {
     const element = document.getElementById('roles-section');
     if (element) {
@@ -30,21 +34,12 @@ const Hero: React.FC = () => {
               alt="Footeee logo"
               sx={{ width: { xs: 360, md: 576 }, height: 'auto', filter: 'drop-shadow(0px 6px 8px rgba(0,0,0,0.65))' }}
             />
-            <Box
-              component="img"
-              src="/images/hero-preview.png"
-              alt="Footeee app preview"
-              sx={{
-                width: { xs: 100, md: 120 },
-                height: 'auto',
-                borderRadius: 4,
-                boxShadow: 4,
-                filter: 'drop-shadow(0px 6px 8px rgba(0,0,0,0.65))',
-              }}
-            />
+            <Box sx={{ width: { xs: 100, sm: 130, md: 160 }, flexShrink: 0, filter: 'drop-shadow(0px 6px 8px rgba(0,0,0,0.65))' }}>
+              <AppScreenMockup screenType="manager-games" />
+            </Box>
           </Box>
           <Typography variant="h4" component="p" sx={{ mb: 4, fontWeight: 400, opacity: 0.9 }}>
-            One tap to find your next match.
+            {t('hero.tagline')}
           </Typography>
           <Box sx={{ display: 'flex', gap: 2, flexWrap: 'wrap', justifyContent: 'center' }}>
             <Button
@@ -56,7 +51,7 @@ const Hero: React.FC = () => {
               target="_blank"
               rel="noopener"
             >
-              Download the app (coming soon)
+              {t('hero.download')}
             </Button>
             <Button
               variant="outlined"
@@ -64,7 +59,7 @@ const Hero: React.FC = () => {
               sx={{ borderColor: 'white', color: 'white' }}
               onClick={handleLearnMore}
             >
-              Learn more
+              {t('hero.learnMore')}
             </Button>
           </Box>
         </Box>

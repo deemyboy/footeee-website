@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Eén tik om je volgende wedstrijd te vinden.",
+    "download": "Download de app (binnenkort beschikbaar)",
+    "learnMore": "Meer informatie"
+  },
+  "roles": {
+    "heading": "Eén app voor iedereen",
+    "subheading": "Of je nu wilt rondkijken, meedoen aan een wedstrijd of alles regelen – Footeee heeft het voor je.",
+    "seeView": "Bekijk {{role}}-weergave",
+    "experience": "{{role}}-ervaring",
+    "guest": {
+      "title": "Gast",
+      "description": "Bekijk ons voetbalaanbod op je gemak.",
+      "longDescription": "Bekijk alle aankomende wedstrijden, locatiedetails en beschikbaarheid van spelers – allemaal zonder account. Perfect voor liefhebbers.",
+      "feature1": "Alle wedstrijden bekijken",
+      "feature2": "Locaties en tijden zien",
+      "feature3": "Geen account nodig"
+    },
+    "player": {
+      "title": "Speler",
+      "description": "Je volgende wedstrijd is slechts minuten verwijderd!",
+      "longDescription": "Doe mee aan wedstrijden met één tik, bekijk wie er nog meer speelt en ontvang meldingen wanneer er een plek vrijkomt of een wedstrijd op het punt staat te beginnen.",
+      "feature1": "Direct meedoen aan wedstrijden",
+      "feature2": "Volg je teams",
+      "feature3": "Ontvang meldingen"
+    },
+    "manager": {
+      "title": "Beheerder",
+      "description": "Laat Footeee je voetbalwereld beheren!",
+      "longDescription": "Volledige controle over wedstrijden, teams en spelers. Maak wedstrijden aan, wijs teams toe, houd aanwezigheid bij en beheer je voetbalcommunity.",
+      "feature1": "Wedstrijden aanmaken en beheren",
+      "feature2": "Teams organiseren",
+      "feature3": "Volledige controle"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Alle rechten voorbehouden.",
+    "quickLinks": "Snelkoppelingen",
+    "about": "Over ons",
+    "features": "Functies",
+    "privacy": "Privacy",
+    "download": "Downloaden",
+    "availableOn": "Beschikbaar voor iOS en Android"
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "lastUpdated": "Laatst bijgewerkt: {{date}}",
+    "intro": "Footeee (\"wij\", \"ons\", \"onze\") beheert de mobiele applicatie Footeee (de \"App\") en deze website. Dit Privacybeleid legt uit hoe wij uw informatie verzamelen, gebruiken, openbaar maken en beschermen wanneer u de App en gerelateerde diensten gebruikt.",
+    "section1Title": "1. Informatie die wij verzamelen",
+    "section1Intro": "Wij kunnen de volgende categorieën informatie verzamelen:",
+    "section1Item1": "Accountinformatie (bijv. naam, e-mailadres, inloggegevens in gehashte/beveiligde vorm).",
+    "section1Item2": "App-gebruiksinformatie (bijv. wedstrijden die u aanmaakt/deelneemt, teams, locaties en interacties).",
+    "section1Item3": "Apparaat-/technische gegevens (bijv. apparaattype, OS-versie, app-versie, diagnostiek).",
+    "section2Title": "2. Hoe wij uw informatie gebruiken",
+    "section2Item1": "Om uw account aan te maken en te beheren.",
+    "section2Item2": "Om kernfuncties te bieden zoals het aanmaken van wedstrijden, deelname en teambeheer.",
+    "section2Item3": "Om ondersteuning te bieden en op verzoeken te reageren.",
+    "section2Item4": "Om betrouwbaarheid, prestaties en gebruikerservaring te verbeteren.",
+    "section2Item5": "Om de veiligheid en integriteit van onze diensten te beschermen.",
+    "section2NoSell": "Wij verkopen uw persoonlijke informatie niet.",
+    "section3Title": "3. Delen en Openbaarmaking",
+    "section3Text": "Wij delen informatie alleen voor zover nodig om de dienst te exploiteren, te voldoen aan wettelijke verplichtingen of rechten en veiligheid te beschermen. Wij kunnen bijvoorbeeld infrastructuurproviders (hosting, e-mail, enz.) gebruiken die gegevens namens ons verwerken onder passende waarborgen.",
+    "section4Title": "4. Gegevensopslag en Beveiliging",
+    "section4Text": "Wij gebruiken redelijke technische en organisatorische maatregelen om uw informatie te beschermen (bijv. HTTPS, toegangscontroles). Geen enkele methode van overdracht of opslag is 100% veilig, dus wij kunnen geen absolute veiligheid garanderen.",
+    "section5Title": "5. Gegevensretentie",
+    "section5Text": "Wij bewaren persoonlijke informatie zolang als nodig is om de dienst te verlenen en voor legitieme zakelijke doeleinden (bijv. naleving, beveiliging, geschillenbeslechting), tenzij een langere bewaartermijn wettelijk vereist is.",
+    "section6Title": "6. Uw Rechten",
+    "section6Text": "Afhankelijk van uw locatie (inclusief VK/EU) heeft u mogelijk recht op inzage, correctie, verwijdering of beperking van de verwerking van uw persoonsgegevens, en op overdraagbaarheid. Neem contact met ons op om deze rechten uit te oefenen.",
+    "section7Title": "7. Privacy van Kinderen",
+    "section7Text": "Footeee is niet bedoeld voor kinderen onder de 13 jaar. Wij verzamelen niet bewust persoonlijke informatie van kinderen onder de 13 jaar.",
+    "section8Title": "8. Wijzigingen in dit Beleid",
+    "section8Text": "Wij kunnen dit beleid van tijd tot tijd bijwerken. Wijzigingen worden op deze pagina geplaatst met een herziene datum van \"Laatst bijgewerkt\".",
+    "contactTitle": "Contact",
+    "contactEmail": "E-mail:",
+    "contactWebsite": "Website:"
+  },
+  "deleteData": {
+    "title": "Mijn Gegevens Verwijderen",
+    "description": "U heeft het recht om verwijdering van uw account en bijbehorende persoonsgegevens aan te vragen. Wij verwerken verzoeken binnen 30 dagen.",
+    "successMessage": "Uw verzoek is voorbereid. Verstuur alstublieft de e-mail die in uw mailapp is geopend. Wij verwerken het binnen 30 dagen.",
+    "emailLabel": "E-mail gekoppeld aan uw account",
+    "usernameLabel": "Gebruikersnaam (optioneel)",
+    "scopeLabel": "Wat wilt u laten verwijderen?",
+    "scopeFull": "Alles — verwijder mijn account en alle gegevens",
+    "scopeData": "Alleen gegevens — bewaar account maar verwijder activiteitsgegevens",
+    "scopeProfile": "Alleen profiel — verwijder profielinformatie",
+    "notesLabel": "Nog iets anders?",
+    "confirmLabel": "Ik begrijp dat deze actie onomkeerbaar is.",
+    "submitButton": "Verzoek Indienen",
+    "emailRequired": "Voer alstublieft het e-mailadres in dat aan uw account is gekoppeld.",
+    "scopeFullLabel": "Volledige account + alle gegevens verwijderen",
+    "scopeDataLabel": "Alleen activiteitsgegevens verwijderen",
+    "scopeProfileLabel": "Alleen profielgegevens verwijderen",
+    "notProvided": "Niet opgegeven",
+    "none": "Geen"
+  },
+  "common": {
+    "close": "Sluiten",
+    "download": "Download de app (binnenkort beschikbaar)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Beheren",
+      "players": "Spelers",
+      "squads": "Teams",
+      "venues": "Locaties",
+      "games": "Wedstrijden",
+      "recent": "Recent"
+    },
+    "manager": {
+      "title": "Beheren",
+      "subtitle": "Jouw beheerdersruimte",
+      "gamesManaged": "Beheerde wedstrijden",
+      "squadsManaged": "Beheerde teams",
+      "playersInSquads": "Spelers in teams",
+      "upcoming": "Aankomend",
+      "joinedGame": "{{name}} deed mee aan een wedstrijd"
+    },
+    "guest": {
+      "label": "Gast",
+      "join": "Deelnemen",
+      "newGame": "Nieuwe wedstrijd"
+    },
+    "player": {
+      "squadsCount": "Teams ({{count}})",
+      "upcomingGamesCount": "Aankomende wedstrijden ({{count}})",
+      "left": "{{count}} over"
+    },
+    "time": {
+      "today": "Vandaag",
+      "monday": "Maandag",
+      "tuesday": "Dinsdag",
+      "wednesday": "Woensdag",
+      "thursday": "Donderdag",
+      "friday": "Vrijdag",
+      "saturday": "Zaterdag",
+      "sunday": "Zondag",
+      "at": "om",
+      "days": "dagen"
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Yksi napautus seuraavan ottelun löytämiseksi.",
+    "download": "Lataa sovellus (tulossa pian)",
+    "learnMore": "Lue lisää"
+  },
+  "roles": {
+    "heading": "Yksi sovellus kaikille",
+    "subheading": "Haluatpa vain selata, liittyä peliin tai johtaa joukkuetta – Footeee hoitaa homman.",
+    "seeView": "Katso {{role}}-näkymä",
+    "experience": "{{role}}-kokemus",
+    "guest": {
+      "title": "Vieras",
+      "description": "Tutustu jalkapalloiluun rauhassa.",
+      "longDescription": "Selaa tulevia pelejä, katso kenttätiedot ja tarkista pelaajien saatavuus – kaikki ilman tiliä. Täydellinen satunnaisille faneille.",
+      "feature1": "Selaa kaikkia pelejä",
+      "feature2": "Näe paikat ja ajat",
+      "feature3": "Tiliä ei tarvita"
+    },
+    "player": {
+      "title": "Pelaaja",
+      "description": "Seuraava pelisi on vain minuuttien päässä!",
+      "longDescription": "Liity peleihin yhdellä napautuksella, näe ketkä muut pelaavat ja saa ilmoituksia kun paikka vapautuu tai peli on alkamassa.",
+      "feature1": "Liity peleihin heti",
+      "feature2": "Seuraa joukkueitasi",
+      "feature3": "Saa ilmoituksia"
+    },
+    "manager": {
+      "title": "Manageri",
+      "description": "Anna Footeee huolehtia jalkapallomaailmastasi!",
+      "longDescription": "Täysi hallinta peleihin, joukkueisiin ja pelaajiin. Luo pelejä, määritä joukkueita, seuraa osallistumista ja hallitse jalkapalloyhteisöäsi.",
+      "feature1": "Luo ja hallitse pelejä",
+      "feature2": "Järjestä joukkueita",
+      "feature3": "Täysi hallinta"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Kaikki oikeudet pidätetään.",
+    "quickLinks": "Pikalinkit",
+    "about": "Tietoa",
+    "features": "Ominaisuudet",
+    "privacy": "Tietosuoja",
+    "download": "Lataa",
+    "availableOn": "Saatavilla iOS- ja Android-laitteille"
+  },
+  "privacy": {
+    "title": "Tietosuojakäytäntö",
+    "lastUpdated": "Viimeksi päivitetty: {{date}}",
+    "intro": "Footeee (\"me\", \"meidän\") ylläpitää Footeee-mobiilisovellusta (\"Sovellus\") ja tätä verkkosivustoa. Tämä tietosuojakäytäntö selittää, miten keräämme, käytämme, luovutamme ja suojaamme tietojasi, kun käytät Sovellusta ja siihen liittyviä palveluita.",
+    "section1Title": "1. Keräämämme tiedot",
+    "section1Intro": "Voimme kerätä seuraavia tietoluokkia:",
+    "section1Item1": "Tilitiedot (esim. nimi, sähköpostiosoite, kirjautumistiedot salattuina).",
+    "section1Item2": "Sovelluksen käyttötiedot (esim. luomasi/liittymäsi ottelut, joukkueet, paikat ja vuorovaikutukset).",
+    "section1Item3": "Laite-/tekniset tiedot (esim. laitetyyppi, käyttöjärjestelmäversio, sovellusversio, diagnostiikka).",
+    "section2Title": "2. Miten käytämme tietojasi",
+    "section2Item1": "Tilisi luomiseen ja hallintaan.",
+    "section2Item2": "Ydintoimintojen tarjoamiseen, kuten otteluiden luominen, liittyminen ja joukkueiden hallinta.",
+    "section2Item3": "Tuen tarjoamiseen ja pyyntöihin vastaamiseen.",
+    "section2Item4": "Luotettavuuden, suorituskyvyn ja käyttökokemuksen parantamiseen.",
+    "section2Item5": "Palveluidemme turvallisuuden ja eheyden suojaamiseen.",
+    "section2NoSell": "Emme myy henkilötietojasi.",
+    "section3Title": "3. Jakaminen ja luovuttaminen",
+    "section3Text": "Voimme jakaa tietoja vain palvelun toiminnan kannalta välttämättömässä määrin, lakisääteisten velvoitteiden noudattamiseksi tai oikeuksien ja turvallisuuden suojaamiseksi. Esimerkiksi voimme käyttää infrastruktuuripalveluntarjoajia (hosting, sähköposti jne.), jotka käsittelevät tietoja puolestamme asianmukaisten suojatoimenpiteiden mukaisesti.",
+    "section4Title": "4. Tietojen tallennus ja turvallisuus",
+    "section4Text": "Käytämme kohtuullisia teknisiä ja organisatorisia toimenpiteitä tietojesi suojaamiseksi (esim. HTTPS, pääsynhallinta). Mikään siirto- tai tallennusmenetelmä ei ole 100 % turvallinen, joten emme voi taata ehdotonta turvallisuutta.",
+    "section5Title": "5. Tietojen säilyttäminen",
+    "section5Text": "Säilytämme henkilötietoja niin kauan kuin on tarpeen palvelun tarjoamiseksi ja laillisiin liiketoimintatarkoituksiin (esim. vaatimustenmukaisuus, turvallisuus, riitojen ratkaisu), ellei laki edellytä pidempää säilytysaikaa.",
+    "section6Title": "6. Oikeutesi",
+    "section6Text": "Sijainnistasi riippuen (mukaan lukien Yhdistynyt kuningaskunta/EU) sinulla voi olla oikeus saada pääsy tietoihisi, oikaista, poistaa tai rajoittaa niiden käsittelyä sekä pyytää tietojen siirrettävyyttä. Näiden oikeuksien käyttämiseksi ota meihin yhteyttä.",
+    "section7Title": "7. Lasten tietosuoja",
+    "section7Text": "Footeee ei ole tarkoitettu alle 13-vuotiaille lapsille. Emme tietoisesti kerää alle 13-vuotiaiden lasten henkilötietoja.",
+    "section8Title": "8. Muutokset tähän käytäntöön",
+    "section8Text": "Voimme päivittää tätä käytäntöä aika ajoin. Päivitykset julkaistaan tällä sivulla päivitetyllä \"Viimeksi päivitetty\" -päivämäärällä.",
+    "contactTitle": "Yhteystiedot",
+    "contactEmail": "Sähköposti:",
+    "contactWebsite": "Verkkosivusto:"
+  },
+  "deleteData": {
+    "title": "Poista tietoni",
+    "description": "Sinulla on oikeus pyytää tilisi ja siihen liittyvien henkilötietojen poistamista. Käsittelemme pyynnöt 30 päivän kuluessa.",
+    "successMessage": "Pyyntösi on valmisteltu. Lähetä sähköpostisovellukseesi avautunut viesti. Käsittelemme sen 30 päivän kuluessa.",
+    "emailLabel": "Tiliisi liitetty sähköposti",
+    "usernameLabel": "Käyttäjänimi (valinnainen)",
+    "scopeLabel": "Mitä haluat poistettavan?",
+    "scopeFull": "Kaikki – poista tilini ja kaikki tiedot",
+    "scopeData": "Vain tiedot – säilytä tili mutta poista toimintatiedot",
+    "scopeProfile": "Vain profiili – poista profiilitiedot",
+    "notesLabel": "Muuta lisättävää?",
+    "confirmLabel": "Ymmärrän, että tämä toimenpide on peruuttamaton.",
+    "submitButton": "Lähetä pyyntö",
+    "emailRequired": "Syötä tiliisi liitetty sähköpostiosoite.",
+    "scopeFullLabel": "Koko tilin ja kaikkien tietojen poisto",
+    "scopeDataLabel": "Vain toimintatietojen poisto",
+    "scopeProfileLabel": "Vain profiilitietojen poisto",
+    "notProvided": "Ei annettu",
+    "none": "Ei mitään"
+  },
+  "common": {
+    "close": "Sulje",
+    "download": "Lataa sovellus (tulossa pian)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Hallinta",
+      "players": "Pelaajat",
+      "squads": "Joukkueet",
+      "venues": "Kentät",
+      "games": "Pelit",
+      "recent": "Viimeisimmät"
+    },
+    "manager": {
+      "title": "Hallinta",
+      "subtitle": "Managerisi työtila",
+      "gamesManaged": "Hallitut pelit",
+      "squadsManaged": "Hallitut joukkueet",
+      "playersInSquads": "Pelaajat joukkueissa",
+      "upcoming": "Tulevat",
+      "joinedGame": "{{name}} liittyi peliin"
+    },
+    "guest": {
+      "label": "Vieras",
+      "join": "Liity",
+      "newGame": "Uusi peli"
+    },
+    "player": {
+      "squadsCount": "Joukkueet ({{count}})",
+      "upcomingGamesCount": "Tulevat pelit ({{count}})",
+      "left": "{{count}} jäljellä"
+    },
+    "time": {
+      "today": "Tänään",
+      "monday": "Maanantai",
+      "tuesday": "Tiistai",
+      "wednesday": "Keskiviikko",
+      "thursday": "Torstai",
+      "friday": "Perjantai",
+      "saturday": "Lauantai",
+      "sunday": "Sunnuntai",
+      "at": "klo",
+      "days": "päivää"
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Tẹ kan ṣoṣo lati wa eré tó kàn.",
+    "download": "Gba ohun èlò náà (ń bọ̀ láìpẹ́)",
+    "learnMore": "Kẹ́kọ̀ọ́ síi"
+  },
+  "roles": {
+    "heading": "Ohun èlò kan fún gbogbo ènìyàn",
+    "subheading": "Bóyá o fẹ́ wo, dara pọ̀ mọ́ eré kan, tàbí kí o darí – Footeee ti ṣètò fún ẹ.",
+    "seeView": "Wo ojú ìwòran {{role}}",
+    "experience": "Ìrírí {{role}}",
+    "guest": {
+      "title": "Àlejò",
+      "description": "Wo àwọn eré bọ́ọ̀lù wa ní àyè rẹ.",
+      "longDescription": "Wo gbogbo eré tí ń bọ̀, wo àlàyé ibi eré, kí o sì ṣàyẹ̀wò bí àwọn agbábọ́ọ̀lù ṣe wà – gbogbo rẹ̀ láì nílò àkáǹtì. Ó dára fún àwọn olùfẹ́ bọ́ọ̀lù.",
+      "feature1": "Wo gbogbo eré",
+      "feature2": "Wo ibi eré àti àkókò",
+      "feature3": "Kò nílò àkáǹtì"
+    },
+    "player": {
+      "title": "Agbábọ́ọ̀lù",
+      "description": "Eré rẹ tó kàn kù ìṣẹ́jú díẹ̀!",
+      "longDescription": "Dara pọ̀ mọ́ eré pẹ̀lú tẹ kan ṣoṣo, wo ẹni tí ó ń ṣeré, kí o sì gba ìfitónilétí nígbà tí àǹfààní bá wà tàbí tí eré bá fẹ́ bẹ̀rẹ̀.",
+      "feature1": "Dara pọ̀ mọ́ eré lẹ́sẹ̀kẹsẹ̀",
+      "feature2": "Tẹ̀lé àwọn ẹgbẹ́ rẹ",
+      "feature3": "Gba ìfitónilétí"
+    },
+    "manager": {
+      "title": "Alákòóso",
+      "description": "Jẹ́ kí Footeee ṣàkóso ayé bọ́ọ̀lù rẹ!",
+      "longDescription": "Ìṣàkóso pípé lórí eré, ẹgbẹ́, àti àwọn agbábọ́ọ̀lù. Ṣẹ̀dá eré, yàn ẹgbẹ́, tẹ̀lé ìwíwá, kí o sì ṣàkóso àwùjọ bọ́ọ̀lù rẹ.",
+      "feature1": "Ṣẹ̀dá kí o sì ṣàkóso eré",
+      "feature2": "Ṣètò àwọn ẹgbẹ́",
+      "feature3": "Ìṣàkóso pípé"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Gbogbo ẹ̀tọ́ ni a pamọ́.",
+    "quickLinks": "Àwọn Ìjápọ̀ Kíákíá",
+    "about": "Nípa Wa",
+    "features": "Àwọn Ẹ̀yà",
+    "privacy": "Àṣírí",
+    "download": "Gba",
+    "availableOn": "Ó wà lórí iOS àti Android"
+  },
+  "privacy": {
+    "title": "Ìlànà Àṣírí",
+    "lastUpdated": "Ìmúdójúìwọ̀n ìgbẹ̀yìn: {{date}}",
+    "intro": "Footeee (\"àwa\", \"tiwa\", \"wa\") ń ṣiṣẹ́ ohun èlò alágbèéká Footeee (\"Ohun Èlò\") àti ojú ìwé yìí. Ìlànà Àṣírí yìí ṣàlàyé bí a ṣe ń kó, lo, ṣàfihàn, àti dáàbò bo àlàyé rẹ nígbà tí o bá ń lo Ohun Èlò àti àwọn iṣẹ́ tó jọ mọ́ ọn.",
+    "section1Title": "1. Àlàyé Tí A Ń Kó",
+    "section1Intro": "A lè kó àwọn irú àlàyé wọ̀nyí:",
+    "section1Item1": "Àlàyé àkáǹtì (f.a., orúkọ, àdírẹ́sì ímeèlì, àwọn ìwé ẹ̀rí wíwọlé ní ọ̀nà ààbò).",
+    "section1Item2": "Àlàyé lílo ohun èlò (f.a., eré tí o ṣẹ̀dá/dara pọ̀ mọ́, ẹgbẹ́, ibi eré, àti ìbáṣepọ̀).",
+    "section1Item3": "Dátà ẹ̀rọ/ìmọ̀ ẹ̀rọ (f.a., irú ẹ̀rọ, ẹ̀yà OS, ẹ̀yà ohun èlò, ìṣàyẹ̀wò).",
+    "section2Title": "2. Bí A Ṣe Ń Lo Àlàyé Rẹ",
+    "section2Item1": "Láti ṣẹ̀dá àti ṣàkóso àkáǹtì rẹ.",
+    "section2Item2": "Láti pèsè àwọn ẹ̀yà pàtàkì bíi ṣíṣẹ̀dá eré, dídara pọ̀ mọ́, àti ìṣàkóso ẹgbẹ́.",
+    "section2Item3": "Láti pèsè ìrànwọ́ àti dáhùn sí àwọn ìbéèrè.",
+    "section2Item4": "Láti mú ìgbẹ́kẹ̀lé, ìṣiṣẹ́, àti ìrírí olùlò dára sí i.",
+    "section2Item5": "Láti dáàbò bo ààbò àti ìpé àwọn iṣẹ́ wa.",
+    "section2NoSell": "A kì í ta àlàyé ara ẹni rẹ.",
+    "section3Title": "3. Ìpínpín àti Ìṣàfihàn",
+    "section3Text": "A lè pín àlàyé nìkan bí ó ṣe nílò láti ṣiṣẹ́ iṣẹ́ náà, gbọ́ràn sí àwọn ojúṣe òfin, tàbí dáàbò bo ẹ̀tọ́ àti ààbò. Fún àpẹẹrẹ, a lè lo àwọn olùpèsè àmúlò (gbígba ibi ìpamọ́, ímeèlì, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ) tí wọ́n ń ṣiṣẹ́ dátà fún wa lábẹ́ àwọn ààbò tó yẹ.",
+    "section4Title": "4. Ìpamọ́ Dátà àti Ààbò",
+    "section4Text": "A ń lo àwọn ìgbésẹ̀ ìmọ̀ ẹ̀rọ àti ètò tó bójú mu láti dáàbò bo àlàyé rẹ (f.a., HTTPS, ìṣàkóso ìwọlé). Kò sí ọ̀nà ìfirán tàbí ìpamọ́ tí ó ní ààbò 100%, nítorí náà a kò lè ṣèlérí ààbò pípé.",
+    "section5Title": "5. Ìtọ́jú Dátà",
+    "section5Text": "A máa ń tọ́jú àlàyé ara ẹni fún ìgbà tó bá pọn dandan láti pèsè iṣẹ́ náà àti fún àwọn ète iṣẹ́ tó yẹ (f.a., ìgbọ́ràn, ààbò, ìyanjú àríyànjiyàn), àyàfi tí òfin bá nílò àkókò tó gùn ju.",
+    "section6Title": "6. Àwọn Ẹ̀tọ́ Rẹ",
+    "section6Text": "Gẹ́gẹ́ bí ibi tí o wà (pẹ̀lú UK/EU), o lè ní ẹ̀tọ́ láti wọlé sí, ṣàtúnṣe, pa, tàbí dín ìṣiṣẹ́ dátà ara ẹni rẹ kù, àti láti béèrè ìgbéṣẹ́. Láti lo àwọn ẹ̀tọ́ wọ̀nyí, kàn sí wa.",
+    "section7Title": "7. Àṣírí Àwọn Ọmọdé",
+    "section7Text": "Footeee kò jẹ́ fún àwọn ọmọdé tí kò tíì pé ọdún 13. A kì í mọ̀ọ́mọ̀ kó àlàyé ara ẹni àwọn ọmọdé tí kò tíì pé ọdún 13.",
+    "section8Title": "8. Àwọn Àyípadà sí Ìlànà Yìí",
+    "section8Text": "A lè ṣe ìmúdójúìwọ̀n ìlànà yìí lẹ́ẹ̀kọ̀ọ̀kan. Àwọn ìmúdójúìwọ̀n yóò jẹ́ fífi sí ojú ìwé yìí pẹ̀lú ọjọ́ \"Ìmúdójúìwọ̀n ìgbẹ̀yìn\" tuntun.",
+    "contactTitle": "Kàn Sí Wa",
+    "contactEmail": "Ímeèlì:",
+    "contactWebsite": "Ojú ìwé:"
+  },
+  "deleteData": {
+    "title": "Pa Dátà Mi",
+    "description": "O ní ẹ̀tọ́ láti béèrè pípa àkáǹtì rẹ àti dátà ara ẹni tó jọ mọ́ ọn. A máa ń ṣiṣẹ́ àwọn ìbéèrè láàárín ọjọ́ 30.",
+    "successMessage": "A ti ṣètò ìbéèrè rẹ. Jọ̀wọ́ fi ímeèlì tó ṣí sílẹ̀ nínú ohun èlò ímeèlì rẹ ránṣẹ́. A óò ṣiṣẹ́ rẹ̀ láàárín ọjọ́ 30.",
+    "emailLabel": "Ímeèlì tó so mọ́ àkáǹtì rẹ",
+    "usernameLabel": "Orúkọ olùlò (ì yàn)",
+    "scopeLabel": "Kí ni o fẹ́ kí a pa?",
+    "scopeFull": "Gbogbo rẹ̀ — pa àkáǹtì mi àti gbogbo dátà",
+    "scopeData": "Dátà nìkan — fi àkáǹtì sílẹ̀ ṣùgbọ́n pa dátà iṣẹ́",
+    "scopeProfile": "Ìpèsè nìkan — pa àlàyé ìpèsè",
+    "notesLabel": "Ǹkan míì?",
+    "confirmLabel": "Mo mọ̀ pé ìgbésẹ̀ yìí kò ṣeé yí padà.",
+    "submitButton": "Fi Ìbéèrè Síí",
+    "emailRequired": "Jọ̀wọ́ tẹ ímeèlì tó so mọ́ àkáǹtì rẹ.",
+    "scopeFullLabel": "Pípa àkáǹtì pípé + gbogbo dátà",
+    "scopeDataLabel": "Pípa dátà iṣẹ́ nìkan",
+    "scopeProfileLabel": "Pípa dátà ìpèsè nìkan",
+    "notProvided": "Kò pèsè",
+    "none": "Kò sí"
+  },
+  "common": {
+    "close": "Padé",
+    "download": "Gba ohun èlò náà (ń bọ̀ láìpẹ́)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Ṣàkóso",
+      "players": "Àwọn Agbábọ́ọ̀lù",
+      "squads": "Àwọn Ẹgbẹ́",
+      "venues": "Àwọn Ibi Eré",
+      "games": "Àwọn Eré",
+      "recent": "Tuntun"
+    },
+    "manager": {
+      "title": "Ṣàkóso",
+      "subtitle": "Ibi iṣẹ́ alákòóso rẹ",
+      "gamesManaged": "Eré tí a ń ṣàkóso",
+      "squadsManaged": "Ẹgbẹ́ tí a ń ṣàkóso",
+      "playersInSquads": "Agbábọ́ọ̀lù nínú ẹgbẹ́",
+      "upcoming": "Tí ń bọ̀",
+      "joinedGame": "{{name}} dara pọ̀ mọ́ eré kan"
+    },
+    "guest": {
+      "label": "Àlejò",
+      "join": "Dara pọ̀",
+      "newGame": "Eré Tuntun"
+    },
+    "player": {
+      "squadsCount": "Ẹgbẹ́ ({{count}})",
+      "upcomingGamesCount": "Eré Tí Ń Bọ̀ ({{count}})",
+      "left": "{{count}} kù"
+    },
+    "time": {
+      "today": "Lónìí",
+      "monday": "Ọjọ́ Ajé",
+      "tuesday": "Ọjọ́ Ìṣẹ́gun",
+      "wednesday": "Ọjọ́rú",
+      "thursday": "Ọjọ́bọ̀",
+      "friday": "Ọjọ́ Ẹtì",
+      "saturday": "Ọjọ́ Àbámẹ́ta",
+      "sunday": "Ọjọ́ Àìkú",
+      "at": "ní",
+      "days": "ọjọ́"
+    }
+  }
+}

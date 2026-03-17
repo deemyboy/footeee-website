@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Hal taabo si aad u hesho ciyaartaada xigta.",
+    "download": "Soo deji barnaamijka (waa imanaysa dhawaan)",
+    "learnMore": "Wax badan ka baro"
+  },
+  "roles": {
+    "heading": "Hal barnaamij qof kastaba",
+    "subheading": "Haddii aad rabto inaad eegto, ku biirto ciyaar, ama aad maamusho – Footeee ayaa kuu diyaar ah.",
+    "seeView": "Arag muuqaalka {{role}}",
+    "experience": "Khibradda {{role}}",
+    "guest": {
+      "title": "Marti",
+      "description": "Eeg farxadda kubadda firaaqada ku eeg.",
+      "longDescription": "Baadh dhammaan ciyaaraha soo socda, arag faahfaahin goobta, oo hubi ciyaartoyda diyaarka ah – dhammaantood akaankii la'aan. Waa ku haboon kuwa si joogto ah u daawada.",
+      "feature1": "Baadh dhammaan ciyaaraha",
+      "feature2": "Arag goobaha iyo waqtiyada",
+      "feature3": "Akaankii looma baahna"
+    },
+    "player": {
+      "title": "Ciyaaryahan",
+      "description": "Soo gelitaankaaga garoonka waa daqiiqado kaliya!",
+      "longDescription": "Ku biir ciyaaraha hal taabo, arag ciddii kale ee ciyaareysa, oo hel ogeysiisyo marka boos la helo ama ciyaar bilaabmeyso.",
+      "feature1": "Ku biir ciyaaraha si degdeg ah",
+      "feature2": "La soco kooxahaaga",
+      "feature3": "Hel ogeysiisyo"
+    },
+    "manager": {
+      "title": "Maamule",
+      "description": "U daa Footeee inay ilaaliso adduunkaaga kubadda!",
+      "longDescription": "Maamulis buuxa oo ku saabsan ciyaaraha, kooxaha, iyo ciyaartoyda. Abuur ciyaaro, u qoondo kooxo, la soco imaanshaha, oo maamusho bulshadaada kubadda.",
+      "feature1": "Abuur oo maamusho ciyaaraha",
+      "feature2": "Abaabul kooxaha",
+      "feature3": "Maamulis buuxa"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Dhammaan xuquuqda way dhowran yihiin.",
+    "quickLinks": "Xiriiriyaha Degdega",
+    "about": "Ku saabsan",
+    "features": "Astaamaha",
+    "privacy": "Qarsoodiga",
+    "download": "Soo deji",
+    "availableOn": "Waxaa lagu heli karaa iOS iyo Android"
+  },
+  "privacy": {
+    "title": "Siyaasadda Qarsoodiga",
+    "lastUpdated": "Markii ugu dambeysay la cusbooneysiiyay: {{date}}",
+    "intro": "Footeee (\"annaga\", \"kayaga\") waxay shaqeysiisaa barnaamijka moobiilka Footeee (\"Barnaamijka\") iyo boggan internetka. Siyaasaddan Qarsoodiga waxay sharaxaysaa sida aan u aruurino, u isticmaalno, u shaacino, oo u ilaalino macluumaadkaaga markaad isticmaasho Barnaamijka iyo adeegyada la xiriira.",
+    "section1Title": "1. Macluumaadka Aan Aruurino",
+    "section1Intro": "Waxaa laga yaabaa inaan aruurino qeybaha macluumaadka soo socda:",
+    "section1Item1": "Macluumaadka akaanka (tusaale, magaca, cinwaanka emailka, aqoonsiga gelitaanka qaab ammaan ah).",
+    "section1Item2": "Macluumaadka isticmaalka barnaamijka (tusaale, ciyaaraha aad abuurtay/ku biirtay, kooxaha, goobaha, iyo isdhexgalka).",
+    "section1Item3": "Xogta qalabka/farsamada (tusaale, nooca qalabka, nooca OS, nooca barnaamijka, baaritaanka).",
+    "section2Title": "2. Sida Aan U Isticmaalno Macluumaadkaaga",
+    "section2Item1": "Si loo abuuro oo loo maamusho akaankaaga.",
+    "section2Item2": "Si loo bixiyo astaamaha aasaasiga ah sida abuurista ciyaaraha, ku biirista, iyo maamulka kooxaha.",
+    "section2Item3": "Si loo bixiyo taageero oo loola jawaabo codsiyada.",
+    "section2Item4": "Si loo wanaajiyo aaminaadda, waxqabadka, iyo khibradda isticmaalaha.",
+    "section2Item5": "Si loo ilaaliyo amniga iyo daacadnimada adeegyadayada.",
+    "section2NoSell": "Ma iibin macluumaadkaaga shaqsiga ah.",
+    "section3Title": "3. Wadaagista iyo Shaacinta",
+    "section3Text": "Waxaa laga yaabaa inaan wadaagno macluumaadka kaliya sida ay lagama maarmaan u tahay in lagu shaqeeyo adeegga, la waafajiyo waajibaadka sharciga, ama la ilaaliyo xuquuqda iyo badbaadada. Tusaale, waxaan isticmaali karnaa bixiyeyaasha kaabayaasha (martigalinta, emailka, iwm.) ee ka shaqeeya xogta magacayaga iyagoo la socda ilaalinta ku haboon.",
+    "section4Title": "4. Kaydinta iyo Amniga Xogta",
+    "section4Text": "Waxaan isticmaalnaa tillaabooyin farsamada iyo habayn macquul ah si loo ilaaliyo macluumaadkaaga (tusaale, HTTPS, xakamaynta marin). Ma jirto hab gudbinta ama kaydinta oo ammaan ah 100%, sidaas darteed ma damaanad qaadi karno amni buuxda.",
+    "section5Title": "5. Haynta Xogta",
+    "section5Text": "Waxaan haynaa macluumaadka shaqsiga ah inta ay lagama maarmaan tahay in la bixiyo adeegga iyo ujeedooyinka ganacsiga sharciga ah (tusaale, waafaqida, amniga, xalinta khilaafaadka), haddii aan sharcigu u baahnayn muddo hayn dheer.",
+    "section6Title": "6. Xuquuqdaada",
+    "section6Text": "Iyadoo ku xiran goobta aad joogto (oo ay ku jiraan UK/EU), waxaa laga yaabaa inaad leedahay xuquuq aad ku gasho, saxdo, tirtirto, ama xaddiddo habaynta xogtaada shaqsiga, iyo inaad codsato wareejinta. Si aad u isticmaasho xuquuqdaas, nala soo xiriir.",
+    "section7Title": "7. Qarsoodiga Carruurta",
+    "section7Text": "Footeee looma talagalin carruurta ka yar 13 sano. Si ula kac ah ugama aruurino macluumaadka shaqsiga carruurta ka yar 13.",
+    "section8Title": "8. Isbedelada Siyaasaddaan",
+    "section8Text": "Waxaa laga yaabaa inaan cusbooneysiino siyaasaddaan waqti ka waqti. Cusbooneysiinta waxaa lagu soo dhigi doonaa boggan oo leh taariikh \"Markii ugu dambeysay la cusbooneysiiyay\" la beddelay.",
+    "contactTitle": "La xiriir",
+    "contactEmail": "Email:",
+    "contactWebsite": "Bogga internetka:"
+  },
+  "deleteData": {
+    "title": "Tirtir Xogtayda",
+    "description": "Waxaad xaq u leedahay inaad codsato in la tirtiro akaankaaga iyo xogta shaqsiga ee la xiriirta. Waxaan ka shaqeynaa codsiyada 30 maalmood gudahood.",
+    "successMessage": "Codsigaaga waa la diyaariyay. Fadlan dir emailka ku furmay barnaamijka emailkaaga. Waxaan ka shaqeyn doonaa 30 maalmood gudahood.",
+    "emailLabel": "Emailka ku xiran akaankaaga",
+    "usernameLabel": "Magaca isticmaalaha (ikhtiyaari)",
+    "scopeLabel": "Maxaad jeclaan lahayd in la tirtiro?",
+    "scopeFull": "Wax kasta — tirtir akaankayga iyo xogta oo dhan",
+    "scopeData": "Xogta kaliya — hay akaanka laakiin tirtir xogta dhaqdhaqaaqa",
+    "scopeProfile": "Profaylka kaliya — tirtir macluumaadka profaylka",
+    "notesLabel": "Wax kale?",
+    "confirmLabel": "Waan fahmay in ficilkan aan dib loo celin karin.",
+    "submitButton": "Gudbi Codsiga",
+    "emailRequired": "Fadlan geli emailka ku xiran akaankaaga.",
+    "scopeFullLabel": "Tirtirid buuxda akaanka + xogta oo dhan",
+    "scopeDataLabel": "Tirtirid xogta dhaqdhaqaaqa kaliya",
+    "scopeProfileLabel": "Tirtirid xogta profaylka kaliya",
+    "notProvided": "Lama bixin",
+    "none": "Midna"
+  },
+  "common": {
+    "close": "Xir",
+    "download": "Soo deji barnaamijka (waa imanaysa dhawaan)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Maamusho",
+      "players": "Ciyaartoyda",
+      "squads": "Kooxaha",
+      "venues": "Goobaha",
+      "games": "Ciyaaraha",
+      "recent": "Dhawaan"
+    },
+    "manager": {
+      "title": "Maamusho",
+      "subtitle": "Goobta shaqadaada maamulka",
+      "gamesManaged": "Ciyaaraha la maamulo",
+      "squadsManaged": "Kooxaha la maamulo",
+      "playersInSquads": "Ciyaartoyda kooxaha",
+      "upcoming": "Soo socda",
+      "joinedGame": "{{name}} wuxuu ku biiray ciyaar"
+    },
+    "guest": {
+      "label": "Marti",
+      "join": "Ku biir",
+      "newGame": "Ciyaar Cusub"
+    },
+    "player": {
+      "squadsCount": "Kooxaha ({{count}})",
+      "upcomingGamesCount": "Ciyaaraha Soo Socda ({{count}})",
+      "left": "{{count}} haray"
+    },
+    "time": {
+      "today": "Maanta",
+      "monday": "Isniin",
+      "tuesday": "Talaado",
+      "wednesday": "Arbaco",
+      "thursday": "Khamiis",
+      "friday": "Jimce",
+      "saturday": "Sabti",
+      "sunday": "Axad",
+      "at": "markay tahay",
+      "days": "maalmood"
+    }
+  }
+}

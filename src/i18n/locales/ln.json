@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Finá moko mpe okozwa masano na yo ya sika.",
+    "download": "Kamata appli (ezali koya)",
+    "learnMore": "Yeba lisusu"
+  },
+  "roles": {
+    "heading": "Appli moko mpo na bato nyonso",
+    "subheading": "Soki olingi kotala, kokɔta na masano, to kokamba – Footeee ezali mpo na yo.",
+    "seeView": "Tala vue ya {{role}}",
+    "experience": "Expérience ya {{role}}",
+    "guest": {
+      "title": "Mopaya",
+      "description": "Talá biloko kitoko ya football na kimya na yo.",
+      "longDescription": "Talá masano nyonso oyo ezali koya, esika ya masano, mpe bato oyo bazali liboso – nyonso kozanga kofungola konte. Malamu mpo na bato oyo balingaka football.",
+      "feature1": "Talá masano nyonso",
+      "feature2": "Talá bisika mpe ntango",
+      "feature3": "Konte ezali na ntina te"
+    },
+    "player": {
+      "title": "Mobɛti",
+      "description": "Masano na yo ya sika ezali na mwa miniti!",
+      "longDescription": "Kɔtá na masano na finá moko, talá banani bazali kobɛta, mpe zwa bansango ntango esika efungwami to masano ekobanda.",
+      "feature1": "Kɔtá na masano noki",
+      "feature2": "Landá ba-équipe na yo",
+      "feature3": "Zwa bansango"
+    },
+    "manager": {
+      "title": "Mokambi",
+      "description": "Tiká Footeee ebatela mokili na yo ya football!",
+      "longDescription": "Bokambi mobimba ya masano, ba-équipe, mpe babɛti. Salá masano, poná ba-équipe, landá boyei, mpe kamba lisanga na yo ya football.",
+      "feature1": "Salá mpe kamba masano",
+      "feature2": "Bongisa ba-équipe",
+      "feature3": "Bokambi mobimba"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Makoki nyonso ebombami.",
+    "quickLinks": "Ba-lien ya noki",
+    "about": "Makambo",
+    "features": "Makambo ya ntina",
+    "privacy": "Bonkɔkɔ",
+    "download": "Kamata",
+    "availableOn": "Ezali na iOS mpe Android"
+  },
+  "privacy": {
+    "title": "Politiki ya bonkɔkɔ",
+    "lastUpdated": "Mbongwana ya suka: {{date}}",
+    "intro": "Footeee (\"biso\", \"ya biso\") esalaka appli ya Footeee mpo na portable (\"Appli\") mpe site oyo ya internet. Politiki oyo ya bonkɔkɔ elimboli ndenge nini tozwaka, tosalelaka, topesaka, mpe tobatelaka makambo na yo ntango osalelaka Appli mpe misala oyo ekangami na yango.",
+    "section1Title": "1. Makambo oyo tozwaka",
+    "section1Intro": "Tokoki kozwa makambo oyo:",
+    "section1Item1": "Makambo ya konte (ndakisa: nkombo, adrɛsi ya email, makambo ya bokɔti na ndenge ya kobombama).",
+    "section1Item2": "Makambo ya kosalela appli (ndakisa: masano oyo osali/okɔti, ba-équipe, bisika, mpe makambo mosusu).",
+    "section1Item3": "Makambo ya aparɛyi/tekniki (ndakisa: lolenge ya aparɛyi, vɛrsio ya OS, vɛrsio ya appli, bidiagnostiki).",
+    "section2Title": "2. Ndenge tosalelaka makambo na yo",
+    "section2Item1": "Mpo na kosala mpe kokamba konte na yo.",
+    "section2Item2": "Mpo na kopesa misala ya ntina lokola kosala masano, kokɔta, mpe kokamba ba-équipe.",
+    "section2Item3": "Mpo na kopesa lisungi mpe koyanola na masengi.",
+    "section2Item4": "Mpo na kobongisa bosaleli, makoki, mpe expérience ya mosaleli.",
+    "section2Item5": "Mpo na kobatela bosembo mpe bobateli ya misala na biso.",
+    "section2NoSell": "Totɛkaka makambo na yo ya moto te.",
+    "section3Title": "3. Kopesa mpe kolakisa",
+    "section3Text": "Tokoki kopesa makambo kaka soki esengeli mpo misala esalema, mpo na kolanda mibeko, to mpo na kobatela makoki mpe bosembo. Ndakisa, tokoki kosalela ba-fournisseur ya infrastrikture (hébergement, email, etc.) oyo basalelaka makambo na esika na biso na nse ya bibateli oyo ekoki.",
+    "section4Title": "4. Kobomba mpe kobatela makambo",
+    "section4Text": "Tosalelaka mayele ya tekniki mpe ya ebongiseli oyo ekoki mpo na kobatela makambo na yo (ndakisa: HTTPS, bokɔntrɔli ya bokɔti). Lolenge nini ya kotinda to kobomba ezali 100% ya bosembo te, yango wana tokoki kopesa garantie ya bosembo ya mobimba te.",
+    "section5Title": "5. Ntango ya kobomba makambo",
+    "section5Text": "Tobombaka makambo ya moto ntango nyonso oyo esengeli mpo na kopesa mosala mpe mpo na makambo ya malamu ya mombongo (ndakisa: kolanda mibeko, bosembo, kosilisa matata), longola soki mibeko esengi ntango molai koleka.",
+    "section6Title": "6. Makoki na yo",
+    "section6Text": "Kolanda esika ozali (ezala UK/EU), okoki kozala na makoki ya kozwa, kobongisa, kolimwisa, to kopekisa bosaleli ya makambo na yo ya moto, mpe kosenga boportabilité. Mpo na kosalela makoki oyo, benga biso.",
+    "section7Title": "7. Bonkɔkɔ ya bana",
+    "section7Text": "Footeee esalemi mpo na bana na nse ya mbula 13 te. Tozwaka na nko te makambo ya moto ya bana na nse ya mbula 13.",
+    "section8Title": "8. Mbongwana ya politiki oyo",
+    "section8Text": "Tokoki kobongola politiki oyo na ntango. Mbongwana ekotiama na lokasa oyo na dati ya sika ya \"Mbongwana ya suka\".",
+    "contactTitle": "Kokutana",
+    "contactEmail": "Email:",
+    "contactWebsite": "Site internet:"
+  },
+  "deleteData": {
+    "title": "Limwisa makambo na ngai",
+    "description": "Ozali na makoki ya kosenga bolimwisi ya konte na yo mpe makambo ya moto oyo ekangami na yango. Tosalelaka masengi na mikolo 30.",
+    "successMessage": "Lisengi na yo ebongisamá. Tindá email oyo efungwamaki na appli na yo ya email. Tokosala yango na mikolo 30.",
+    "emailLabel": "Email oyo ekangami na konte na yo",
+    "usernameLabel": "Nkombo ya mosaleli (soki olingi)",
+    "scopeLabel": "Olingi nini elimwisama?",
+    "scopeFull": "Nyonso — limwisá konte na ngai mpe makambo nyonso",
+    "scopeData": "Makambo kaka — batelá konte kasi limwisá makambo ya masano",
+    "scopeProfile": "Profili kaka — limwisá makambo ya profili",
+    "notesLabel": "Likambo mosusu?",
+    "confirmLabel": "Nayebi ete likambo oyo ekoki kozonga nsima te.",
+    "submitButton": "Tinda lisengi",
+    "emailRequired": "Svp kotá email oyo ekangami na konte na yo.",
+    "scopeFullLabel": "Bolimwisi ya konte mobimba + makambo nyonso",
+    "scopeDataLabel": "Bolimwisi ya makambo ya masano kaka",
+    "scopeProfileLabel": "Bolimwisi ya makambo ya profili kaka",
+    "notProvided": "Epesamá te",
+    "none": "Eloko te"
+  },
+  "common": {
+    "close": "Kanga",
+    "download": "Kamata appli (ezali koya)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Kamba",
+      "players": "Babɛti",
+      "squads": "Ba-équipe",
+      "venues": "Bisika",
+      "games": "Masano",
+      "recent": "Ya sika"
+    },
+    "manager": {
+      "title": "Kamba",
+      "subtitle": "Esika na yo ya mosala ya mokambi",
+      "gamesManaged": "Masano oyo ekambami",
+      "squadsManaged": "Ba-équipe oyo ekambami",
+      "playersInSquads": "Babɛti na ba-équipe",
+      "upcoming": "Ezali koya",
+      "joinedGame": "{{name}} akɔti na masano"
+    },
+    "guest": {
+      "label": "Mopaya",
+      "join": "Kɔtá",
+      "newGame": "Masano ya Sika"
+    },
+    "player": {
+      "squadsCount": "Ba-équipe ({{count}})",
+      "upcomingGamesCount": "Masano Ezali Koya ({{count}})",
+      "left": "{{count}} etikali"
+    },
+    "time": {
+      "today": "Lelo",
+      "monday": "Mokolo ya yambo",
+      "tuesday": "Mokolo ya mibale",
+      "wednesday": "Mokolo ya misato",
+      "thursday": "Mokolo ya minei",
+      "friday": "Mokolo ya mitano",
+      "saturday": "Mpɔ́sɔ",
+      "sunday": "Eyenga",
+      "at": "na",
+      "days": "mikolo"
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Bir dokunuşla bir sonraki maçını bul.",
+    "download": "Uygulamayı indir (yakında)",
+    "learnMore": "Daha fazla bilgi"
+  },
+  "roles": {
+    "heading": "Herkes için tek uygulama",
+    "subheading": "İster sadece göz atmak, ister bir maça katılmak, ister organizasyonu yönetmek isteyin – Footeee her şeyi halleder.",
+    "seeView": "{{role}} görünümünü gör",
+    "experience": "{{role}} Deneyimi",
+    "guest": {
+      "title": "Misafir",
+      "description": "Futbol keyiflerimize dilediğiniz zaman göz atın.",
+      "longDescription": "Yaklaşan tüm maçlara göz atın, mekan detaylarını görün ve oyuncu durumlarını kontrol edin – hesap açmadan. Sıradan futbolseverler için ideal.",
+      "feature1": "Tüm maçlara göz at",
+      "feature2": "Mekanları ve saatleri gör",
+      "feature3": "Hesap gerekmez"
+    },
+    "player": {
+      "title": "Oyuncu",
+      "description": "Bir sonraki sahaya çıkışınız sadece birkaç dakika uzakta!",
+      "longDescription": "Tek dokunuşla maçlara katılın, kimlerin oynadığını görün ve bir yer açıldığında veya maç başlamak üzereyken bildirim alın.",
+      "feature1": "Anında maçlara katıl",
+      "feature2": "Takımlarını takip et",
+      "feature3": "Bildirim al"
+    },
+    "manager": {
+      "title": "Yönetici",
+      "description": "Footeee futbol dünyanızla ilgilensin!",
+      "longDescription": "Maçlar, takımlar ve oyuncular üzerinde tam kontrol. Maç oluşturun, takım belirleyin, katılımı takip edin ve futbol topluluğunuzu yönetin.",
+      "feature1": "Maç oluştur ve yönet",
+      "feature2": "Takımları düzenle",
+      "feature3": "Tam kontrol"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Tüm hakları saklıdır.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "about": "Hakkında",
+    "features": "Özellikler",
+    "privacy": "Gizlilik",
+    "download": "İndir",
+    "availableOn": "iOS ve Android'de mevcut"
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası",
+    "lastUpdated": "Son güncelleme: {{date}}",
+    "intro": "Footeee (\"biz\", \"bizim\") Footeee mobil uygulamasını (\"Uygulama\") ve bu web sitesini işletmektedir. Bu Gizlilik Politikası, Uygulamayı ve ilgili hizmetleri kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı, açıkladığımızı ve koruduğumuzu açıklar.",
+    "section1Title": "1. Topladığımız Bilgiler",
+    "section1Intro": "Aşağıdaki bilgi kategorilerini toplayabiliriz:",
+    "section1Item1": "Hesap bilgileri (ör. ad, e-posta adresi, şifrelenmiş/güvenli formda giriş kimlik bilgileri).",
+    "section1Item2": "Uygulama kullanım bilgileri (ör. oluşturduğunuz/katıldığınız maçlar, takımlar, mekanlar ve etkileşimler).",
+    "section1Item3": "Cihaz/teknik veriler (ör. cihaz türü, işletim sistemi sürümü, uygulama sürümü, tanılama).",
+    "section2Title": "2. Bilgilerinizi Nasıl Kullanıyoruz",
+    "section2Item1": "Hesabınızı oluşturmak ve yönetmek için.",
+    "section2Item2": "Maç oluşturma, katılma ve takım yönetimi gibi temel özellikleri sağlamak için.",
+    "section2Item3": "Destek sağlamak ve taleplere yanıt vermek için.",
+    "section2Item4": "Güvenilirliği, performansı ve kullanıcı deneyimini iyileştirmek için.",
+    "section2Item5": "Hizmetlerimizin güvenliğini ve bütünlüğünü korumak için.",
+    "section2NoSell": "Kişisel bilgilerinizi satmıyoruz.",
+    "section3Title": "3. Paylaşım ve Açıklama",
+    "section3Text": "Bilgileri yalnızca hizmeti işletmek, yasal yükümlülüklere uymak veya hakları ve güvenliği korumak için gerekli olduğu ölçüde paylaşabiliriz. Örneğin, uygun güvenceler altında verilerinizi bizim adımıza işleyen altyapı sağlayıcıları (barındırma, e-posta vb.) kullanabiliriz.",
+    "section4Title": "4. Veri Depolama ve Güvenlik",
+    "section4Text": "Bilgilerinizi korumak için makul teknik ve organizasyonel önlemler kullanıyoruz (ör. HTTPS, erişim kontrolleri). Hiçbir iletim veya depolama yöntemi %100 güvenli değildir, bu nedenle mutlak güvenliği garanti edemeyiz.",
+    "section5Title": "5. Veri Saklama",
+    "section5Text": "Kişisel bilgileri, hizmeti sağlamak ve meşru iş amaçları (ör. uyum, güvenlik, uyuşmazlık çözümü) için gerekli olduğu sürece saklarız; ancak yasalar daha uzun bir saklama süresi gerektiriyorsa buna uyarız.",
+    "section6Title": "6. Haklarınız",
+    "section6Text": "Bulunduğunuz yere bağlı olarak (Birleşik Krallık/AB dahil), kişisel verilerinize erişme, düzeltme, silme veya işlenmesini kısıtlama ve taşınabilirlik talep etme haklarınız olabilir. Bu hakları kullanmak için bizimle iletişime geçin.",
+    "section7Title": "7. Çocukların Gizliliği",
+    "section7Text": "Footeee 13 yaşın altındaki çocuklara yönelik değildir. 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamıyoruz.",
+    "section8Title": "8. Bu Politikadaki Değişiklikler",
+    "section8Text": "Bu politikayı zaman zaman güncelleyebiliriz. Güncellemeler, revize edilmiş \"Son güncelleme\" tarihiyle bu sayfada yayınlanacaktır.",
+    "contactTitle": "İletişim",
+    "contactEmail": "E-posta:",
+    "contactWebsite": "Web sitesi:"
+  },
+  "deleteData": {
+    "title": "Verilerimi Sil",
+    "description": "Hesabınızın ve ilişkili kişisel verilerinizin silinmesini talep etme hakkınız vardır. Talepleri 30 gün içinde işleme alıyoruz.",
+    "successMessage": "Talebiniz hazırlandı. Lütfen posta uygulamanızda açılan e-postayı gönderin. 30 gün içinde işleme alacağız.",
+    "emailLabel": "Hesabınıza bağlı e-posta",
+    "usernameLabel": "Kullanıcı adı (isteğe bağlı)",
+    "scopeLabel": "Neyin silinmesini istiyorsunuz?",
+    "scopeFull": "Her şey — hesabımı ve tüm verilerimi sil",
+    "scopeData": "Yalnızca veriler — hesabı koru ama etkinlik verilerini sil",
+    "scopeProfile": "Yalnızca profil — profil bilgilerini sil",
+    "notesLabel": "Başka bir şey var mı?",
+    "confirmLabel": "Bu işlemin geri alınamaz olduğunu anlıyorum.",
+    "submitButton": "Talebi Gönder",
+    "emailRequired": "Lütfen hesabınıza bağlı e-postayı girin.",
+    "scopeFullLabel": "Tam hesap + tüm veri silme",
+    "scopeDataLabel": "Yalnızca etkinlik verisi silme",
+    "scopeProfileLabel": "Yalnızca profil verisi silme",
+    "notProvided": "Belirtilmedi",
+    "none": "Yok"
+  },
+  "common": {
+    "close": "Kapat",
+    "download": "Uygulamayı indir (yakında)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Yonet",
+      "players": "Oyuncular",
+      "squads": "Takimlar",
+      "venues": "Mekanlar",
+      "games": "Maclar",
+      "recent": "Son"
+    },
+    "manager": {
+      "title": "Yonet",
+      "subtitle": "Yonetici calisma alaniniz",
+      "gamesManaged": "Yonetilen maclar",
+      "squadsManaged": "Yonetilen takimlar",
+      "playersInSquads": "Takimlardaki oyuncular",
+      "upcoming": "Yaklasan",
+      "joinedGame": "{{name}} bir maca katildi"
+    },
+    "guest": {
+      "label": "Misafir",
+      "join": "Katil",
+      "newGame": "Yeni Mac"
+    },
+    "player": {
+      "squadsCount": "Takimlar ({{count}})",
+      "upcomingGamesCount": "Yaklasan Maclar ({{count}})",
+      "left": "{{count}} kaldi"
+    },
+    "time": {
+      "today": "Bugun",
+      "monday": "Pazartesi",
+      "tuesday": "Sali",
+      "wednesday": "Carsamba",
+      "thursday": "Persembe",
+      "friday": "Cuma",
+      "saturday": "Cumartesi",
+      "sunday": "Pazar",
+      "at": "saat",
+      "days": "gun"
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "tagline": "Gusa mara moja upate mechi yako inayofuata.",
+    "download": "Pakua programu (inakuja hivi karibuni)",
+    "learnMore": "Jifunze zaidi"
+  },
+  "roles": {
+    "heading": "Programu moja kwa kila mtu",
+    "subheading": "Iwe unataka kutazama, kujiunga na mechi, au kusimamia – Footeee inakusaidia.",
+    "seeView": "Tazama mtazamo wa {{role}}",
+    "experience": "Uzoefu wa {{role}}",
+    "guest": {
+      "title": "Mgeni",
+      "description": "Tazama starehe zetu za mpira wa miguu kwa utulivu.",
+      "longDescription": "Vinjari mechi zote zijazo, tazama maelezo ya uwanja, na angalia upatikanaji wa wachezaji – yote bila akaunti. Bora kwa mashabiki wa kawaida.",
+      "feature1": "Vinjari mechi zote",
+      "feature2": "Tazama viwanja na nyakati",
+      "feature3": "Hakuna akaunti inayohitajika"
+    },
+    "player": {
+      "title": "Mchezaji",
+      "description": "Mechi yako inayofuata iko dakika chache tu mbali!",
+      "longDescription": "Jiunge na mechi kwa guso moja, tazama nani mwingine anacheza, na upokee arifa nafasi inapofunguka au mechi inakaribia kuanza.",
+      "feature1": "Jiunge na mechi papo hapo",
+      "feature2": "Fuatilia timu zako",
+      "feature3": "Pokea arifa"
+    },
+    "manager": {
+      "title": "Meneja",
+      "description": "Acha Footeee ishughulikie ulimwengu wako wa mpira wa miguu!",
+      "longDescription": "Udhibiti kamili wa mechi, timu, na wachezaji. Unda mechi, teua timu, fuatilia mahudhurio, na simamia jumuiya yako ya mpira wa miguu.",
+      "feature1": "Unda na simamia mechi",
+      "feature2": "Pangilia timu",
+      "feature3": "Udhibiti kamili"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Footeee. Haki zote zimehifadhiwa.",
+    "quickLinks": "Viungo vya Haraka",
+    "about": "Kuhusu",
+    "features": "Vipengele",
+    "privacy": "Faragha",
+    "download": "Pakua",
+    "availableOn": "Inapatikana kwenye iOS na Android"
+  },
+  "privacy": {
+    "title": "Sera ya Faragha",
+    "lastUpdated": "Ilisasishwa mwisho: {{date}}",
+    "intro": "Footeee (\"sisi\", \"yetu\") inaendesha programu ya simu ya Footeee (\"Programu\") na tovuti hii. Sera hii ya Faragha inaeleza jinsi tunavyokusanya, kutumia, kufichua, na kulinda taarifa zako unapotumia Programu na huduma zinazohusiana.",
+    "section1Title": "1. Taarifa Tunazokusanya",
+    "section1Intro": "Tunaweza kukusanya makundi yafuatayo ya taarifa:",
+    "section1Item1": "Taarifa za akaunti (k.m., jina, anwani ya barua pepe, vitambulisho vya kuingia katika hali salama).",
+    "section1Item2": "Taarifa za matumizi ya programu (k.m., mechi unazounda/kujiunga nazo, timu, viwanja, na mwingiliano).",
+    "section1Item3": "Data ya kifaa/kiufundi (k.m., aina ya kifaa, toleo la mfumo wa uendeshaji, toleo la programu, uchunguzi).",
+    "section2Title": "2. Jinsi Tunavyotumia Taarifa Zako",
+    "section2Item1": "Kuunda na kusimamia akaunti yako.",
+    "section2Item2": "Kutoa vipengele vya msingi kama vile kuunda mechi, kujiunga, na usimamizi wa timu.",
+    "section2Item3": "Kutoa msaada na kujibu maombi.",
+    "section2Item4": "Kuboresha uaminifu, utendaji, na uzoefu wa mtumiaji.",
+    "section2Item5": "Kulinda usalama na uadilifu wa huduma zetu.",
+    "section2NoSell": "Hatuuzi taarifa zako za kibinafsi.",
+    "section3Title": "3. Kushiriki na Kufichua",
+    "section3Text": "Tunaweza kushiriki taarifa tu inapohitajika kuendesha huduma, kuzingatia wajibu wa kisheria, au kulinda haki na usalama. Kwa mfano, tunaweza kutumia watoa huduma wa miundombinu (uhifadhi, barua pepe, n.k.) wanaoshughulikia data kwa niaba yetu chini ya ulinzi unaofaa.",
+    "section4Title": "4. Uhifadhi na Usalama wa Data",
+    "section4Text": "Tunatumia hatua za kiufundi na shirika zinazofaa kulinda taarifa zako (k.m., HTTPS, udhibiti wa ufikiaji). Hakuna njia ya upokezaji au uhifadhi ambayo ni salama kwa 100%, kwa hivyo hatuwezi kuhakikisha usalama kamili.",
+    "section5Title": "5. Uhifadhi wa Data",
+    "section5Text": "Tunahifadhi taarifa za kibinafsi kadri inavyohitajika kutoa huduma na kwa madhumuni halali ya biashara (k.m., uzingatiaji, usalama, utatuzi wa migogoro), isipokuwa muda mrefu zaidi wa uhifadhi unahitajika na sheria.",
+    "section6Title": "6. Haki Zako",
+    "section6Text": "Kulingana na mahali ulipo (ikiwa ni pamoja na Uingereza/EU), unaweza kuwa na haki za kufikia, kusahihisha, kufuta, au kuzuia usindikaji wa data yako ya kibinafsi, na kuomba uhamishaji. Ili kutumia haki hizi, wasiliana nasi.",
+    "section7Title": "7. Faragha ya Watoto",
+    "section7Text": "Footeee haikuundwa kwa watoto chini ya miaka 13. Hatukusanyi kwa makusudi taarifa za kibinafsi kutoka kwa watoto chini ya miaka 13.",
+    "section8Title": "8. Mabadiliko ya Sera Hii",
+    "section8Text": "Tunaweza kusasisha sera hii mara kwa mara. Masasisho yatachapishwa kwenye ukurasa huu na tarehe mpya ya \"Ilisasishwa mwisho\".",
+    "contactTitle": "Wasiliana Nasi",
+    "contactEmail": "Barua pepe:",
+    "contactWebsite": "Tovuti:"
+  },
+  "deleteData": {
+    "title": "Futa Data Yangu",
+    "description": "Una haki ya kuomba ufutaji wa akaunti yako na data yako ya kibinafsi inayohusiana. Tunashughulikia maombi ndani ya siku 30.",
+    "successMessage": "Ombi lako limeandaliwa. Tafadhali tuma barua pepe iliyofunguka kwenye programu yako ya barua. Tutashughulikia ndani ya siku 30.",
+    "emailLabel": "Barua pepe inayohusiana na akaunti yako",
+    "usernameLabel": "Jina la mtumiaji (si lazima)",
+    "scopeLabel": "Ungependa nini kifutwe?",
+    "scopeFull": "Kila kitu — futa akaunti yangu na data yote",
+    "scopeData": "Data tu — weka akaunti lakini futa data ya shughuli",
+    "scopeProfile": "Wasifu tu — futa taarifa za wasifu",
+    "notesLabel": "Kitu kingine chochote?",
+    "confirmLabel": "Ninaelewa kitendo hiki hakiwezi kutenduliwa.",
+    "submitButton": "Wasilisha Ombi",
+    "emailRequired": "Tafadhali weka barua pepe inayohusiana na akaunti yako.",
+    "scopeFullLabel": "Ufutaji kamili wa akaunti na data yote",
+    "scopeDataLabel": "Ufutaji wa data ya shughuli tu",
+    "scopeProfileLabel": "Ufutaji wa data ya wasifu tu",
+    "notProvided": "Haijatolewa",
+    "none": "Hakuna"
+  },
+  "common": {
+    "close": "Funga",
+    "download": "Pakua programu (inakuja hivi karibuni)"
+  },
+  "mockup": {
+    "nav": {
+      "manage": "Simamia",
+      "players": "Wachezaji",
+      "squads": "Timu",
+      "venues": "Viwanja",
+      "games": "Mechi",
+      "recent": "Za hivi karibuni"
+    },
+    "manager": {
+      "title": "Simamia",
+      "subtitle": "Eneo lako la kazi la meneja",
+      "gamesManaged": "Mechi zinazosimamiwa",
+      "squadsManaged": "Timu zinazosimamiwa",
+      "playersInSquads": "Wachezaji katika timu",
+      "upcoming": "Zinazokuja",
+      "joinedGame": "{{name}} amejiunga na mechi"
+    },
+    "guest": {
+      "label": "Mgeni",
+      "join": "Jiunge",
+      "newGame": "Mechi Mpya"
+    },
+    "player": {
+      "squadsCount": "Timu ({{count}})",
+      "upcomingGamesCount": "Mechi Zijazo ({{count}})",
+      "left": "{{count}} zimebaki"
+    },
+    "time": {
+      "today": "Leo",
+      "monday": "Jumatatu",
+      "tuesday": "Jumanne",
+      "wednesday": "Jumatano",
+      "thursday": "Alhamisi",
+      "friday": "Ijumaa",
+      "saturday": "Jumamosi",
+      "sunday": "Jumapili",
+      "at": "saa",
+      "days": "siku"
+    }
+  }
+}
